@@ -153,3 +153,43 @@ Custo direto; custo indireto; custo fixo; custo variável; markup; margem de con
 - CPC 03 (R2), Demonstração dos Fluxos de Caixa: https://www.cpc.org.br/
 
 > **Nota de rigor:** exemplos numéricos são didáticos e não representam preços, margens ou custos reais da MadePrimer. Fórmulas simplificadas dependem de premissas e classificação correta dos gastos; mix de projetos altera o resultado. Tributos, regime fiscal, encargos, retenções e obrigações legais devem ser validados com contador habilitado e fontes oficiais vigentes. Não utilizar percentuais genéricos para substituir levantamento de custos e cotações reais.
+
+
+## Aprofundamento PCH — vender valor sem perder o domínio dos números
+
+> A emoção ajuda o cliente a reconhecer valor. A gestão financeira garante que a empresa consiga entregar o que prometeu.
+
+### Aula 1 — Custo completo e memória dos projetos
+Monte orçamento por ambiente com materiais, ferragens, acessórios, mão de obra, terceirização, perdas previstas, embalagem, transporte, instalação, comissão, impostos, despesas alocadas e contingências justificadas. Diferencie custo, despesa, investimento, desembolso, margem e markup. Registre premissas, validade dos preços, fontes e itens ainda não confirmados. Não use uma porcentagem genérica para cobrir custos desconhecidos.
+
+**Memória profissional guiada:** recorde um projeto que parecia simples no início, mas exigiu mais tempo, deslocamento, ajuste ou material do que se imaginava. Qual item ficou invisível no orçamento? Como você o identificaria hoje?
+
+**PCH em ação:** “Quero que o investimento esteja ligado ao que realmente será entregue. Vou abrir os componentes principais para você entender onde estão os materiais, os detalhes e os serviços envolvidos.” Transparência não exige expor informação confidencial ou custos internos que não fazem parte da proposta.
+
+### Aula 2 — Margem, fluxo de caixa e cenários de negociação
+Calcule preço e margem com método consistente. Diferencie margem sobre venda de acréscimo sobre custo; verifique impostos, comissões, taxas financeiras e despesas variáveis. Projete entradas e saídas por data, sinal, parcelas, compras, produção, instalação e recebimentos. Faça cenários base, conservador e de risco; avalie impacto de desconto, prazo, alteração de escopo e parcelamento. Desconto sem contrapartida pode reduzir margem sem aumentar a probabilidade de fechamento.
+
+**Exercício:** simule três propostas com mesmo escopo e condições distintas. Compare receita líquida estimada, contribuição, cronograma de caixa e riscos. Não invente números de mercado: use dados reais da empresa ou um conjunto didático claramente identificado.
+
+**PCH em ação — defender preço com clareza:** “Podemos ajustar o investimento, mas precisamos decidir juntos o que muda: escopo, material, prazo ou condição. Prefiro preservar o que é essencial para o resultado a prometer a mesma entrega por um valor que não sustenta o projeto.”
+
+### Aula 3 — Valor percebido, proposta e decisão responsável
+O cliente avalia preço junto com confiança, adequação, estética, durabilidade esperada, manutenção, clareza de escopo e risco percebido. Demonstre valor com evidências: desenho, amostra, especificação, ferragem definida, etapas, garantia contratual e plano de entrega. Não transforme desejo em promessa de durabilidade sem documentação. Apresente alternativas comparáveis, explicando o que muda e o que permanece.
+
+**Memória profissional guiada:** recorde uma situação em que o cliente escolheu uma solução não por ser a mais barata, mas porque compreendeu a diferença de acabamento, aproveitamento, funcionalidade ou atendimento. Qual evidência ajudou a decisão?
+
+**PCH em ação — fechamento sem pressão:** “Pelo que você me contou, esta opção atende aos pontos que consideramos prioritários. O que ainda precisa ficar claro para você se sentir seguro em avançar?” Se houver prontidão: “Se estiver de acordo com o escopo e as condições, podemos formalizar esta etapa e iniciar o próximo passo.”
+
+**Instrumento de campo — mapa econômico da proposta:** escopo; premissas; materiais; ferragens; serviços; prazo; condições; validade; exclusões; riscos; opções; margem interna; decisão; próximo passo.
+
+**Rubrica:** custos completos (25%); cálculos e cenários (25%); clareza de valor (20%); negociação responsável (20%); registro (10%).
+
+### Referências específicas por aula
+- **Aula 1:** Horngren, Datar & Rajan, *Cost Accounting: A Managerial Emphasis* (edições recentes); Sebrae, materiais de formação de preço e gestão financeira empresarial.
+- **Aula 2:** Gitman & Zutter, *Principles of Managerial Finance* (edições recentes); Sebrae, fluxo de caixa e formação de preço; legislação tributária aplicável com orientação contábil.
+- **Aula 3:** Zeithaml (1988), “Consumer Perceptions of Price, Quality, and Value”, *Journal of Marketing*, DOI https://doi.org/10.1177/002224298805200302; Anderson, Narus & van Rossum (2006), “Customer Value Propositions in Business Markets”, *Harvard Business Review*.
+
+**Limite ético:** não inventar escassez, urgência, desconto ou garantia. Não ocultar limitações nem induzir o cliente a comprometer recursos além de sua capacidade.
+
+### Fechamento PCH — firmeza com humanidade
+“Preço precisa fechar a conta da empresa. Valor precisa fazer sentido para o cliente. A venda sustentável acontece quando os dois lados conseguem dizer sim sem esconder a realidade.”

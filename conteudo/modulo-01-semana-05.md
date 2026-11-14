@@ -103,3 +103,30 @@ Substrato; MDF; MDP; compensado; HPL; BP; inchamento; ficha técnica.
 7. ABNT NBR 15761 — *Móveis de madeira — Requisitos e métodos de ensaios para laminados decorativos*. Consultar edição vigente e escopo no Catálogo ABNT.
 
 > **Nota de rigor:** MDF, MDP, compensado e madeira maciça não podem ser classificados por escala universal de qualidade. Desempenho depende do produto específico, classe, espessura, vão, apoio, fixação, revestimento, exposição e execução. Consulte as edições vigentes das normas no catálogo oficial da ABNT; esta aula não substitui o texto normativo, a ficha técnica, o dimensionamento ou a validação do responsável técnico. “Resistente à umidade” não significa impermeável.
+
+
+## Aprofundamento aplicado — especificação baseada em evidências
+
+### Aula 1 — Seleção do substrato por requisito
+Antes de escolher MDF, MDP, compensado ou madeira maciça, descreva função, solicitação, ambiente, processo e evidência. Separe requisitos eliminatórios (classe de uso, exposição e compatibilidade) de critérios comparativos (custo, usinabilidade, acabamento, disponibilidade e prazo). Registre código comercial e revisão da ficha técnica; não escolha pelo nome genérico da família. Compare valores somente quando método, unidade e condição de ensaio forem equivalentes.
+
+**Laboratório:** compare dois painéis para a mesma peça. Preencha requisito, dado técnico, método/unidade, fonte, lacuna e decisão. Explique quais informações faltam para dimensionar uma prateleira de livros.
+
+### Aula 2 — Umidade e durabilidade: projetar o detalhe vulnerável
+O risco concentra-se frequentemente em bordas, recortes, furos, encontros com paredes, rodapés, sifões e pontos de água parada. Desenhe a seção do gabinete, marque fontes de respingo/vazamento/vapor, identifique juntas e faces expostas, especifique proteção compatível com o fabricante e preveja acesso para inspeção. “Resistente à umidade” não significa impermeável.
+
+**Estudo de falha:** fundo de gabinete inchado após vazamento. Diferencie causa primária, vulnerabilidade de projeto, falha de instalação e manutenção. Não atribua automaticamente o dano à qualidade do painel.
+
+### Aula 3 — Especificação rastreável e recebimento
+Adote a cadeia: requisito → componente no desenho → código de material → ficha técnica → pedido → lote recebido → inspeção → liberação. Substituição só é equivalente quando requisitos relevantes são comparados e a alteração aprovada. Arquive ficha e amostra aprovadas, registre fornecedor/lote, fotografe avarias, segregue material não conforme e documente a decisão.
+
+**Ficha mínima:** componente; função; substrato; código; espessura; revestimento; bordas; exposição; requisito crítico; documento; lote; status.
+
+**Rubrica:** compatibilidade aplicação/material (30%); interpretação da ficha (25%); prevenção de riscos (20%); rastreabilidade (15%); comunicação de pendências (10%).
+
+### Referências específicas por aula
+- **Aula 1:** USDA Forest Products Laboratory (2021), *Wood Handbook*, capítulos sobre materiais compósitos e propriedades físicas, DOI https://doi.org/10.2737/FPL-GTR-282; ABNT NBR 15316-2 e NBR 14810-2, consultar escopo e edição vigente.
+- **Aula 2:** *Wood Handbook*, capítulos “Moisture Relations and Physical Properties of Wood” e “Drying and Control of Moisture Content and Dimensional Changes”; fichas técnicas dos painéis/revestimentos escolhidos.
+- **Aula 3:** Catálogo ABNT; fichas técnicas, declarações e instruções oficiais dos fabricantes especificados; registros de rastreabilidade e inspeção.
+
+Nota: normas devem ser consultadas em versão vigente e aplicável. Este conteúdo não substitui dimensionamento, ensaios, laudos ou responsabilidade técnica.

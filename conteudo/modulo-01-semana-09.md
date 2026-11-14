@@ -153,3 +153,43 @@ Projetos, fabricação, operação de máquinas, instalações e especificaçõe
 
 **Direitos e atualização**  
 © 2026 Academia IA Sob Medida. Todos os direitos reservados. Conteúdo didático sujeito a revisão e atualização.
+
+
+## Aprofundamento PCH — transformar experiência de projeto em inteligência produtiva
+
+> O desenho é uma promessa. A produção é o momento em que essa promessa precisa se tornar peça, encaixe, acabamento e realidade.
+
+### Aula 1 — O projetista como tradutor entre cliente e fábrica
+A fabricação começa na qualidade da informação liberada. O projetista precisa transformar intenção em dados que a produção consiga executar: revisão, medidas, códigos, materiais, padrões, bordas, usinagens, ferragens, sentido de veio, quantidades e observações de montagem. Uma dúvida crítica não deve ser escondida por uma suposição. Registre a pendência e bloqueie a liberação do item afetado.
+
+**Memória profissional guiada:** recorde um projeto em que você percebeu, antes da fabricação, um detalhe que poderia gerar erro na produção ou na montagem. O que seu olhar identificou? Qual pergunta você fez? Que informação faltava no desenho? Anote a situação real, sem tentar torná-la perfeita.
+
+**PCH em ação — pergunta que protege o projeto:** “Antes de liberar, quero conferir um detalhe que parece pequeno no desenho, mas faz diferença no resultado. Posso validar isso com você?” A frase acolhe, demonstra domínio e torna a conferência parte do cuidado.
+
+### Aula 2 — CAD/CAM/CNC: precisão depende do processo inteiro
+O fluxo digital conecta projeto, modelagem, pós-processamento, ferramenta, máquina, fixação, material e inspeção. Um arquivo correto não garante peça correta se origem, unidade, ferramenta, estratégia, compensação, orientação, fixação ou revisão estiverem erradas. Acompanhe a cadeia de dados e os pontos de verificação. Operação, programação e intervenção em máquinas devem respeitar treinamento, procedimentos, proteções e avaliação de risco; não improvise parâmetros de corte ou segurança.
+
+**Memória profissional guiada:** lembre de uma peça que precisou de ajuste, retrabalho ou mudança porque uma medida, furação, borda ou interferência não estava clara. Em qual etapa o problema poderia ter sido detectado? Que conferência simples teria evitado a perda?
+
+**PCH em ação — traduzir técnica sem assustar:** “A máquina executa com precisão aquilo que o projeto informa. Por isso, estamos conferindo agora as medidas e os encaixes: é assim que reduzimos surpresas na instalação.”
+
+### Aula 3 — Produtividade que preserva qualidade e confiança
+Meça fluxo, tempo de atravessamento, produtividade, aproveitamento, retrabalho, refugo, paradas e entregas no prazo. Defina numerador, denominador, período e fonte de cada indicador. Não compare equipes ou períodos sem considerar mix de produtos, complexidade, disponibilidade de material e capacidade. Produtividade não é acelerar uma etapa transferindo defeitos para a próxima.
+
+**Memória profissional guiada:** recorde uma situação em que uma alteração aparentemente pequena no projeto economizou tempo, material ou deslocamento — ou em que uma falta de informação gerou o efeito contrário. Identifique o custo visível e o custo escondido.
+
+**Aplicação MadePrimer:** escolha um projeto concluído e desenhe seu caminho: briefing → medição → projeto → aprovação → compra → produção → conferência → expedição → montagem. Marque três pontos de espera e uma oportunidade concreta de prevenção de retrabalho.
+
+**Instrumento de campo — cartão de liberação:** cliente/projeto; revisão; desenho aprovado; medidas conferidas; material/código; acabamento; bordas; ferragens; usinagens; lista de peças; interferências; pendências; responsável; data de liberação.
+
+**Rubrica:** documentação liberada (25%); leitura do fluxo digital (20%); segurança e controle de processo (20%); indicadores definidos corretamente (20%); reflexão de memória e melhoria (15%).
+
+### Referências específicas por aula
+- **Aula 1:** Smardzewski (2015), *Furniture Design*, Springer, DOI https://doi.org/10.1007/978-3-319-19533-9; documentação de processo e padrões de desenho da própria fábrica.
+- **Aula 2:** Groover (2015), *Automation, Production Systems, and Computer-Integrated Manufacturing*, 4ª ed.; NR-12, Segurança no Trabalho em Máquinas e Equipamentos, texto oficial vigente do Ministério do Trabalho e Emprego; manuais do fabricante da máquina e do software CAM utilizado.
+- **Aula 3:** Slack, Brandon-Jones & Johnston, *Operations Management* (edições recentes); Liker (2004), *The Toyota Way*; NR-12 e procedimentos internos de segurança.
+
+**Limite técnico:** esta aula não ensina a operar ou programar uma máquina específica. Parâmetros, ferramentas, proteções e procedimentos devem vir do fabricante, da avaliação de risco e de profissional habilitado/treinado.
+
+### Fechamento PCH — do desenho à confiança
+“Quando o projeto é bem traduzido, a fábrica não precisa adivinhar. E quando a fábrica não precisa adivinhar, o cliente recebe mais do que um móvel: recebe a tranquilidade de um processo pensado.”

@@ -135,6 +135,40 @@ Monte um relatório de uma página para um projeto fictício: status geral; trê
 
 **Critério:** o relatório deve permitir que a liderança identifique rapidamente o que está sob controle, o que exige decisão e quem fará o próximo movimento.
 
+## Camada transversal — PCH aplicada à gestão da experiência
+
+A gestão organiza os bastidores; a comunicação torna o percurso compreensível. PCH traduz o processo: acolher a preocupação, explicar o que acontece e conduzir a próxima decisão sem esconder riscos.
+
+### 1. Memória profissional guiada
+Recorde um projeto em que alteração, atraso, divergência de medida ou falha de comunicação afetou a experiência do cliente. Quando o problema poderia ter sido percebido? O que você comunicou? O que deveria ter sido registrado ou combinado?
+
+### 2. Olhar do projetista
+Identifique o que precisa estar aprovado antes de comprar ou fabricar; qual medida ou condição de obra pode invalidar o desenho; qual decisão está pendente e até quando; que risco afeta prazo, custo, acabamento ou uso; e qual evidência confirma a conclusão de cada etapa.
+
+### 3. Escuta emocional sem promessas
+> “Quero entender qual parte dessa situação mais preocupa você: o prazo, o resultado visual, o impacto na rotina ou a segurança de que tudo será resolvido?”
+
+Depois, confirme se compreendeu corretamente. Não prometa prazo ou solução antes de verificar capacidade, contrato e dependências.
+
+### 4. Linguagem PCH
+> “Estamos na etapa de validação final das medidas. Encontramos uma diferença entre o vão previsto e a condição atual da parede. Antes de liberar a fabricação, vamos conferir a medida, registrar o impacto e apresentar a alternativa para sua aprovação. Prefiro esclarecer agora a criar uma surpresa na instalação.”
+
+A mensagem comunica fato, ação, motivo e decisão necessária.
+
+### 5. Condução comercial
+> “Esta alteração interfere em [item], com possível impacto em [prazo/custo]. Vou formalizar as opções e os efeitos de cada uma. Para manter o cronograma, precisamos da sua decisão até [data realista]. Qual alternativa atende melhor à prioridade que definimos?”
+
+A condução é incisiva porque explicita consequência, prazo real e decisão. Não invente urgência.
+
+### 6. Ação imediata
+Desenhe a jornada de um projeto em seis momentos: primeiro contato, briefing, apresentação, aprovação, instalação e pós-venda. Para cada momento, registre preocupação expressa, informação necessária, responsável, evidência e próximo passo. Se não houver dado, marque “a confirmar”.
+
+### Referências complementares da camada PCH
+- Lemon, K. N., & Verhoef, P. C. (2016). *Understanding customer experience throughout the customer journey*. Journal of Marketing, 80(6), 69–96. DOI: 10.1509/jm.15.0420.
+- Rogers, C. R. (1957). *The necessary and sufficient conditions of therapeutic personality change*. Journal of Consulting Psychology, 21(2), 95–103. DOI: 10.1037/h0045357. Uso conceitual para escuta, sem transpor psicoterapia para relação comercial.
+- Project Management Institute. *PMBOK Guide* — comunicação, partes interessadas, riscos e mudanças.
+
+---
 ### Aplicação prática na MadePrimer
 1. Escolher um projeto ativo e nomear um responsável pela coordenação do fluxo.
 2. Conferir proposta, briefing, desenhos, materiais, escopo, exclusões e aprovações.

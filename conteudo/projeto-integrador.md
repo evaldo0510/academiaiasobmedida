@@ -82,3 +82,70 @@ Escala: 1 insuficiente; 2 inicial; 3 funcional; 4 consistente; 5 domínio demons
 - Zeithaml, V. A. (1988). Consumer perceptions of price, quality, and value. *Journal of Marketing*, 52(3), 2–22. DOI: 10.1177/002224298805200302.
 - NIST. *AI Risk Management Framework*.
 - ISO 9001:2015. *Quality management systems — Requirements*.
+
+
+## Caso acompanhado 01 — Cozinha integrada (simulado)
+
+**Natureza do caso:** cenário didático fictício. Não representa cliente, obra, orçamento ou projeto real da MadePrimer.
+
+### Contexto inicial
+Uma família de três pessoas procura uma solução para a cozinha integrada à área social. Relata dificuldade para manter a bancada organizada, pouco espaço percebido para guardar utensílios e desejo de um ambiente visualmente leve. Quer preservar a integração com a sala.
+
+**Ainda não informado:** medidas, planta, pontos hidráulicos e elétricos, eletrodomésticos definidos, orçamento, prazo, restrições do condomínio, condições de acesso e características construtivas do local. Esses dados não podem ser presumidos. O primeiro trabalho profissional é levantar e validar as informações.
+
+### Encontro 1 — Diagnóstico antes do desenho
+- Conduza uma conversa simulada e escreva cinco perguntas abertas.
+- Separe fato confirmado, hipótese e dado a levantar.
+- Identifique usuários, decisores e pessoas que precisam aprovar a solução.
+- Registre pedido declarado, necessidades confirmadas e critérios de decisão.
+
+**Pergunta PCH:** “Quero entender como vocês usam a cozinha hoje. Em quais momentos ela deixa de funcionar como gostariam?”
+
+**Entrega:** briefing inicial, mapa de necessidades e lista de perguntas pendentes.
+
+### Encontro 2 — Leitura espacial e conceito
+- Solicite ou produza levantamento técnico autorizado; não invente cotas.
+- Mapeie circulação, abertura de portas e gavetas, áreas de preparo, armazenamento, iluminação e interfaces com sala e lavanderia.
+- Desenvolva duas alternativas conceituais e compare funcionalidade, estética, manutenção e complexidade.
+
+**Pergunta PCH:** “A proposta precisa resolver a rotina sem apagar a integração que vocês querem preservar. Vamos comparar as alternativas por esse critério?”
+
+**Entrega:** estudo preliminar, critérios de comparação e pendências de compatibilização.
+
+### Encontro 3 — Engenharia e viabilidade
+- Defina materiais e ferragens após identificar uso, dimensões, cargas e documentação do fabricante.
+- Registre pontos elétricos e hidráulicos, eletrodomésticos, ventilação, fixações, encontros e tolerâncias a validar.
+- Revise desenho, cotas, lista de componentes, revisão e condições de fabricação e instalação.
+
+**Entrega:** matriz de especificações, checklist de compatibilização e lista de riscos.
+
+### Encontro 4 — Proposta e decisão
+- Estruture escopo, exclusões, premissas, etapas, prazo condicionado às validações e itens sujeitos a cotação.
+- Explique cada recomendação ligando característica técnica a benefício confirmado.
+- Treine uma resposta a objeção sem desvalorizar a preocupação do cliente nem oferecer desconto automático.
+
+**Fala PCH:** “Minha recomendação é esta configuração porque atende aos critérios que vocês priorizaram. O ponto que ainda precisamos confirmar é [pendência]. Posso avançar com essa validação e retornar com a proposta fechada?”
+
+**Entrega:** proposta técnico-comercial e registro do próximo passo.
+
+### Encontro 5 — Execução, entrega e aprendizagem
+- Monte marcos, responsáveis, dependências e comunicação de mudanças.
+- Defina inspeções de recebimento, montagem, funcionamento, acabamento e aceite conforme projeto e fabricante.
+- Faça retrospectiva: previsto versus realizado, ocorrências, retrabalho, prazo e feedback efetivamente relatado.
+
+**Entrega:** plano de execução, checklist de entrega e retrospectiva do caso.
+
+### Memória profissional
+Recupere uma situação real da sua trajetória como projetista, sem identificar cliente ou endereço:
+1. Um pedido aparentemente simples que escondia uma necessidade de uso mais complexa.
+2. Um detalhe do ambiente percebido antes do cliente.
+3. Um erro de levantamento, compatibilização ou comunicação que poderia ter sido evitado.
+4. Uma recomendação técnica em que houve hesitação para conduzir a decisão.
+
+**Exercício PCH:** transforme uma lembrança em uma fala de três movimentos: acolher o que a pessoa disse, explicar o critério técnico e propor o próximo passo.
+
+### Critério de conclusão
+O caso estará concluído quando houver evidência de briefing, levantamento, alternativas, compatibilização, especificações, proposta, plano de execução, inspeção e retrospectiva. Se faltar dado, registrar a lacuna e solicitar validação também é competência profissional.
+
+### Registro pessoal
+As respostas digitadas no laboratório da plataforma são armazenadas apenas no navegador do usuário, via armazenamento local. Não há sincronização em nuvem. O usuário pode exportar o dossiê em JSON para backup.

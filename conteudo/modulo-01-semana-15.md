@@ -120,6 +120,39 @@ Escolha um processo da MadePrimer e elabore um piloto de 30 dias. Registre probl
 3. ISO. [ISO/IEC 22989 — conceitos e terminologia de IA](https://www.iso.org/standard/81230.html).
 4. SEBRAE. [Conteúdos de gestão, inovação e transformação digital para pequenos negócios](https://sebrae.com.br/).
 
+## Camada transversal — PCH aplicada à inteligência artificial
+
+A tecnologia organiza informação; não substitui o olhar de quem conhece o ambiente, a fabricação e a pessoa que usará o móvel. PCH significa formular perguntas melhores, preservar contexto humano e transformar respostas digitais em decisões verificáveis.
+
+### 1. Memória profissional guiada
+Recorde uma tarefa repetitiva de sua trajetória: organizar briefing, revisar medidas, comparar ferragens, preparar memorial ou conferir alterações. Quanto tempo consumia? Onde surgiam erros? Que parte exigia julgamento técnico e não deveria ser delegada integralmente a uma ferramenta?
+
+### 2. Olhar do projetista
+Antes de usar IA, identifique o problema concreto; quais dados são fatos, hipóteses ou ausências; qual unidade, versão ou referência pode gerar ambiguidade; qual decisão exige inspeção física, cálculo, norma, fabricante ou profissional habilitado; e como detectar uma resposta incorreta.
+
+### 3. Escuta emocional e contexto
+Não transforme o cliente em um conjunto de dados. Pergunte o que deseja facilitar na rotina e quais critérios considera prioritários. Registre apenas o necessário. Não envie plantas identificáveis, endereços, contratos ou dados pessoais a ferramentas sem autorização e avaliação das condições de uso.
+
+### 4. Linguagem PCH — prompt com intenção e limites
+> “Organize este briefing para apoiar o projetista. Separe fatos confirmados, hipóteses e informações ausentes. Liste necessidades relatadas, restrições do ambiente, decisões pendentes e perguntas para a próxima conversa. Não invente medidas, preços, normas, ferragens ou especificações. Quando faltar informação, escreva ‘não informado’. Indique o que exige conferência humana. Use somente os dados autorizados: [dados minimizados].”
+
+O prompt é uma instrução de trabalho, não autorização para aceitar a resposta sem revisão.
+
+### 5. Condução comercial
+> “Organizei duas alternativas com diferenças de material, ferragem, investimento e manutenção. Vou explicar o que muda em cada uma para que você escolha com segurança. Minha recomendação técnica é [X] por [razões verificáveis]; se sua prioridade for [Y], [Z] também pode fazer sentido.”
+
+A IA pode preparar a comparação; especificações e custos devem ser conferidos por pessoas responsáveis. Não simule depoimentos, escassez ou urgência.
+
+### 6. Ação imediata
+Teste um processo administrativo de baixo risco manualmente e com IA, usando dados fictícios ou anonimizados. Compare precisão, omissões, tempo, retrabalho e correções. Registre o que continuará sob responsabilidade humana.
+
+### Referências complementares da camada PCH
+- NIST. *AI Risk Management Framework (AI RMF)* — governança, mapeamento, medição e gestão de riscos.
+- OECD. *OECD AI Principles* — transparência, robustez, segurança e responsabilidade.
+- UNESCO. *Recommendation on the Ethics of Artificial Intelligence* — dignidade humana, direitos e supervisão.
+- Rogers, C. R. (1957). DOI: 10.1037/h0045357. Referência conceitual para escuta, não para automatizar vínculo humano.
+
+---
 ## Aplicação prática na MadePrimer
 1. Mapear o caminho de um pedido desde o lead até o pós-venda.
 2. Identificar três tarefas repetitivas e medir tempo, volume e falhas.

@@ -130,3 +130,43 @@ Pré-instalação; revisão de projeto; prumo; nível; esquadro; ancoragem; não
 - Manuais e fichas técnicas vigentes dos fabricantes dos componentes efetivamente utilizados.
 
 > **Nota de rigor e segurança:** conteúdo educacional; não substitui projeto, análise de risco, treinamento, autorização ou responsabilidade técnica legalmente exigida. Fixações, ancoragens, perfurações e cargas dependem do substrato e das condições reais. Não perfure regiões com infraestrutura desconhecida nem altere elementos estruturais. Consulte normas vigentes, projeto, fabricantes e profissional habilitado quando exigido. As NRs citadas devem ser avaliadas conforme atividade e contexto.
+
+
+## Aprofundamento PCH — o momento em que o projeto encontra a vida real
+
+> A instalação é o instante em que o cliente vê o projeto sair do papel. Nesse momento, técnica e emoção dividem o mesmo ambiente.
+
+### Aula 1 — Preparar a obra e proteger a experiência
+Confirme projeto aprovado e revisão vigente, ambiente liberado, serviços concluídos, acesso, elevador, horários, proteção de piso e paredes, pontos elétricos/hidráulicos, condições de armazenamento, equipe, ferramentas, volumes e ferragens. Faça análise de risco e defina responsáveis, sequência, comunicação e critérios de interrupção. Divergências entre projeto e obra devem ser registradas e avaliadas antes de adaptar peças.
+
+**Memória profissional guiada:** recorde uma montagem em que o ambiente real apresentou uma diferença em relação ao levantamento ou ao desenho. O que você percebeu? Como comunicou? Qual foi a consequência para prazo, custo ou confiança?
+
+**PCH em ação:** “Antes de avançarmos, encontramos uma condição diferente da prevista. Vou explicar o que identificamos, quais caminhos temos e o que cada um implica. Prefiro alinhar agora para proteger o resultado final.”
+
+### Aula 2 — Conferência técnica sem transformar a casa em laboratório
+Inspecione prumo, nível, esquadro, alinhamento, folgas, fixações, ancoragens, estabilidade, funcionamento, acabamento, limpeza e proteção. Use critérios de aceitação definidos no projeto, contrato, normas aplicáveis e manuais. Diferencie não conformidade, ajuste de regulagem, dano, alteração solicitada e item fora de escopo. Registre evidências e responsáveis; não esconda defeitos com acabamento improvisado.
+
+**Memória profissional guiada:** lembre de uma entrega em que um detalhe de alinhamento, abertura, acabamento ou limpeza fez diferença na percepção do cliente. O que ele notou primeiro? O que você aprendeu sobre o que “qualidade” significa para quem usa o ambiente?
+
+**PCH em ação:** “Vamos conferir juntos os pontos que fazem diferença no uso diário: abertura, alinhamento, acabamento e funcionamento. Quero que você saiba exatamente o que está sendo entregue.”
+
+### Aula 3 — Entrega, pendências e fechamento emocional
+Faça demonstração de uso, explique limpeza e manutenção conforme fabricante, entregue documentos, registre pendências com responsável e prazo, obtenha aceite compatível com o contrato e mantenha canal de acompanhamento. Uma pendência não deve ser disfarçada; deve ter descrição, evidência, prioridade, responsável e previsão realista. A conclusão técnica também é um momento de reconhecimento da jornada do cliente.
+
+**Memória profissional guiada:** recorde uma reação de cliente ao ver o ambiente concluído. Que palavra, gesto ou silêncio ficou na sua memória? O que aquela reação ensinou sobre o significado do móvel?
+
+**PCH em ação — encerramento:** “Hoje você não está recebendo apenas os móveis. Está começando a viver uma solução que foi pensada para sua rotina. Vou deixar claro o que foi concluído, como cuidar e quais pontos ainda acompanharemos.”
+
+**Instrumento de campo — termo de entrega:** ambiente; revisão aprovada; itens conferidos; testes realizados; orientações; documentos entregues; pendências; fotos autorizadas; responsável; prazo; aceite.
+
+**Rubrica:** planejamento e segurança (20%); inspeção objetiva (25%); comunicação de desvios (20%); entrega e rastreabilidade (20%); acolhimento e clareza (15%).
+
+### Referências específicas por aula
+- **Aula 1:** NR-18, Segurança e Saúde no Trabalho na Indústria da Construção, texto oficial vigente; NR-6 e NR-12 quando aplicáveis; manuais de instalação dos fabricantes.
+- **Aula 2:** ISO 9001:2015, sistemas de gestão da qualidade (critérios de controle e evidência); manuais de ferragens e especificações aprovadas do projeto.
+- **Aula 3:** ISO 10002:2018, diretrizes para tratamento de reclamações; documentação contratual, manual de uso e conservação dos fabricantes.
+
+**Nota:** verificar escopo e edição vigente das normas, regras locais de obra e exigências contratuais. Não substituir responsável técnico ou profissional de segurança.
+
+### Fechamento PCH — a memória da entrega
+O cliente pode esquecer a marca da dobradiça. Dificilmente esquece como foi tratado quando algo saiu diferente do esperado. A técnica resolve o problema; a comunicação preserva a confiança.

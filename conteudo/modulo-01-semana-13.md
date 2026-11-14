@@ -161,6 +161,38 @@ Selecione dez escritórios com aderência real. Para cada um, registre motivo da
 
 ---
 
+## Camada transversal — PCH aplicada ao relacionamento profissional
+
+PCH, nesta semana, é escuta, metáfora funcional, clareza e próximo passo combinado — não ornamento poético nem técnica para reduzir a autonomia do outro.
+
+### 1. Memória profissional guiada
+Recorde uma situação real em que um arquiteto, designer ou cliente trouxe uma referência visual aparentemente simples, mas que escondia uma questão de fabricação, instalação, custo ou manutenção. O que você percebeu primeiro? Que pergunta mudou a conversa? O que precisou confirmar antes de prometer uma solução?
+
+### 2. Olhar do projetista
+Ao analisar o projeto, identifique o que está desenhado e o que ainda não foi especificado; interfaces com iluminação, elétrica, hidráulica, revestimentos e equipamentos; detalhes que afetam uso, manutenção e montagem; e decisões que dependem de validação de outros profissionais. Separe fato observado, hipótese técnica e decisão pendente.
+
+### 3. Escuta emocional sem adivinhação
+Pergunte ao especificador o que é mais importante preservar: linguagem estética, prazo, orçamento, facilidade de execução, manutenção ou experiência do cliente final. Não presuma a resposta. Investigue e registre o que foi efetivamente dito.
+
+### 4. Linguagem PCH
+> “A solução visual está bem definida. Antes de confirmar a execução, quero conferir três interfaces para proteger o resultado: iluminação, acesso à manutenção e sequência de instalação. Assim preservamos a intenção do projeto sem criar uma surpresa na obra.”
+
+A metáfora dá sentido ao cuidado técnico; a lista objetiva transforma intenção em ação verificável.
+
+### 5. Condução comercial
+> “Proponho começarmos pela análise deste detalhe e pela validação das interfaces. Posso enviar até [data combinada] uma devolutiva com viabilidade, dúvidas e próximos passos. Faz sentido seguirmos assim?”
+
+A firmeza está em propor uma ação concreta, não em pressionar ou prometer o que ainda não foi validado.
+
+### 6. Ação imediata
+Escolha um escritório com aderência real. Prepare uma conversa de 20 minutos com três perguntas abertas, uma contribuição técnica demonstrável e um próximo passo de baixo atrito. Depois registre o que foi dito, observado, confirmado e combinado.
+
+### Referências complementares da camada PCH
+- Rogers, C. R. (1957). *The necessary and sufficient conditions of therapeutic personality change*. Journal of Consulting Psychology, 21(2), 95–103. DOI: 10.1037/h0045357. Referência conceitual sobre escuta; não é manual de vendas.
+- Lemon, K. N., & Verhoef, P. C. (2016). *Understanding customer experience throughout the customer journey*. Journal of Marketing, 80(6), 69–96. DOI: 10.1509/jm.15.0420.
+- Rackham, N. (1988). *SPIN Selling*. McGraw-Hill.
+
+---
 ## Aplicação prática na MadePrimer
 1. Definir o perfil de escritório e projeto em que a MadePrimer entrega melhor valor.
 2. Preparar portfólio com projetos autorizados, fotos próprias e escopo real executado.

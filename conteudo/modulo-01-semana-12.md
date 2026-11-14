@@ -194,3 +194,55 @@ Em duplas, simulem: “Está caro”; “o concorrente entrega mais rápido”; 
 5. SEBRAE. Materiais de vendas, atendimento e gestão comercial. [Portal SEBRAE](https://sebrae.com.br/).
 
 > **Nota de rigor:** SPIN Selling e Getting to Yes são estruturas de prática profissional e negociação, não garantias universais de conversão. Resultados dependem de mercado, produto, preço, capacidade, reputação, processo e contexto. Não utilizar manipulação, pressão psicológica, escassez falsa ou promessas sem comprovação. Condições comerciais, contratuais, tributárias e de proteção de dados devem ser validadas conforme a legislação vigente e com os profissionais responsáveis.
+
+
+## Aprofundamento PCH — da leitura do ambiente à decisão do cliente
+
+> O cliente chega falando de móveis. Muitas vezes, está tentando explicar uma mudança que deseja viver.
+
+### Aula 1 — Diagnóstico que acolhe e revela
+Conduza a descoberta sem transformar a conversa em interrogatório. Comece pelo contexto e pela rotina; pergunte quem usa o ambiente, o que funciona, o que incomoda, o que precisa mudar e como o cliente reconhecerá o resultado. Investigue prioridades, orçamento, prazo, decisores, restrições e critérios. Use SPIN como mapa flexível: situação, problema, implicação e necessidade de solução. Faça sínteses para confirmar entendimento; diferencie fato, preferência, hipótese e pendência.
+
+**Memória profissional guiada:** recorde um cliente que começou pedindo “um armário”, “uma cozinha” ou “um painel”, mas, durante a conversa, revelou uma necessidade maior: organização, acolhimento, praticidade, privacidade, receber pessoas ou ganhar tempo. Que pergunta abriu essa compreensão?
+
+**PCH — sequência de escuta:**
+- Acolher: “Quero entender como esse espaço participa da sua rotina.”
+- Aprofundar: “O que hoje mais dificulta essa experiência?”
+- Imaginar: “Se isso estivesse resolvido, o que mudaria no seu dia?”
+- Confirmar: “Então, mais do que ampliar o armário, sua prioridade é ter uma rotina mais organizada. Entendi corretamente?”
+
+### Aula 2 — Apresentar o projeto como resposta, não como espetáculo
+Conecte cada decisão do desenho a uma necessidade confirmada. Mostre primeiro a lógica de uso; depois, organização, ergonomia, circulação, materialidade, ferragens, acabamento, iluminação, manutenção, investimento e prazo. Use imagens e renders como representação, não como garantia absoluta de cor ou resultado. Apresente alternativas com critérios comparáveis e declare o que ainda depende de medição, amostra, compatibilização ou aprovação.
+
+**Memória profissional guiada:** lembre de um projeto que você apresentou e o cliente compreendeu rapidamente. O que tornou a explicação clara: uma planta, uma perspectiva, uma medida, uma comparação, uma amostra ou uma pergunta? Reconstitua a sequência.
+
+**PCH — narrativa de apresentação:** “Você me contou que precisa de [necessidade confirmada]. Por isso, organizei o projeto desta forma: [decisão]. O benefício esperado é [resultado concreto]. Aqui está o detalhe técnico que sustenta essa escolha. Quero mostrar também o que precisamos validar antes da produção.”
+
+### Aula 3 — Objeções, negociação e fechamento com direção
+Objeção é informação a investigar, não resistência a vencer. Identifique se a preocupação é preço, confiança, prazo, comparação, prioridade, escopo ou aprovação de outra pessoa. Pergunte, escute, responda com evidência e confirme se a dúvida foi resolvida. Negocie variáveis explícitas: escopo, material, prazo, condição de pagamento, etapas e serviços. Nunca prometa exceção que a operação não aprovou.
+
+**Memória profissional guiada:** recorde uma negociação em que o cliente hesitou. O que estava por trás da fala? Como você respondeu? O que faria diferente agora?
+
+**PCH — roteiro de objeção:**
+1. Acolher: “É importante olhar isso com calma.”
+2. Clarificar: “Quando você diz que ficou acima do esperado, está comparando com outra proposta ou com o investimento que tinha planejado?”
+3. Investigar: “Qual parte da solução é indispensável e onde existe flexibilidade?”
+4. Responder: comparar escopo, materiais, serviços, prazo e condições com dados.
+5. Confirmar: “Essa comparação esclarece sua preocupação ou ainda existe algum ponto?”
+6. Direcionar: “Se alinharmos esse ponto, faz sentido avançarmos para a aprovação do projeto?”
+
+**Fechamento incisivo e ético:** quando critérios, escopo e condições estiverem claros, faça um convite objetivo: “Pelo que alinhamos, esta é a solução que melhor atende às prioridades que você definiu. Podemos formalizar a aprovação e iniciar a próxima etapa?” Se a resposta for não, pergunte qual informação ou condição ainda falta. Não crie urgência falsa.
+
+**Instrumento de campo — mapa de conversa PCH:** contexto; rotina; emoção/expectativa expressa pelo cliente; problema; impacto; prioridade; decisores; orçamento; prazo; solução ligada à necessidade; evidência; objeção; resposta; próximo passo; data de retorno.
+
+**Rubrica:** qualidade da escuta (20%); diagnóstico e síntese (20%); conexão projeto-benefício (20%); tratamento de objeção (20%); convite à decisão e registro (20%).
+
+### Referências específicas por aula
+- **Aula 1:** Rackham (1988), *SPIN Selling*; Deci & Ryan (2000), “The ‘What’ and ‘Why’ of Goal Pursuits”, DOI https://doi.org/10.1207/S15327965PLI1104_01; Rogers (1957), “The Necessary and Sufficient Conditions of Therapeutic Personality Change”, DOI https://doi.org/10.1037/h0045357 — referência de escuta/atitude relacional, não manual de vendas.
+- **Aula 2:** Zeithaml (1988), DOI https://doi.org/10.1177/002224298805200302; Norman (2004), *Emotional Design*; Lemon & Verhoef (2016), DOI https://doi.org/10.1509/jm.15.0420.
+- **Aula 3:** Fisher, Ury & Patton (2011), *Getting to Yes*, 3ª ed.; Cialdini (2021), *Influence: The Psychology of Persuasion*, edição revisada — usar princípios de influência com transparência, autonomia e sem manipulação.
+
+**Princípio ético PCH:** emoção não é ferramenta para explorar vulnerabilidade. Não diagnostique o cliente, não atribua sentimentos que ele não expressou e não use linguagem hipnótica para reduzir autonomia. A comunicação deve ampliar compreensão e liberdade de decisão.
+
+### Fechamento PCH — a venda começa quando o cliente se reconhece
+“Eu não quero apenas mostrar o que sei projetar. Quero compreender o que você precisa viver. Meu trabalho é transformar essa compreensão em um projeto possível, bonito, funcional e bem conduzido. Se fizer sentido para você, vamos dar o próximo passo.”

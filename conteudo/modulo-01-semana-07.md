@@ -210,3 +210,30 @@ Conferir dimensões do local, prumo, nível, esquadro, rodapés, guarnições, t
 **Aprender · Aplicar · Evoluir.**  
 Conteúdo educacional. Não equivale a diploma, graduação ou habilitação profissional regulamentada. A aplicação de projetos, especificações e instalações exige observância das normas técnicas, legislação e responsabilidades profissionais pertinentes.  
 © 2026 Academia IA Sob Medida. Todos os direitos reservados. Conteúdo didático sujeito a revisão e atualização.
+
+
+## Aprofundamento aplicado — do caminho das cargas à liberação
+
+### Aula 1 — Do uso ao caminho das cargas
+Transforme o briefing em requisitos verificáveis: função, carga prevista, frequência, ambiente, vida útil, restrições e apoios. Separe carga distribuída de concentrada e carga estática de esforços de uso. Desenhe o móvel, identifique peças, entrada e percurso das cargas, apoios, vãos, balanços e ligações. Investigue deformação, arrancamento, instabilidade e tombamento. Verifique substrato e fixação. Documente hipóteses e dados que exigem cálculo ou validação técnica.
+
+**Exercício:** para uma estante, crie cenários de carregamento leve, esperado e crítico plausível, sem inventar capacidade. Explique quais dados de painel, apoio e fixação faltam para concluir o dimensionamento.
+
+### Aula 2 — Ligações e detalhes executáveis
+O detalhe deve identificar conector, quantidade, posição, recuos, diâmetros, profundidades, sequência e ferramenta. Deve corresponder ao gabarito e à máquina disponíveis. Verifique compatibilidade com substrato, distância às bordas, espessura para alojamento, acesso à ferramenta, desmontagem, acabamento e interferência com ferragens. Não copie medidas de conector semelhante: use a documentação da referência exata e valide com protótipo quando o risco justificar.
+
+**Estudo de falha:** lateral com arrancamento após remontagem. Investigue substrato, furação, distância de borda, torque, ciclos, alinhamento e esforço. Decida entre reparo aprovado, reforço projetado ou redesenho.
+
+### Aula 3 — Pacote executivo e liberação para produção
+Cada desenho deve ter título, código, escala quando aplicável, unidade, data, revisão e responsável. Cada peça deve ter código consistente entre desenho, lista, plano de corte, etiqueta e montagem. Inclua vistas, cortes, detalhes, cotas, materiais, bordas, padrões, usinagens, ferragens, infraestrutura, ancoragem, sequência e aprovações. Retire versões obsoletas do ponto de uso e registre alterações. Mudança de material, ferragem ou medida pode exigir revisão de lista, plano de corte, custo e cronograma.
+
+**Checklist:** escopo; levantamento; desenho cotado; materiais codificados; ferragens; ligações; lista de peças; plano de corte; interferências; aprovações; revisão; responsável.
+
+**Rubrica:** caminho das cargas/apoios (25%); ligação executável (25%); pacote executivo (25%); compatibilização/revisão (15%); clareza de hipóteses/limites (10%).
+
+### Referências específicas por aula
+- **Aula 1:** Smardzewski (2015), *Furniture Design*, Springer, DOI https://doi.org/10.1007/978-3-319-19533-9; Eckelman, *Textbook of Product Engineering and Strength Design of Furniture*, Purdue University.
+- **Aula 2:** USDA Forest Products Laboratory (2021), *Wood Handbook*, DOI https://doi.org/10.2737/FPL-GTR-282; manuais oficiais dos conectores e gabaritos adotados.
+- **Aula 3:** Catálogo ABNT para normas de desenho técnico aplicáveis; ISO 7170, métodos de ensaio de unidades de armazenamento quando aplicável; documentação de processo da fábrica.
+
+Normas e métodos de ensaio não definem automaticamente a capacidade de qualquer móvel. Confirme escopo e edição antes de aplicar.

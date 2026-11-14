@@ -113,3 +113,30 @@ Composição; hierarquia visual; escala; proporção; ritmo; contraste; material
 Aprender · Aplicar · Evoluir.  
 Conteúdo educacional. Não equivale a diploma, graduação ou habilitação profissional regulamentada. A aplicação de projetos, especificações e instalações exige observância das normas técnicas, legislação e responsabilidades profissionais pertinentes.  
 © 2026 Academia IA Sob Medida. Todos os direitos reservados. Conteúdo didático sujeito a revisão e atualização.
+
+
+## Aprofundamento aplicado — coerência estética, técnica e experiência
+
+### Aula 1 — Composição como sistema de relações
+Analise o ambiente em três escalas: corpo (alcance, postura e circulação), mobiliário (volume, proporção e função) e arquitetura (eixos, vãos, luz e continuidade). Mapeie aberturas, ponto focal, fontes de luz e percursos; identifique cheios/vazios e peso visual; teste alinhamentos em elevações; verifique alcance, abertura de portas/gavetas e manutenção. Uma composição atraente pode falhar se bloquear passagem ou esconder acesso técnico.
+
+**Estudo comparativo:** crie duas elevações para a mesma parede, uma simétrica e outra assimétrica. Explique hierarquia, armazenamento, circulação e foco visual, relacionando a decisão ao briefing.
+
+### Aula 2 — Materialidade, cor e luz no ambiente real
+Cor, textura, brilho, escala do padrão, direção do veio e distribuição da luz alteram a leitura. Monte prancha de amostras físicas identificadas; observe sob luz natural em horários distintos e sob a iluminação prevista; verifique reflexo, ofuscamento, contraste, toque, limpeza, marcas, reparabilidade e disponibilidade. Registre variações e aprove formalmente a amostra final. Diferencie iluminação geral, tarefa e destaque; registre objetivo, distribuição, temperatura de cor, reprodução de cor, ofuscamento e manutenção. Instalações elétricas devem ser validadas por profissional qualificado.
+
+### Aula 3 — Moodboard, memorial e apresentação sem ambiguidades
+Cada imagem deve ter legenda: o que se pretende aproveitar e o que não está sendo especificado. Moodboard alinha conceito; memorial e projeto executivo definem entrega. Escreva conceito vinculado ao briefing; organize referências por composição, cor, material, iluminação e detalhe; associe materiais a fabricante/código/acabamento/amostra; classifique decisões como referência, proposta, aprovada ou pendente; registre feedback, revisão, data e aprovador.
+
+**Apresentação:** comece pela necessidade confirmada; explique a lógica; apresente materiais e detalhes; explique manutenção e limites; encerre com pendências e próxima decisão. Não prometa fidelidade de cor, textura ou iluminação apenas com render.
+
+**Matriz:** necessidade; decisão espacial; material/código; efeito visual; desempenho; manutenção; custo/prazo; status; aprovação.
+
+**Rubrica:** composição/escala (25%); materiais/amostras (25%); iluminação/manutenção (20%); moodboard/memorial (20%); apresentação/aprovações (10%).
+
+### Referências específicas por aula
+- **Aula 1:** Ching (2018), *Interior Design Illustrated*, 4ª ed.; Panero & Zelnik (1979), *Human Dimension & Interior Space*.
+- **Aula 2:** Karlen & Benya (2017), *Lighting Design Basics*, 3ª ed.; Illuminating Engineering Society, *Lighting Library*; CIE, publicações técnicas sobre cor e iluminação.
+- **Aula 3:** Ching (2018), *Interior Design Illustrated*; Norman (2004), *Emotional Design*; NKBA, diretrizes de planejamento quando aplicáveis.
+
+Princípios estéticos não são leis universais. A proposta deve respeitar briefing, ergonomia, acessibilidade, segurança, orçamento, manutenção e validação técnica. Imagem de referência não substitui amostra aprovada nem projeto executivo.

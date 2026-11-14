@@ -162,3 +162,30 @@ Para cada item do projeto, registrar:
 **Aprender · Aplicar · Evoluir.**  
 Conteúdo educacional. Não equivale a diploma, graduação ou habilitação profissional regulamentada. A aplicação de projetos, especificações e instalações exige observância das normas técnicas, legislação e responsabilidades profissionais pertinentes.  
 © 2026 Academia IA Sob Medida. Todos os direitos reservados. Conteúdo didático sujeito a revisão e atualização.
+
+
+## Aprofundamento aplicado — engenharia de ferragens
+
+### Aula 1 — Dobradiças: geometria, compatibilidade e regulagem
+Leia a dobradiça em quatro planos: cinemática (trajetória/ângulo), geometria (recobrimento/folgas), interface (caneco/calço/fixação) e desempenho (carga/ciclos/amortecimento/ambiente). Registre tipo de porta, espessura, altura, largura, peso e acessórios. Confira interferências e use tabela ou calculadora do fabricante para o modelo exato. Porta desalinhada pode decorrer de caixa fora de esquadro, base desnivelada, fixação frouxa, furação incorreta, carga assimétrica ou regulagem; não compense falha estrutural apenas regulando.
+
+### Aula 2 — Corrediças: carga nominal, curso e instalação
+Não confunda capacidade declarada da corrediça com capacidade irrestrita da gaveta ou do móvel. Verifique se a carga inclui a massa da gaveta e quais condições de ensaio foram adotadas. Defina carga útil e distribuição, extensão, comprimento, profundidade, largura da caixa, folgas, paralelismo, nivelamento, fixação, travas e ajustes. Teste abertura carregada, ruído, estabilidade e extração.
+
+**Estudo de caso:** gaveta trava no último terço. Investigue paralelismo, esquadro, folga, interferência de parafuso, carga mal distribuída, empenamento e fixação antes de substituir a ferragem.
+
+### Aula 3 — Sistemas de elevação, correr e mecanismos especiais
+Para sistemas de elevação, avalie dimensões/massa da frente, centro de gravidade, espaço de abertura, força de acionamento e posição de montagem. Para portas de correr, verifique trilhos, roldanas, guias, sobreposição, prumo, alinhamento e dispositivos anti-descarrilamento. Defina trajetória e zonas de risco, consulte ferramenta oficial, não misture componentes de linhas distintas e preveja acesso para manutenção.
+
+**Protocolo de teste:** inspeção visual; verificação das fixações; operação sem carga e com carga prevista dentro da especificação; observação de ruídos/colisões; ciclos; estabilidade; registro. Interrompa diante de deformação, soltura ou risco.
+
+**Ficha:** fabricante; linha/código; aplicação; dimensões; carga e condição declaradas; acessórios; furação; folgas; gabarito; instrução; manutenção; evidência.
+
+**Rubrica:** seleção por dados oficiais (25%); compatibilidade dimensional/carga (25%); instalação/regulagem (20%); teste/diagnóstico (20%); documentação (10%).
+
+### Referências específicas por aula
+- **Aula 1:** Blum, catálogos e ferramentas CLIP top/BLUMOTION; Häfele, documentação de dobradiças e bases.
+- **Aula 2:** Blum, documentação TANDEM/MOVENTO; Hettich, documentação de gavetas e corrediças.
+- **Aula 3:** Blum, ferramenta de configuração AVENTOS; Häfele e Hettich, catálogos de elevação e correr; manuais oficiais de instalação.
+
+Os nomes são exemplos de consulta, não recomendação de compra. Carga, quantidade, folgas e furação variam por linha e versão; validar no documento oficial do produto exato.

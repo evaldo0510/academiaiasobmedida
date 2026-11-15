@@ -247,11 +247,11 @@ html{scroll-behavior:smooth}
   window.backToModule=function(){lesson=-1;render();requestAnimationFrame(function(){var el=document.getElementById("selected-module-panel");if(el)el.scrollIntoView({behavior:"smooth",block:"center"})})};
   function center(el){if(!el)return;el.scrollIntoView({behavior:matchMedia("(prefers-reduced-motion: reduce)").matches?"auto":"smooth",block:"center",inline:"nearest"})}
   var oldClasses=window.classes;
-  window.classes=function(){var h=oldClasses();if(lesson>=0)return '<div id="lesson-focus">'+h+'</div>';return h};
+  window.classes=function(){var h=oldClasses();if(lesson>=0)return '<div id="lesson-focus">'+h.replace('<div class="hero">','<div class="hero" id="lesson-heading">')+'</div>';return h};
   var oldSel=window.sel;
   window.sel=function(i){oldSel(i);requestAnimationFrame(function(){center(document.getElementById("selected-module-panel"))})};
   var oldOpen=window.openL;
-  window.openL=function(i){oldOpen(i);requestAnimationFrame(function(){center(document.getElementById("lesson-focus"))})};
+  window.openL=function(i){oldOpen(i);requestAnimationFrame(function(){center(document.getElementById("lesson-heading"))})};
   var oldToggle=window.toggleWeek;
   window.toggleWeek=function(w){oldToggle(w);requestAnimationFrame(function(){var weeks=document.querySelectorAll("#app .week");if(weeks[w])center(weeks[w])})};
   var oldGo=window.go;

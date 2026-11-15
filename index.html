@@ -525,14 +525,16 @@ html{scroll-behavior:smooth}
   };
   window.sel=function(value){
     var i=Number(value);if(!Number.isInteger(i)||i<0||i>=M.length)return;
-    mi=i;lesson=-1;page=1;wopen=0;render();scrollToId('module-detail');
+    mi=i;lesson=-1;page=1;wopen=0;window.render();scrollToId('module-detail');
   };
   window.openL=function(value){
     var id=Number(value);if(!Number.isInteger(id)||id<0||id>=60)return;
-    lesson=id;mi=Math.floor(id/4);page=1;wopen=Math.floor((id%4)/2);render();scrollToId('lesson-inline-content');
+    lesson=id;mi=Math.floor(id/4);page=1;wopen=Math.floor((id%4)/2);
+    window.render();
+    scrollToId('lesson-inline-content');
   };
-  window.backToModule=function(){lesson=-1;page=1;render();scrollToId('module-detail')};
-  window.go=function(p){page=p;lesson=-1;render();window.scrollTo({top:0,behavior:'smooth'})};
+  window.backToModule=function(){lesson=-1;page=1;window.render();scrollToId('module-detail')};
+  window.go=function(p){page=p;lesson=-1;window.render();window.scrollTo({top:0,behavior:'smooth'})};
   /* Os próprios botões possuem handlers diretos; não depender de delegação de eventos. */
   if(typeof render==='function')render();
 })();

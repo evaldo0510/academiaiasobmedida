@@ -442,4 +442,109 @@ html{scroll-behavior:smooth}
 @media(max-width:620px){.lesson-link{padding:12px}.lesson-inline{padding-top:10px}}
 </style>
 
+
+<style id="academia-design-system">
+:root{--module-accent:#c9a66b;--module-soft:rgba(201,166,107,.13);--module-border:rgba(201,166,107,.48)}
+#app{--module-accent:#c9a66b}
+.acad-module-hero{position:relative;overflow:hidden;border:1px solid var(--module-border);background:linear-gradient(125deg,var(--module-soft),#18231c 72%);border-radius:22px;padding:clamp(20px,3vw,32px);margin-bottom:18px}
+.acad-module-hero:after{content:attr(data-number);position:absolute;right:20px;top:-24px;font-size:clamp(90px,16vw,170px);line-height:1;font-weight:900;color:var(--module-accent);opacity:.09;pointer-events:none}
+.acad-module-hero .eyebrow,.acad-module-panel .eyebrow{color:var(--module-accent)}
+.acad-module-hero h2{max-width:780px;margin:8px 0;font-size:clamp(25px,3.5vw,38px);line-height:1.15}
+.acad-module-panel{border-color:var(--module-border);background:linear-gradient(180deg,var(--module-soft),var(--p) 190px);padding:clamp(16px,2.5vw,26px)}
+.acad-module-panel>h2{margin:7px 0;font-size:clamp(21px,3vw,29px)}
+.acad-module-panel>p{max-width:850px;color:#d2dbd3}
+.acad-lessons{display:grid;gap:10px;margin-top:18px}
+.acad-lesson-trigger{width:100%;min-height:76px;display:flex;align-items:center;gap:13px;text-align:left;padding:14px 16px;border:1px solid var(--line);border-left:4px solid var(--module-accent);border-radius:13px;background:#17221b;color:var(--txt);transition:background .18s,border-color .18s,transform .18s}
+.acad-lesson-trigger:hover,.acad-lesson-trigger[aria-expanded=true]{background:var(--module-soft);border-color:var(--module-accent);transform:translateY(-1px)}
+.acad-lesson-number{width:39px;height:39px;flex:0 0 39px;border-radius:12px;display:grid;place-items:center;background:var(--module-soft);color:var(--module-accent);font-weight:850}
+.acad-lesson-copy{min-width:0;flex:1}.acad-lesson-copy strong{display:block;line-height:1.35}.acad-lesson-copy small{display:block;margin-top:4px;color:var(--muted)}
+.acad-lesson-symbol{font-size:23px;font-weight:800;color:var(--module-accent);padding:0 4px}
+.acad-lesson-content{padding:16px 0 4px;scroll-margin-top:24px}
+.acad-lesson-content>.hero{border-color:var(--module-border);background:linear-gradient(130deg,var(--module-soft),#18231b)}
+.acad-module-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin-top:14px}
+.acad-module-card{--card-accent:#c9a66b;width:100%;min-width:0;min-height:174px;text-align:left;padding:17px;border:1px solid color-mix(in srgb,var(--card-accent) 42%,#394b3e);border-top:4px solid var(--card-accent);border-radius:15px;background:linear-gradient(155deg,color-mix(in srgb,var(--card-accent) 12%,#1b2820),#1b2820 65%);color:var(--txt);transition:transform .18s,border-color .18s,background .18s}
+.acad-module-card:hover,.acad-module-card[aria-current=true]{transform:translateY(-2px);border-color:var(--card-accent);background:linear-gradient(155deg,color-mix(in srgb,var(--card-accent) 19%,#1b2820),#1b2820 72%)}
+.acad-module-card .acad-card-kicker{font-size:10px;letter-spacing:1.5px;font-weight:850;color:var(--card-accent)}
+.acad-module-card strong{display:block;margin:9px 0 7px;line-height:1.3;font-size:15px}
+.acad-module-card small{display:block;line-height:1.45;color:var(--muted)}
+.acad-module-card .bar i{background:var(--card-accent)}
+.acad-section-heading{display:flex;align-items:end;justify-content:space-between;gap:12px;margin:25px 0 10px}
+.acad-section-heading h3{margin:0;font-size:19px}
+.acad-section-heading p{margin:0;color:var(--muted);font-size:12px}
+@media(max-width:950px){.acad-module-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:620px){.acad-module-grid{grid-template-columns:1fr}.acad-module-card{min-height:140px}.acad-module-hero{padding:20px}.acad-lesson-trigger{padding:12px;min-height:70px}}
+</style>
+<script id="academia-navigation-and-design-system">
+(function(){
+  var palette=['#D8B878','#75B7C4','#A78BFA','#75B98A','#D68C72','#D5A2C8','#8EA7D8','#B6A36A','#6FB5A5','#D18C9C','#91B77A','#D39B63','#82AFCB','#B39AD9','#C1A16D'];
+  function accent(i){return palette[(i+palette.length)%palette.length]}
+  function scrollToId(id){requestAnimationFrame(function(){var el=document.getElementById(id);if(el)el.scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth',block:'start'})})}
+  function moduleCard(i){
+    var m=M[i],p=pct(i),c=accent(i);
+    return '<button type="button" class="acad-module-card" data-acad-module="'+i+'" aria-current="'+(mi===i)+'" style="--card-accent:'+c+'">'+
+      '<span class="acad-card-kicker">MÓDULO '+String(i+1).padStart(2,'0')+'</span>'+
+      '<strong>'+esc(m[0])+'</strong><small>'+esc(m[1])+'</small>'+
+      '<div class="bar"><i style="width:'+p+'%;background:'+c+'"></i></div>'+
+      '<small>'+p+'% concluído · 4 aulas</small></button>';
+  }
+  window.classes=function(){
+    head('Sala de aulas','Formação profissional de Vendedor Projetista de Móveis Planejados · 15 módulos · 60 aulas.');
+    var m=M[mi],c=accent(mi),start=mi*4;
+    var lessonRows=[0,1,2,3].map(function(n){
+      var id=start+n,active=lesson===id,complete=done.indexOf(id)>=0;
+      var trigger='<button type="button" class="acad-lesson-trigger" data-acad-lesson="'+id+'" aria-expanded="'+active+'">'+
+        '<span class="acad-lesson-number">'+(complete?'✓':String(n+1).padStart(2,'0'))+'</span>'+
+        '<span class="acad-lesson-copy"><strong>Aula '+(n+1)+' · '+esc(S[mi][n])+'</strong><small>Semana '+(n<2?'1':'2')+' · '+(complete?'Concluída':'Toque para abrir o conteúdo da aula')+'</small></span>'+
+        '<span class="acad-lesson-symbol" aria-hidden="true">'+(active?'−':'+')+'</span></button>';
+      return trigger+(active?'<div id="lesson-inline-content" class="acad-lesson-content">'+lessonHTML()+'</div>':'');
+    }).join('');
+    return '<div class="acad-module-hero" style="--module-accent:'+c+';--module-soft:'+c+'20;--module-border:'+c+'88" data-number="'+String(mi+1).padStart(2,'0')+'">'+
+      '<div class="eyebrow">ACADEMIA IA SOB MEDIDA · FORMAÇÃO PROFISSIONAL</div>'+
+      '<h2>Da leitura do cliente à entrega do projeto.</h2>'+
+      '<p>Uma jornada para diagnosticar necessidades, desenvolver soluções, especificar com segurança, apresentar valor e acompanhar a execução.</p>'+
+      '<span class="tag">'+done.length+' de 60 aulas concluídas</span></div>'+
+      '<section class="content acad-module-panel" id="module-detail" style="--module-accent:'+c+';--module-soft:'+c+'20;--module-border:'+c+'88">'+
+      '<div class="eyebrow">MÓDULO '+String(mi+1).padStart(2,'0')+' · 4 AULAS</div><h2>'+esc(m[0])+'</h2><p>'+esc(m[1])+'. '+esc(m[2])+'.</p>'+
+      '<div class="acad-section-heading"><h3>Trilha de aprendizagem</h3><p>Selecione uma aula para expandir o conteúdo aqui mesmo.</p></div>'+
+      '<div class="acad-lessons">'+lessonRows+'</div></section>'+
+      '<div class="acad-section-heading"><h3>Explore os 15 módulos</h3><p>Cada módulo tem identidade visual e foco próprios.</p></div>'+
+      '<div class="acad-module-grid">'+M.map(function(_,i){return moduleCard(i)}).join('')+'</div>';
+  };
+  window.render=function(){
+    if(typeof nav==='function')nav();
+    var app=document.getElementById('app');if(!app)return;
+    if(page===0)app.innerHTML=home();
+    else if(page===1)app.innerHTML=window.classes();
+    else if(page===2)app.innerHTML=lab();
+    else if(page===3)app.innerHTML=assess();
+    else if(page===4)app.innerHTML=library();
+    else if(page===5)app.innerHTML=cases();
+    else if(page===6)app.innerHTML=challenges();
+    else app.innerHTML=portfolio();
+    document.body.dataset.academiaPage=String(page);
+  };
+  window.sel=function(value){
+    var i=Number(value);if(!Number.isInteger(i)||i<0||i>=M.length)return;
+    mi=i;lesson=-1;page=1;wopen=0;render();scrollToId('module-detail');
+  };
+  window.openL=function(value){
+    var id=Number(value);if(!Number.isInteger(id)||id<0||id>=60)return;
+    lesson=id;mi=Math.floor(id/4);page=1;wopen=Math.floor((id%4)/2);render();scrollToId('lesson-inline-content');
+  };
+  window.backToModule=function(){lesson=-1;page=1;render();scrollToId('module-detail')};
+  window.go=function(p){page=p;lesson=-1;render();window.scrollTo({top:0,behavior:'smooth'})};
+  var app=document.getElementById('app');
+  if(app&&!app.dataset.academiaBound){
+    app.dataset.academiaBound='1';
+    app.addEventListener('click',function(event){
+      var lessonButton=event.target.closest('[data-acad-lesson]');
+      if(lessonButton){event.preventDefault();event.stopPropagation();window.openL(lessonButton.getAttribute('data-acad-lesson'));return}
+      var moduleButton=event.target.closest('[data-acad-module]');
+      if(moduleButton){event.preventDefault();event.stopPropagation();window.sel(moduleButton.getAttribute('data-acad-module'))}
+    },true);
+  }
+  if(typeof render==='function')render();
+})();
+</script>
+
 </body></html><script async data-explicit-opt-in="true" data-deployment-id="dpl_A6NtqbcxMuN8U8DhFNCJ52JCUZKu" src="https://vercel.live/_next-live/feedback/feedback.js"></script><script async data-explicit-opt-in="true" data-deployment-id="dpl_F1zozEBPWy9VRTrX5Q9SmkZ2u7ot" src="https://vercel.live/_next-live/feedback/feedback.js"></script><script async data-explicit-opt-in="true" data-deployment-id="dpl_QJDpkkYoaE1S4B5DXZNeBXnUEoKf" src="https://vercel.live/_next-live/feedback/feedback.js"></script><script async data-explicit-opt-in="true" data-deployment-id="dpl_9HH7yLTrzMYsNj4kYkw6r2nUa9mG" src="https://vercel.live/_next-live/feedback/feedback.js"></script><script async data-explicit-opt-in="true" data-deployment-id="dpl_Cq28Qb9b5WoZEbeXHC67V9pCEMoT" src="https://vercel.live/_next-live/feedback/feedback.js"></script>

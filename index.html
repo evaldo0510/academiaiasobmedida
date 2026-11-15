@@ -533,14 +533,15 @@ html{scroll-behavior:smooth}
   };
   window.backToModule=function(){lesson=-1;page=1;render();scrollToId('module-detail')};
   window.go=function(p){page=p;lesson=-1;render();window.scrollTo({top:0,behavior:'smooth'})};
-  var app=document.getElementById('app');
-  if(app&&!app.dataset.academiaBound){
-    app.dataset.academiaBound='1';
-    app.addEventListener('click',function(event){
-      var lessonButton=event.target.closest('[data-acad-lesson]');
-      if(lessonButton){event.preventDefault();event.stopPropagation();window.openL(lessonButton.getAttribute('data-acad-lesson'));return}
-      var moduleButton=event.target.closest('[data-acad-module]');
-      if(moduleButton){event.preventDefault();event.stopPropagation();window.sel(moduleButton.getAttribute('data-acad-module'))}
+  if(!document.documentElement.dataset.academiaClickBound){
+    document.documentElement.dataset.academiaClickBound='1';
+    document.addEventListener('click',function(event){
+      var target=event.target;
+      if(!target||typeof target.closest!=='function')return;
+      var lessonButton=target.closest('#app [data-acad-lesson]');
+      if(lessonButton){event.preventDefault();event.stopPropagation();if(typeof window.openL==='function')window.openL(lessonButton.getAttribute('data-acad-lesson'));return}
+      var moduleButton=target.closest('#app [data-acad-module]');
+      if(moduleButton){event.preventDefault();event.stopPropagation();if(typeof window.sel==='function')window.sel(moduleButton.getAttribute('data-acad-module'))}
     },true);
   }
   if(typeof render==='function')render();

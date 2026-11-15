@@ -311,4 +311,67 @@ html{scroll-behavior:smooth}
   window.go=function(p){page=p;lesson=-1;render();window.scrollTo({top:0,behavior:"smooth"})};
 })();
 </script>
+
+<script>
+/* Correção definitiva: o renderizador da sala deve sempre consultar a
+   função de conteúdo atualmente ativa, inclusive após selecionar uma aula. */
+(function(){
+  function centerLesson(){
+    requestAnimationFrame(function(){
+      var target=document.getElementById("lesson-focus") || document.getElementById("lesson-heading");
+      if(target) target.scrollIntoView({
+        behavior: window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth",
+        block:"center",
+        inline:"nearest"
+      });
+    });
+  }
+  window.render = function(){
+    if(typeof nav==="function") nav();
+    var app=document.getElementById("app");
+    if(!app) return;
+    if(page===0) app.innerHTML=home();
+    else if(page===1) app.innerHTML=window.classes();
+    else if(page===2) app.innerHTML=lab();
+    else if(page===3) app.innerHTML=assess();
+    else if(page===4) app.innerHTML=library();
+    else if(page===5) app.innerHTML=cases();
+    else if(page===6) app.innerHTML=challenges();
+    else app.innerHTML=portfolio();
+  };
+  window.openL = function(value){
+    var id=Number(value);
+    if(!Number.isInteger(id) || id<0 || id>59) return;
+    lesson=id;
+    mi=Math.floor(id/4);
+    page=1;
+    wopen=Math.floor((id%4)/2);
+    window.render();
+    centerLesson();
+  };
+  window.sel = function(value){
+    var index=Number(value);
+    if(!Number.isInteger(index) || index<0 || index>14) return;
+    mi=index;
+    lesson=-1;
+    page=1;
+    wopen=0;
+    window.render();
+    requestAnimationFrame(function(){
+      var target=document.getElementById("module-detail");
+      if(target) target.scrollIntoView({behavior:"smooth",block:"center"});
+    });
+  };
+  window.backToModule = function(){
+    lesson=-1;
+    page=1;
+    window.render();
+    requestAnimationFrame(function(){
+      var target=document.getElementById("module-detail");
+      if(target) target.scrollIntoView({behavior:"smooth",block:"center"});
+    });
+  };
+})();
+</script>
+
 </body></html><script async data-explicit-opt-in="true" data-deployment-id="dpl_A6NtqbcxMuN8U8DhFNCJ52JCUZKu" src="https://vercel.live/_next-live/feedback/feedback.js"></script><script async data-explicit-opt-in="true" data-deployment-id="dpl_F1zozEBPWy9VRTrX5Q9SmkZ2u7ot" src="https://vercel.live/_next-live/feedback/feedback.js"></script><script async data-explicit-opt-in="true" data-deployment-id="dpl_QJDpkkYoaE1S4B5DXZNeBXnUEoKf" src="https://vercel.live/_next-live/feedback/feedback.js"></script><script async data-explicit-opt-in="true" data-deployment-id="dpl_9HH7yLTrzMYsNj4kYkw6r2nUa9mG" src="https://vercel.live/_next-live/feedback/feedback.js"></script><script async data-explicit-opt-in="true" data-deployment-id="dpl_Cq28Qb9b5WoZEbeXHC67V9pCEMoT" src="https://vercel.live/_next-live/feedback/feedback.js"></script>

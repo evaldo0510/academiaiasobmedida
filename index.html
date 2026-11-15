@@ -481,7 +481,7 @@ html{scroll-behavior:smooth}
   function scrollToId(id){requestAnimationFrame(function(){var el=document.getElementById(id);if(el)el.scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth',block:'start'})})}
   function moduleCard(i){
     var m=M[i],p=pct(i),c=accent(i);
-    return '<button type="button" class="acad-module-card" data-acad-module="'+i+'" aria-current="'+(mi===i)+'" style="--card-accent:'+c+'">'+
+    return '<button type="button" class="acad-module-card" data-acad-module="'+i+'" onclick="window.sel('+i+')" aria-current="'+(mi===i)+'" style="--card-accent:'+c+'">'+
       '<span class="acad-card-kicker">MÓDULO '+String(i+1).padStart(2,'0')+'</span>'+
       '<strong>'+esc(m[0])+'</strong><small>'+esc(m[1])+'</small>'+
       '<div class="bar"><i style="width:'+p+'%;background:'+c+'"></i></div>'+
@@ -492,7 +492,7 @@ html{scroll-behavior:smooth}
     var m=M[mi],c=accent(mi),start=mi*4;
     var lessonRows=[0,1,2,3].map(function(n){
       var id=start+n,active=lesson===id,complete=done.indexOf(id)>=0;
-      var trigger='<button type="button" class="acad-lesson-trigger" data-acad-lesson="'+id+'" aria-expanded="'+active+'">'+
+      var trigger='<button type="button" class="acad-lesson-trigger" data-acad-lesson="'+id+'" onclick="window.openL('+id+')" aria-expanded="'+active+'">'+
         '<span class="acad-lesson-number">'+(complete?'✓':String(n+1).padStart(2,'0'))+'</span>'+
         '<span class="acad-lesson-copy"><strong>Aula '+(n+1)+' · '+esc(S[mi][n])+'</strong><small>Semana '+(n<2?'1':'2')+' · '+(complete?'Concluída':'Toque para abrir o conteúdo da aula')+'</small></span>'+
         '<span class="acad-lesson-symbol" aria-hidden="true">'+(active?'−':'+')+'</span></button>';
@@ -533,17 +533,7 @@ html{scroll-behavior:smooth}
   };
   window.backToModule=function(){lesson=-1;page=1;render();scrollToId('module-detail')};
   window.go=function(p){page=p;lesson=-1;render();window.scrollTo({top:0,behavior:'smooth'})};
-  if(!document.documentElement.dataset.academiaClickBound){
-    document.documentElement.dataset.academiaClickBound='1';
-    document.addEventListener('click',function(event){
-      var target=event.target;
-      if(!target||typeof target.closest!=='function')return;
-      var lessonButton=target.closest('#app [data-acad-lesson]');
-      if(lessonButton){event.preventDefault();event.stopPropagation();if(typeof window.openL==='function')window.openL(lessonButton.getAttribute('data-acad-lesson'));return}
-      var moduleButton=target.closest('#app [data-acad-module]');
-      if(moduleButton){event.preventDefault();event.stopPropagation();if(typeof window.sel==='function')window.sel(moduleButton.getAttribute('data-acad-module'))}
-    },true);
-  }
+  /* Os próprios botões possuem handlers diretos; não depender de delegação de eventos. */
   if(typeof render==='function')render();
 })();
 </script>

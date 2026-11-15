@@ -459,7 +459,14 @@ html{scroll-behavior:smooth}
 .acad-lesson-number{width:39px;height:39px;flex:0 0 39px;border-radius:12px;display:grid;place-items:center;background:var(--module-soft);color:var(--module-accent);font-weight:850}
 .acad-lesson-copy{min-width:0;flex:1}.acad-lesson-copy strong{display:block;line-height:1.35}.acad-lesson-copy small{display:block;margin-top:4px;color:var(--muted)}
 .acad-lesson-symbol{font-size:23px;font-weight:800;color:var(--module-accent);padding:0 4px}
-.acad-lesson-content{padding:16px 0 4px;scroll-margin-top:24px}
+.acad-lesson-content{padding:12px 0 4px;scroll-margin-top:24px;animation:acadLessonReveal .34s cubic-bezier(.2,.75,.25,1) both;transform-origin:top}
+.acad-lesson-content-inner{min-width:0}
+.acad-lesson-number{transition:background .2s,color .2s,transform .2s,box-shadow .2s}
+.acad-lesson-number.is-active{background:var(--module-accent);color:#142018;transform:scale(1.08);box-shadow:0 0 0 4px var(--module-soft)}
+.acad-lesson-trigger[aria-expanded=true] .acad-lesson-copy strong{color:#fff}
+.acad-lesson-trigger:focus-visible{outline:2px solid var(--module-accent);outline-offset:3px}
+@keyframes acadLessonReveal{from{opacity:0;transform:translateY(-9px) scaleY(.985)}to{opacity:1;transform:translateY(0) scaleY(1)}}
+@media(prefers-reduced-motion:reduce){.acad-lesson-content{animation:none}.acad-lesson-trigger,.acad-lesson-number{transition:none}}
 .acad-lesson-content>.hero{border-color:var(--module-border);background:linear-gradient(130deg,var(--module-soft),#18231b)}
 .acad-module-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin-top:14px}
 .acad-module-card{--card-accent:#c9a66b;width:100%;min-width:0;min-height:174px;text-align:left;padding:17px;border:1px solid color-mix(in srgb,var(--card-accent) 42%,#394b3e);border-top:4px solid var(--card-accent);border-radius:15px;background:linear-gradient(155deg,color-mix(in srgb,var(--card-accent) 12%,#1b2820),#1b2820 65%);color:var(--txt);transition:transform .18s,border-color .18s,background .18s}
@@ -499,10 +506,10 @@ html{scroll-behavior:smooth}
     var lessonRows=[0,1,2,3].map(function(n){
       var id=start+n,active=lesson===id,complete=done.indexOf(id)>=0;
       var trigger='<button type="button" class="acad-lesson-trigger" data-acad-lesson="'+id+'" onclick="window.openL('+id+')" aria-expanded="'+active+'">'+
-        '<span class="acad-lesson-number">'+(complete?'✓':String(n+1).padStart(2,'0'))+'</span>'+
-        '<span class="acad-lesson-copy"><strong>Aula '+(n+1)+' · '+esc(S[mi][n])+'</strong><small>Semana '+(n<2?'1':'2')+' · '+(complete?'Concluída':'Toque para abrir o conteúdo da aula')+'</small></span>'+
+        '<span class="acad-lesson-number '+(active?'is-active':'')+'">'+(complete?'✓':String(n+1).padStart(2,'0'))+'</span>'+
+        '<span class="acad-lesson-copy"><strong>Aula '+(n+1)+' · '+esc(S[mi][n])+'</strong><small>Semana '+(n<2?'1':'2')+' · '+(active?'Aula aberta · toque para recolher':complete?'Concluída':'Toque para explorar esta aula')+'</small></span>'+
         '<span class="acad-lesson-symbol" aria-hidden="true">'+(active?'−':'+')+'</span></button>';
-      return trigger+(active?'<div id="lesson-inline-content" class="acad-lesson-content">'+lessonHTML()+'</div>':'');
+      return trigger+(active?'<div id="lesson-inline-content" class="acad-lesson-content"><div class="acad-lesson-content-inner">'+lessonHTML()+'</div></div>':'');
     }).join('');
     var moduleRail='<nav class="acad-module-rail" aria-label="Navegação dos módulos">'+M.map(function(item,i){return '<button type="button" class="acad-module-tab '+(mi===i?'active':'')+'" onclick="window.sel('+i+')" aria-current="'+(mi===i?'page':'false')+'" title="'+esc(item[0])+'"><span>'+String(i+1).padStart(2,'0')+'</span>'+esc(item[0].split(' ').slice(0,2).join(' '))+'</button>'}).join('')+'</nav>';
     return '<div class="acad-module-hero" style="--module-accent:'+c+';--module-soft:'+c+'20;--module-border:'+c+'88" data-number="'+String(mi+1).padStart(2,'0')+'">'+
@@ -533,9 +540,10 @@ html{scroll-behavior:smooth}
   };
   window.openL=function(value){
     var id=Number(value);if(!Number.isInteger(id)||id<0||id>=60)return;
-    lesson=id;mi=Math.floor(id/4);page=1;wopen=Math.floor((id%4)/2);
+    var closing=lesson===id;
+    lesson=closing?-1:id;mi=Math.floor(id/4);page=1;wopen=closing?0:Math.floor((id%4)/2);
     window.render();
-    scrollToId('lesson-inline-content');
+    if(!closing)scrollToId('lesson-inline-content');
   };
   window.backToModule=function(){lesson=-1;page=1;window.render();scrollToId('module-detail')};
   window.go=function(p){page=p;lesson=-1;window.render();window.scrollTo({top:0,behavior:'smooth'})};

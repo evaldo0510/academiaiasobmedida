@@ -473,6 +473,12 @@ html{scroll-behavior:smooth}
 .acad-section-heading p{margin:0;color:var(--muted);font-size:12px}
 @media(max-width:950px){.acad-module-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:620px){.acad-module-grid{grid-template-columns:1fr}.acad-module-card{min-height:140px}.acad-module-hero{padding:20px}.acad-lesson-trigger{padding:12px;min-height:70px}}
+.acad-module-rail{position:sticky;top:8px;z-index:4;display:flex;gap:6px;overflow-x:auto;overscroll-behavior-x:contain;padding:8px;margin:0 0 14px;background:#111a14f2;border:1px solid var(--line);border-radius:13px;backdrop-filter:blur(12px);scrollbar-width:thin}
+.acad-module-tab{flex:0 0 auto;display:flex;align-items:center;gap:7px;white-space:nowrap;border:1px solid transparent;border-radius:9px;padding:8px 10px;background:transparent;color:#cbd4cc;font-size:12px}
+.acad-module-tab span{font-size:10px;font-weight:800;color:var(--gold)}
+.acad-module-tab.active{background:#2b3d30;border-color:var(--module-accent,var(--gold));color:#fff}
+.acad-module-tab:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+@media(max-width:620px){.acad-module-rail{top:4px;margin:0 -2px 12px;padding:6px;border-radius:11px}.acad-module-tab{padding:8px 9px;font-size:11px}}
 </style>
 <script id="academia-navigation-and-design-system">
 (function(){
@@ -498,17 +504,15 @@ html{scroll-behavior:smooth}
         '<span class="acad-lesson-symbol" aria-hidden="true">'+(active?'−':'+')+'</span></button>';
       return trigger+(active?'<div id="lesson-inline-content" class="acad-lesson-content">'+lessonHTML()+'</div>':'');
     }).join('');
+    var moduleRail='<nav class="acad-module-rail" aria-label="Navegação dos módulos">'+M.map(function(item,i){return '<button type="button" class="acad-module-tab '+(mi===i?'active':'')+'" onclick="window.sel('+i+')" aria-current="'+(mi===i?'page':'false')+'" title="'+esc(item[0])+'"><span>'+String(i+1).padStart(2,'0')+'</span>'+esc(item[0].split(' ').slice(0,2).join(' '))+'</button>'}).join('')+'</nav>';
     return '<div class="acad-module-hero" style="--module-accent:'+c+';--module-soft:'+c+'20;--module-border:'+c+'88" data-number="'+String(mi+1).padStart(2,'0')+'">'+
-      '<div class="eyebrow">ACADEMIA IA SOB MEDIDA · FORMAÇÃO PROFISSIONAL</div>'+
+      '<div class="eyebrow">FORMAÇÃO PROFISSIONAL · VENDEDOR PROJETISTA</div>'+
       '<h2>Da leitura do cliente à entrega do projeto.</h2>'+
-      '<p>Uma jornada para diagnosticar necessidades, desenvolver soluções, especificar com segurança, apresentar valor e acompanhar a execução.</p>'+
       '<span class="tag">'+done.length+' de 60 aulas concluídas</span></div>'+
+      moduleRail+
       '<section class="content acad-module-panel" id="module-detail" style="--module-accent:'+c+';--module-soft:'+c+'20;--module-border:'+c+'88">'+
       '<div class="eyebrow">MÓDULO '+String(mi+1).padStart(2,'0')+' · 4 AULAS</div><h2>'+esc(m[0])+'</h2><p>'+esc(m[1])+'. '+esc(m[2])+'.</p>'+
-      '<div class="acad-section-heading"><h3>Trilha de aprendizagem</h3><p>Selecione uma aula para expandir o conteúdo aqui mesmo.</p></div>'+
-      '<div class="acad-lessons">'+lessonRows+'</div></section>'+
-      '<div class="acad-section-heading"><h3>Explore os 15 módulos</h3><p>Cada módulo tem identidade visual e foco próprios.</p></div>'+
-      '<div class="acad-module-grid">'+M.map(function(_,i){return moduleCard(i)}).join('')+'</div>';
+      '<div class="acad-lessons">'+lessonRows+'</div></section>';
   };
   window.render=function(){
     if(typeof nav==='function')nav();

@@ -374,4 +374,72 @@ html{scroll-behavior:smooth}
 })();
 </script>
 
+
+<script>
+/* Fluxo em uma única página: módulo > aulas > conteúdo expandido sob a aula ativa. */
+(function(){
+  function scrollToActive(){
+    requestAnimationFrame(function(){
+      var el=document.getElementById("lesson-inline-content") || document.getElementById("module-detail");
+      if(el) el.scrollIntoView({behavior:"smooth",block:"center",inline:"nearest"});
+    });
+  }
+  window.classes=function(){
+    head("Sala de aulas","Escolha uma área, abra um módulo e estude cada aula com o conteúdo logo abaixo.");
+    var module=M[mi], start=mi*4;
+    var lessons=[0,1,2,3].map(function(n){
+      var id=start+n, active=lesson===id, week=n<2?1:2;
+      var card='<button class="lesson-link '+(active?'active':'')+'" aria-expanded="'+active+'" onclick="openL('+id+')">'+
+        '<span class="lesson-number">'+(done.indexOf(id)>=0?'✓':(n+1))+'</span>'+
+        '<span><strong>Aula '+(n+1)+' — '+S[mi][n]+'</strong><small>Semana '+week+' · '+(done.indexOf(id)>=0?'Concluída':'Abrir aula e conteúdo')+'</small></span>'+
+        '<span class="lesson-chevron">'+(active?'−':'+')+'</span></button>';
+      return card+(active?'<div id="lesson-inline-content" class="lesson-inline">'+lessonHTML()+'</div>':'');
+    }).join("");
+    return '<div class="hero"><div class="eyebrow">FORMAÇÃO PROFISSIONAL · VENDEDOR PROJETISTA</div>'+
+      '<h2>Da leitura do cliente à entrega do projeto.</h2>'+
+      '<p>Selecione um módulo para visualizar suas quatro aulas. Ao abrir uma aula, o conteúdo completo aparece logo abaixo dela, nesta mesma página.</p>'+
+      '<span class="tag">'+done.length+'/60 aulas concluídas</span></div>'+
+      '<section class="content" id="module-detail"><div class="eyebrow">MÓDULO '+String(mi+1).padStart(2,"0")+' · 4 AULAS</div>'+
+      '<h2>'+module[0]+'</h2><p>'+module[1]+'. '+module[2]+'.</p>'+
+      '<h3>Aulas deste módulo</h3><div class="lesson-stack">'+lessons+'</div></section>'+
+      '<div class="section"><h2>Outros módulos da formação</h2><small>Selecione para trocar de módulo.</small></div>'+
+      '<div class="grid">'+cards()+'</div>';
+  };
+  window.sel=function(i){
+    var index=Number(i);
+    if(!Number.isInteger(index)||index<0||index>=M.length)return;
+    mi=index;lesson=-1;page=1;wopen=0;render();
+    requestAnimationFrame(function(){
+      var el=document.getElementById("module-detail");
+      if(el)el.scrollIntoView({behavior:"smooth",block:"center"});
+    });
+  };
+  window.openL=function(i){
+    var id=Number(i);
+    if(!Number.isInteger(id)||id<0||id>=60)return;
+    lesson=id;mi=Math.floor(id/4);page=1;wopen=Math.floor((id%4)/2);render();scrollToActive();
+  };
+  window.backToModule=function(){
+    lesson=-1;page=1;render();
+    requestAnimationFrame(function(){
+      var el=document.getElementById("module-detail");
+      if(el)el.scrollIntoView({behavior:"smooth",block:"center"});
+    });
+  };
+})();
+</script>
+<style>
+.lesson-stack{display:grid;gap:10px;margin-top:14px}
+.lesson-link{width:100%;display:flex;align-items:center;gap:12px;text-align:left;padding:15px;border:1px solid var(--line);border-radius:14px;background:var(--p);color:var(--txt);min-height:76px}
+.lesson-link.active{border-color:var(--gold);background:#26372b}
+.lesson-link .lesson-number{flex:0 0 38px;height:38px;display:grid;place-items:center;border-radius:50%;background:var(--p2);color:var(--gold);font-weight:800}
+.lesson-link strong{display:block}.lesson-link small{display:block;color:var(--muted)}
+.lesson-chevron{margin-left:auto;color:var(--gold);font-size:22px;font-weight:700}
+.lesson-inline{padding:14px 0 4px;scroll-margin-top:30vh}
+.lesson-inline .lesson-focus{margin:0}
+.lesson-inline .hero{margin-top:4px}
+#module-detail{scroll-margin-top:12vh}
+@media(max-width:620px){.lesson-link{padding:12px}.lesson-inline{padding-top:10px}}
+</style>
+
 </body></html><script async data-explicit-opt-in="true" data-deployment-id="dpl_A6NtqbcxMuN8U8DhFNCJ52JCUZKu" src="https://vercel.live/_next-live/feedback/feedback.js"></script><script async data-explicit-opt-in="true" data-deployment-id="dpl_F1zozEBPWy9VRTrX5Q9SmkZ2u7ot" src="https://vercel.live/_next-live/feedback/feedback.js"></script><script async data-explicit-opt-in="true" data-deployment-id="dpl_QJDpkkYoaE1S4B5DXZNeBXnUEoKf" src="https://vercel.live/_next-live/feedback/feedback.js"></script><script async data-explicit-opt-in="true" data-deployment-id="dpl_9HH7yLTrzMYsNj4kYkw6r2nUa9mG" src="https://vercel.live/_next-live/feedback/feedback.js"></script><script async data-explicit-opt-in="true" data-deployment-id="dpl_Cq28Qb9b5WoZEbeXHC67V9pCEMoT" src="https://vercel.live/_next-live/feedback/feedback.js"></script>

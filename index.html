@@ -734,7 +734,7 @@ html{scroll-behavior:smooth}
     else if(page===5)app.innerHTML=cases();
     else if(page===6)app.innerHTML=challenges();
     else app.innerHTML=portfolio();
-    document.body.dataset.academiaPage=String(page);
+    document.body.dataset.academiaPage=String(page);if(page===1&&lesson>=0&&typeof loadHumanVoice==='function')setTimeout(function(){if(typeof populateSpeechVoices==='function')populateSpeechVoices();loadHumanVoice()},0);
   };
   window.sel=function(value){
     var i=Number(value);if(!Number.isInteger(i)||i<0||i>=M.length)return;

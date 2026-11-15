@@ -144,7 +144,7 @@ function lessonHTML(){
  '<div class="content"><h3>Caderno de aplicação e evidências</h3><textarea class="field" rows="6" placeholder="Registre o que aprendeu, como aplicou, a resposta do cliente, dúvidas e resultados observados..." oninput="note('+id+',this.value)">'+esc(notes[id]||"")+'</textarea><button class="btn primary" onclick="mark('+id+')">'+(complete?"Etapa concluída ✓":"Marcar etapa como concluída")+'</button> <button class="btn" onclick="openL('+Math.min(59,id+1)+')">Próxima etapa →</button></div>'
 }
 
-function gradeM1(){var x=M1[lesson%4],score=0,n=0;x.q.forEach(function(q,i){var a=document.querySelector('input[name="m1q'+i+'"]:checked');if(a){n++;if(+a.value===q[2])score++}});var f=document.getElementById("m1feedback");if(f)f.textContent=n<3?"Responda às três questões.":"Resultado: "+score+"/3. "+(score===3?"Excelente domínio.":"Revise e tente novamente.")}
+function gradeM1(){var x=(window.M1TrainingOverrides&&M1TrainingOverrides[lesson%4])||M1[lesson%4],score=0,n=0;x.q.forEach(function(q,i){var a=document.querySelector('input[name="m1q'+i+'"]:checked');if(a){n++;if(+a.value===q[2])score++}});var f=document.getElementById("m1feedback");if(f)f.textContent=n<3?"Responda às três questões.":"Resultado: "+score+"/3. "+(score===3?"Excelente domínio.":"Revise e tente novamente.")}
 
 render();
 </script><style>

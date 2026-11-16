@@ -193,3 +193,65 @@ O cliente avalia preço junto com confiança, adequação, estética, durabilida
 
 ### Fechamento PCH — firmeza com humanidade
 “Preço precisa fechar a conta da empresa. Valor precisa fazer sentido para o cliente. A venda sustentável acontece quando os dois lados conseguem dizer sim sem esconder a realidade.”
+
+
+---
+
+# Camada multimodal PCH — Ler, ouvir, enxergar e aplicar
+
+Esta semana integra números, representação visual e decisão comercial. Os exemplos devem ser identificados como fictícios quando não vierem de dados reais. A mídia não deve simplificar fórmulas a ponto de esconder premissas.
+
+## Aula 1 — Estrutura de custos e orçamento por projeto
+
+**Ler:** estudar a diferença entre custo, despesa, investimento e desembolso; consultar o mapa de custos e as premissas do orçamento.
+
+**Ouvir — roteiro de narração:** “Imagine um closet pronto. Para chegar até ele, houve chapas, ferragens, mão de obra, projeto, transporte, instalação, proteção e acompanhamento. Se o orçamento registra apenas o material, parte da entrega desaparece da conta. Vamos percorrer cada etapa, classificar os gastos e marcar o que ainda precisa de cotação. Um custo não deixa de existir porque foi esquecido.”
+
+**Enxergar — sequência visual necessária:**
+1. Diagrama em camadas dos custos de um projeto sob medida: materiais, ferragens, mão de obra, serviços, logística, instalação, despesas e riscos.
+2. Exemplo de ficha de custo com unidade, quantidade, custo unitário, total, fonte e status.
+3. Fluxo visual de escopo → levantamento → cotação → orçamento → aprovação → revisão.
+4. Comparação entre orçamento completo e orçamento com itens omitidos, com lacunas destacadas.
+
+**Pausa de observação:** o aluno observa uma proposta incompleta e identifica itens ausentes antes de calcular preço.
+
+**Aplicar:** montar mapa de custos com dados didáticos identificados e registrar fonte, premissa, classificação e pendência.
+
+## Aula 2 — Formação de preço, margem de contribuição e ponto de equilíbrio
+
+**Ler:** revisar as fórmulas, identificar cada variável e estudar a diferença entre markup e margem.
+
+**Ouvir — roteiro de narração:** “Preço, custo e margem não são a mesma coisa. Primeiro identificamos a receita. Depois retiramos os custos e despesas variáveis considerados. O que resta é a margem de contribuição. Ela ajuda a cobrir os gastos fixos e, depois, contribuir para o resultado. Vamos acompanhar cada parcela no exemplo, conferir a fórmula e interpretar o resultado antes de tomar uma decisão.”
+
+**Enxergar — sequência visual necessária:**
+1. Diagrama de formação do preço com parcelas claramente identificadas.
+2. Comparação visual entre markup sobre custo e margem sobre venda, com números didáticos e fórmulas.
+3. Exemplo passo a passo de margem de contribuição e ponto de equilíbrio, indicando premissas e unidades.
+4. Gráfico simples de receita, custos variáveis, gastos fixos e ponto de equilíbrio, com eixos e legenda.
+
+**Pausa de observação:** o aluno recebe duas propostas com mesmo custo-base e diferentes preços e deve explicar por que markup e margem não são equivalentes.
+
+**Aplicar:** recalcular o exemplo com alteração de desconto e identificar impacto na margem de contribuição. Conferir a conta manualmente ou em planilha.
+
+## Aula 3 — Fluxo de caixa, rentabilidade por projeto e decisão gerencial
+
+**Ler:** estudar competência versus caixa, cronograma de recebimentos, desembolsos, capital de giro e comparação previsto/realizado.
+
+**Ouvir — roteiro de narração:** “Um projeto pode apresentar margem positiva e ainda faltar dinheiro na data de pagar o fornecedor. Acompanhe a linha do tempo: sinal, compra, produção, parcela intermediária, instalação e saldo. Agora compare as datas. O resultado econômico e a disponibilidade de caixa respondem a perguntas diferentes. Planejar o calendário é tão importante quanto calcular a margem.”
+
+**Enxergar — sequência visual necessária:**
+1. Linha do tempo de oito semanas com entradas e saídas fictícias.
+2. Gráfico de saldo de caixa projetado, identificando eventual déficit e período.
+3. Tabela comparativa de previsto versus realizado para material, horas, frete e instalação.
+4. Painel com indicadores e respectivas fórmulas, unidades, frequência e fonte.
+
+**Pausa de observação:** o aluno identifica em qual semana ocorre déficit de caixa e qual informação contratual ou operacional precisa ser revista.
+
+**Aplicar:** montar fluxo de caixa didático de oito semanas, simular cenários e explicar três desvios de orçamento.
+
+## Exercício integrador multimodal — a proposta precisa fechar duas contas
+O aluno recebe um projeto fictício, cotações didáticas, custos de mão de obra, condições de pagamento e cronograma de fornecedores. Deve ler as premissas, ouvir a explicação, interpretar diagramas e planilhas e produzir preço, margem de contribuição e fluxo de caixa. Entregáveis: mapa de custos, memória de cálculo, cenários de negociação e linha do tempo financeira.
+
+**Verificação de aprendizagem:** sem consultar o material, explicar a diferença entre markup e margem, calcular a margem de contribuição de um cenário simples e apontar por que lucro e caixa não são sinônimos.
+
+**Acessibilidade e rigor:** gráficos com eixos, unidades, legenda e descrição textual; fórmulas disponíveis em texto; narração acompanhada de transcrição; exemplos numéricos marcados como fictícios; tributos e classificação contábil validados com profissional competente.

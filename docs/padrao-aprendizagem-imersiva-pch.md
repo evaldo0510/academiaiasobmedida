@@ -131,3 +131,58 @@ Para cada uma das 60 etapas, manter:
 - pendências e decisão de liberação.
 
 **Importante:** inspeção de código ou conteúdo não equivale a teste executado. Relatórios devem separar claramente o que foi lido, o que foi executado e o que foi confirmado em ambiente publicado.
+
+
+## 8. Princípio multimodal — Ler, ouvir, enxergar e aplicar
+
+A aprendizagem deve oferecer mais de uma forma complementar de acesso ao mesmo conceito. Texto, áudio, representação visual e atividade prática devem trabalhar em conjunto, sem exigir que todos aprendam da mesma maneira e sem pressupor estilos fixos de aprendizagem.
+
+### 8.1 Quatro experiências integradas
+1. **Ler — texto estruturado:** explicação completa, conceitos-chave, exemplos, glossário, fontes e passos consultáveis. O texto permanece disponível mesmo quando há áudio ou vídeo.
+2. **Ouvir — explicação narrada:** áudio claro, com linguagem natural, exemplos profissionais e pausas intencionais. A narração deve explicar e conectar ideias, não apenas ler mecanicamente listas ou repetir a tela.
+3. **Enxergar — representação visual:** fotografias, desenhos técnicos, diagramas, comparações lado a lado, animações curtas ou demonstrações. Cada recurso precisa ter legenda, finalidade didática e descrição textual acessível.
+4. **Aplicar — prática orientada:** o aluno interpreta o que leu, ouviu e observou e produz uma evidência: desenho, especificação, diagnóstico, apresentação, checklist ou execução supervisionada.
+
+### 8.2 Roteiro multimodal de cada aula
+- **Abertura (1–2 min):** situação-problema em áudio e imagem, com pergunta orientadora.
+- **Compreensão (5–10 min):** leitura do conteúdo com narração por blocos; destacar termos essenciais sem duplicar na tela cada palavra falada.
+- **Demonstração visual:** mostrar o processo, a peça ou o conceito em sequência; usar setas, rótulos e aproximações apenas onde ajudam a compreender.
+- **Pausa de observação:** pedir ao aluno que descreva o que viu, identifique um detalhe ou antecipe uma decisão.
+- **Aplicação:** exercício prático ligado ao cenário demonstrado.
+- **Recuperação ativa:** perguntas sem consulta imediata, explicação com as próprias palavras ou reconstrução do processo.
+- **Síntese:** texto-chave, áudio-resumo e imagem/diagrama de referência.
+
+### 8.3 Critérios de qualidade dos recursos
+- Um objetivo de aprendizagem identificável para cada áudio, imagem ou vídeo.
+- Áudio dividido em segmentos curtos e retomáveis, com controles de reproduzir, pausar, voltar, avançar e velocidade.
+- Texto integral disponível como alternativa ao áudio; legendas/transcrição para vídeo e áudio pré-gravado.
+- Imagens com legenda explicativa e texto alternativo que comunique a informação relevante; diagramas complexos também devem ter descrição longa ou versão textual.
+- Vídeos demonstrativos com enquadramento que permita ver mãos, ferramenta e ponto de operação, sem encenar práticas inseguras.
+- Não usar imagem decorativa quando uma vista técnica, anotação ou comparação é necessária.
+- Não apresentar render como prova de dimensões, cor, desempenho ou viabilidade construtiva.
+- Não depender somente de cor para transmitir diferenças; combinar rótulos, símbolos e padrões.
+- Evitar áudio e animação simultâneos concorrentes, excesso de texto na tela, música que prejudique a fala e elementos visuais sem função.
+- Oferecer pausa, repetição, controle de velocidade e navegação por teclado quando suportados.
+- Identificar conteúdo conceitual, demonstração simulada e procedimento real; nunca sugerir que vídeo substitui capacitação ou supervisão para máquinas.
+
+### 8.4 Sequência didática PCH: observar, escutar, nomear, imaginar, executar
+1. **Observar:** o aluno examina uma imagem ou demonstração antes da explicação e registra o que percebe.
+2. **Escutar:** acompanha a explicação narrada com contexto, vocabulário e relações de causa e efeito.
+3. **Nomear:** relaciona termos técnicos aos elementos visíveis e ao texto.
+4. **Imaginar:** realiza a visualização guiada PCH como ensaio mental de uma situação profissional.
+5. **Executar:** realiza uma tarefa observável, recebe feedback e corrige.
+6. **Recuperar:** explica o processo sem olhar o material e identifica o que ainda precisa revisar.
+
+### 8.5 Princípios cognitivos e limites
+A integração entre palavras e imagens pode apoiar a construção de representações mentais; segmentação, sinalização, coerência e proximidade entre explicação e imagem ajudam a reduzir esforço desnecessário. Isso não significa que mais mídia seja sempre melhor. Recursos redundantes, simultâneos ou decorativos podem aumentar a carga cognitiva. A oferta multimodal amplia acessibilidade e possibilidades de estudo, mas não garante retenção ou desempenho e não autoriza classificar estudantes em estilos fixos de aprendizagem.
+
+### 8.6 Rubrica de revisão multimodal
+- **Alinhamento:** mídia corresponde ao objetivo da aula.
+- **Complementaridade:** áudio, texto e visual acrescentam informação útil, sem contradições.
+- **Precisão:** demonstração e legenda estão tecnicamente corretas.
+- **Acessibilidade:** transcrição, legenda, descrição e controles disponíveis.
+- **Aplicação:** recurso prepara uma tarefa ou decisão observável.
+- **Usabilidade:** segmentação, controles e carregamento permitem estudo sem fricção.
+
+### 8.7 Registro de produção e teste
+Para cada recurso registrar: aula; objetivo; tipo de mídia; roteiro; fonte/autoria/licença; duração ou formato; transcrição/legenda; descrição alternativa; revisão técnica; teste de reprodução; dispositivo/navegador; resultado e pendência. Não marcar como produzido, acessível ou testado algo que ainda seja apenas uma orientação editorial.

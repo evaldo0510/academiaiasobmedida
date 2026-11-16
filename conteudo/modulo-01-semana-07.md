@@ -456,3 +456,56 @@ Leia o caso e os critérios, ouça as narrações, interprete as imagens/diagram
 **Acessibilidade e qualidade:** disponibilizar transcrição dos áudios; legendas para vídeos; descrição textual das imagens; rótulos além de cores; controles para pausar e repetir. Imagens conceituais não substituem ficha técnica, medição, norma ou validação profissional.
 
 **Status de produção:** roteiros e especificações didáticas registrados. Áudios, imagens e vídeos finais ainda precisam ser produzidos, revisados e testados na plataforma.
+
+
+---
+
+# Camada multimodal PCH — Ler, ouvir, enxergar e aplicar
+
+Esta camada complementa as aulas existentes. Os roteiros e recursos visuais abaixo são especificações de produção, não mídias já publicadas.
+
+## Aula 1 — O móvel como sistema de engenharia
+
+**Ouvir — roteiro de narração:** “Observe como as cargas percorrem prateleiras, laterais, bases e apoios. A segurança depende do conjunto e das condições reais, não de uma capacidade universal.”
+
+**Enxergar — sequência visual necessária:**
+1. Diagrama de caminho das cargas.
+2. comparação de vãos e apoios.
+3. esquema de estabilidade e tombamento..
+
+**Pausa de observação:** descreva o que percebe antes de ouvir a explicação; depois compare sua leitura e identifique o detalhe que mudou sua compreensão.
+
+**Aplicar e recuperar:** realize o exercício da aula e, sem consultar o material, explique o critério principal, uma limitação e a evidência que sustentaria sua decisão.
+
+## Aula 2 — Ligações, materiais e construção
+
+**Ouvir — roteiro de narração:** “Uma ligação transmite esforços e influencia montagem e manutenção. Compare soluções conforme material, geometria e documentação técnica.”
+
+**Enxergar — sequência visual necessária:**
+1. Detalhes ampliados de ligações.
+2. sequência esquemática de montagem.
+3. matriz de seleção e restrições..
+
+**Pausa de observação:** descreva o que percebe antes de ouvir a explicação; depois compare sua leitura e identifique o detalhe que mudou sua compreensão.
+
+**Aplicar e recuperar:** realize o exercício da aula e, sem consultar o material, explique o critério principal, uma limitação e a evidência que sustentaria sua decisão.
+
+## Aula 3 — Desenho técnico, detalhamento e documentação para fabricação
+
+**Ouvir — roteiro de narração:** “O desenho deve permitir fabricação por outra pessoa. Confira vistas, cortes, cotas, lista de peças, plano de corte, revisão e aprovação.”
+
+**Enxergar — sequência visual necessária:**
+1. Prancha de vistas e cortes.
+2. exemplo de cotagem e lista de peças.
+3. fluxo de revisão e liberação..
+
+**Pausa de observação:** descreva o que percebe antes de ouvir a explicação; depois compare sua leitura e identifique o detalhe que mudou sua compreensão.
+
+**Aplicar e recuperar:** realize o exercício da aula e, sem consultar o material, explique o critério principal, uma limitação e a evidência que sustentaria sua decisão.
+
+## Exercício integrador multimodal
+Leia o caso, ouça as narrações, interprete os diagramas e produza a entrega prática da semana. Avalie a decisão, a justificativa e a capacidade de reconhecer limites.
+
+**Acessibilidade:** transcrição dos áudios, legendas para vídeos, descrição textual de imagens e rótulos além de cores. Diagramas e demonstrações não substituem documentação técnica ou validação profissional.
+
+**Status de produção:** roteiros e especificações registrados; arquivos finais de áudio, imagem e vídeo ainda precisam ser produzidos, revisados e testados na plataforma.

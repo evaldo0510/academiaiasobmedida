@@ -423,3 +423,56 @@ Acompanhe a proporção de briefings confirmados antes do projeto, a quantidade 
 
 **Fechamento PCH:** “Não desenhe apenas o que foi pedido. Compreenda o que precisa funcionar. Não adivinhe a motivação. Investigue, confirme e transforme escuta em projeto.”
 
+
+
+---
+
+# Camada multimodal PCH — Ler, ouvir, enxergar e aplicar
+
+Esta camada complementa as aulas existentes sem substituir nem apagar o conteúdo original. Os recursos visuais e sonoros são propostas de produção; não devem ser tratados como mídia já publicada ou testada.
+
+## Aula 1 — Necessidades e motivações: o que está por trás do pedido?
+
+**Ouvir — roteiro de narração:** “Um pedido é um dado inicial, não uma janela direta para a mente do cliente. Pergunte sobre atividades, dificuldades e prioridades. Trate explicações sobre motivação como hipóteses até que a própria pessoa as confirme.”
+
+**Enxergar — sequência visual necessária:**
+1. Mapa pedido/atividade/necessidade/requisito.
+2. cena de escuta com perguntas abertas.
+3. quadro fato/hipótese/validação..
+
+**Pausa de observação:** antes de consultar a explicação, descreva o que percebe na imagem. Depois, compare sua leitura com a narração e identifique o que mudou em sua compreensão.
+
+**Aplicar e recuperar:** realize o exercício já previsto na aula e, sem consultar o material, explique o critério principal, uma limitação e a evidência que sustentaria sua decisão.
+
+## Aula 2 — Jornada de decisão: da primeira ideia à contratação
+
+**Ouvir — roteiro de narração:** “A jornada pode ter idas e voltas. Identifique participantes, dúvidas, momentos de comparação, aprovações e próximos passos. Não presuma que uma pessoa decide sozinha nem que todos usam os mesmos critérios.”
+
+**Enxergar — sequência visual necessária:**
+1. Mapa de jornada com pontos de contato.
+2. matriz de participantes e responsabilidades.
+3. linha do tempo com dúvidas e decisões..
+
+**Pausa de observação:** antes de consultar a explicação, descreva o que percebe na imagem. Depois, compare sua leitura com a narração e identifique o que mudou em sua compreensão.
+
+**Aplicar e recuperar:** realize o exercício já previsto na aula e, sem consultar o material, explique o critério principal, uma limitação e a evidência que sustentaria sua decisão.
+
+## Aula 3 — Da escuta ao briefing: transformar motivação em projeto
+
+**Ouvir — roteiro de narração:** “Transforme relatos em requisitos preliminares claros e rastreáveis. Devolva o que entendeu, peça confirmação e sinalize medidas ou compatibilizações pendentes. Um briefing bom registra também o que ainda não se sabe.”
+
+**Enxergar — sequência visual necessária:**
+1. Exemplo de transcrição convertida em briefing.
+2. tabela relato/requisito/evidência.
+3. checklist de confirmação com cliente..
+
+**Pausa de observação:** antes de consultar a explicação, descreva o que percebe na imagem. Depois, compare sua leitura com a narração e identifique o que mudou em sua compreensão.
+
+**Aplicar e recuperar:** realize o exercício já previsto na aula e, sem consultar o material, explique o critério principal, uma limitação e a evidência que sustentaria sua decisão.
+
+## Exercício integrador multimodal
+Leia o caso e os critérios, ouça as narrações, interprete as imagens/diagramas e produza a entrega prática da semana. A avaliação deve observar a qualidade da decisão e sua justificativa, não a memorização isolada.
+
+**Acessibilidade e qualidade:** disponibilizar transcrição dos áudios; legendas para vídeos; descrição textual das imagens; rótulos além de cores; controles para pausar e repetir. Imagens conceituais não substituem ficha técnica, medição, norma ou validação profissional.
+
+**Status de produção:** roteiros e especificações didáticas registrados. Áudios, imagens e vídeos finais ainda precisam ser produzidos, revisados e testados na plataforma.

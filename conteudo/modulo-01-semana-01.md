@@ -599,3 +599,218 @@ Produza:
 
 **Aprender · Aplicar · Evoluir.**  
 **Academia IA Sob Medida — formação independente em móveis planejados, marcenaria e ambientes sob medida.**
+
+
+---
+
+# Implementação do padrão Aprendizagem Imersiva PCH — Aulas 1, 2 e 3
+
+**Finalidade deste complemento:** transformar os conteúdos já existentes nas três aulas em uma experiência de aprendizagem com ensaio mental, execução profissional e evidências de competência. Este complemento não substitui nem apaga o conteúdo anterior.
+
+**Nota pedagógica sobre PCH:** a visualização guiada é um recurso educacional de atenção e ensaio mental. O aluno imagina uma situação profissional, antecipa decisões e depois executa uma tarefa verificável. Não é psicoterapia, tratamento, hipnose clínica ou promessa de resultado.
+
+## Aula 1 — O que o cliente realmente está comprando?
+
+### Resultado de aprendizagem observável
+Diante de um pedido genérico de móveis planejados, o aluno deverá conduzir uma descoberta inicial, separar pedido, necessidade, expectativa e preferência, e produzir uma lista de requisitos preliminares com pendências explícitas. A evidência será uma ficha de descoberta preenchida e uma devolutiva oral de até três minutos.
+
+### Fundamentação a mobilizar
+Retome as distinções entre pedido declarado, necessidade, expectativa, significado simbólico e benefício percebido. Trate as dimensões funcional, emocional e simbólica como lentes para formular perguntas — nunca como categorias para diagnosticar ou rotular o cliente. Característica, vantagem e benefício só devem ser conectados quando o benefício tiver sido confirmado no contexto daquele usuário.
+
+### Conexão com a rotina do vendedor projetista
+Esta competência acontece antes do desenho. Uma descoberta incompleta pode produzir um briefing frágil, uma solução visualmente atraente mas inadequada ao uso, orçamento desalinhado e retrabalho. O vendedor projetista deve compreender a atividade, registrar o que foi dito e encaminhar para levantamento e validação técnica antes de prometer uma solução.
+
+### Visualização guiada PCH — “Antes de abrir o software, abra a escuta”
+Leia em ritmo tranquilo, fazendo pequenas pausas entre as cenas:
+
+> Imagine-se chegando para atender um casal que deseja um closet moderno. Você observa o ambiente, mas ainda não abre o programa de projetos. Sobre a mesa estão uma referência visual, algumas anotações e muitas perguntas ainda sem resposta.
+>
+> Respire naturalmente e direcione sua atenção para a conversa. Você pergunta como cada pessoa utiliza o espaço. Uma delas fala dos acessórios; a outra, das malas e roupas sazonais. Você não conclui por elas. Escuta, pede exemplos e anota as palavras importantes.
+>
+> Agora imagine três colunas diante de você: **o que foi pedido**, **o que precisa ser investigado** e **o que ainda deve ser verificado**. Cada informação encontra seu lugar. Uma preferência não vira necessidade por engano. Uma hipótese não vira fato. Uma imagem não vira medida.
+>
+> Você devolve a síntese: “Entendi que estas são as prioridades; estas são as preferências; e estes pontos ainda precisam de confirmação. Está correto?”. O cliente corrige um detalhe. Você atualiza o registro.
+>
+> A cena termina com uma decisão profissional: agora você sabe o que perguntar, o que medir e o que não deve prometer. Abra o briefing e execute esse processo na atividade a seguir.
+
+### Sequência profissional de execução
+1. Registrar o pedido literal do cliente, sem reinterpretá-lo.
+2. Identificar usuários do ambiente e atividades realizadas por cada um.
+3. Investigar dificuldades atuais com perguntas abertas e neutras.
+4. Investigar expectativas e preferências pedindo exemplos concretos.
+5. Separar necessidades, preferências, restrições e prioridades.
+6. Converter necessidades em requisitos preliminares, sem antecipar solução construtiva.
+7. Registrar medidas, documentos e condições que ainda precisam ser verificados.
+8. Resumir o entendimento e solicitar confirmação do cliente.
+9. Encaminhar para levantamento e análise técnica; não liberar desenho definitivo com lacunas críticas.
+
+**Ponto de parada:** se não estiver claro quem utiliza o ambiente, quais itens precisam ser acomodados ou quais condições físicas precisam ser levantadas, registre a pendência antes de assumir uma solução.
+
+### Caso aplicado
+Um casal pede um closet “elegante e bem iluminado”. Uma pessoa relata dificuldade para encontrar acessórios; a outra precisa guardar malas. O aluno deve produzir perguntas para esclarecer quantidade e dimensões aproximadas dos itens, frequência de uso, prioridades individuais, iluminação desejada, infraestrutura e orçamento. Não deve concluir que uma solução específica é viável antes do levantamento.
+
+### Exercício de campo
+Faça uma simulação de atendimento de 12 minutos. Entregue:
+- registro do pedido literal;
+- pelo menos seis perguntas abertas;
+- quadro com necessidades, preferências, restrições e prioridades;
+- lista de dados pendentes;
+- devolutiva de confirmação em linguagem simples.
+
+### Avaliação por competência
+Atribua um nível de 1 a 4 para cada critério:
+
+| Critério | 1 — Inicial | 2 — Em desenvolvimento | 3 — Competente | 4 — Consistente |
+|---|---|---|---|---|
+| Investigação | Faz perguntas vagas ou presume respostas | Investiga parte da rotina | Faz perguntas claras e relevantes | Aprofunda sem induzir e adapta a conversa às respostas |
+| Classificação | Mistura pedido e necessidade | Separa alguns elementos | Distingue necessidade, preferência, restrição e prioridade | Explica ambiguidades e valida interpretações |
+| Registro | Não registra pendências | Registro incompleto | Registra fatos, hipóteses e pendências separadamente | Mantém rastreabilidade e origem das informações |
+| Confirmação | Não devolve a síntese | Resume sem confirmar | Devolve e confirma com o cliente | Corrige o registro com base na confirmação e define próximos passos |
+
+**Aprovação sugerida:** nível 3 ou superior nos critérios de classificação e registro, sem erro crítico de apresentar hipótese como fato. Se não atingir, refazer a simulação com foco no critério abaixo do nível esperado.
+
+### Transferência para o trabalho
+Aplicar a ficha de descoberta em um atendimento real anonimizado. Indicadores: percentual de briefings com usuários, rotina, prioridades e pendências registrados; número de retrabalhos atribuídos a necessidades não investigadas. Estabelecer linha de base antes de definir meta. Evidência: ficha revisada e confirmação registrada.
+
+---
+
+## Aula 2 — Como conduzir um diagnóstico consultivo sem transformar a conversa em interrogatório
+
+### Resultado de aprendizagem observável
+O aluno deverá conduzir uma conversa estruturada, organizar informações por status e entregar um briefing rastreável, com origem, responsável, confirmação e pendências. Evidência: briefing de uma página e síntese validada.
+
+### Fundamentação a mobilizar
+Retome os cinco níveis do diagnóstico — contexto, problema, consequência, resultado esperado, prioridade e viabilidade — e os quatro movimentos de escuta — perguntar, aprofundar, devolver e confirmar. A sequência é flexível: não deve ser aplicada como questionário mecânico. Reforce a diferença entre informação relatada, medida verificada, documento recebido, hipótese, pendência e decisão aprovada.
+
+### Conexão com a rotina do vendedor projetista
+O briefing coordena o trabalho entre cliente, comercial, projetista, medição, compras, produção, instalação e pós-venda. Informações sem origem ou status podem virar erros de desenho, especificação, orçamento e montagem. O profissional precisa deixar claro o que sabe, como sabe e o que ainda falta descobrir.
+
+### Visualização guiada PCH — “A conversa que se transforma em briefing”
+> Imagine que você atende uma pessoa que mostra uma fotografia e diz: “Quero uma cozinha igual a esta”. Você percebe o impulso de sugerir materiais e abrir o software, mas decide seguir uma ordem mais segura.
+>
+> Primeiro, pergunta o que mais chama a atenção na referência. A pessoa responde: a bancada livre e os armários sem puxadores aparentes. Você aprofunda: “Como é sua rotina de preparo? Quais equipamentos utiliza? Quem mais cozinha?”.
+>
+> A cada resposta, imagine uma etiqueta sendo colocada sobre a informação: **relato**, **medida**, **documento**, **hipótese**, **pendência** ou **decisão aprovada**. Você não mistura as etiquetas.
+>
+> Agora devolve o entendimento em voz clara: “Até aqui, compreendi estas necessidades e preferências. Ainda precisamos conferir medidas, equipamentos e pontos de instalação. Está correto?”. O cliente confirma uma parte e acrescenta uma informação.
+>
+> Você atualiza o briefing, identifica quem fará cada verificação e combina o próximo passo. A conversa não terminou em um desenho precipitado; terminou em um registro confiável. Agora pratique essa sequência.
+
+### Sequência profissional de execução
+1. Preparar a conversa e identificar o objetivo do atendimento.
+2. Perguntar sobre usuários, rotina e condições atuais do ambiente.
+3. Investigar problemas com exemplos observáveis.
+4. Aprofundar consequências e resultados esperados.
+5. Identificar prioridades, restrições e participantes da decisão.
+6. Registrar cada dado com sua origem e status.
+7. Distinguir medidas verificadas de informações copiadas de plantas ou referências.
+8. Identificar hipóteses e pendências, atribuindo responsável e próximo passo.
+9. Devolver uma síntese ao cliente e solicitar correções.
+10. Registrar a versão confirmada e encaminhar as verificações necessárias.
+
+**Ponto de parada:** não tratar planta antiga, foto, estimativa verbal ou hipótese como medida confirmada. Não marcar como aprovada uma escolha que o cliente ainda não validou.
+
+### Caso aplicado
+Uma cliente deseja uma cozinha igual a uma fotografia. Ela menciona eletrodomésticos embutidos, mas ainda não definiu os modelos. O aluno deve organizar o que foi relatado, o que consta na referência, o que precisa ser medido e o que depende de especificação dos equipamentos. Deve explicar por que o layout permanece preliminar até que os dados necessários sejam confirmados.
+
+### Exercício de campo
+Em dupla, simular um atendimento de 15 minutos. Uma pessoa representa o cliente e fornece informações progressivamente. A outra conduz a conversa e entrega:
+- briefing de uma página;
+- classificação de cada informação por origem e status;
+- lista de pendências com responsável;
+- síntese final para confirmação;
+- próximo passo combinado.
+
+### Avaliação por competência
+| Critério | 1 — Inicial | 2 — Em desenvolvimento | 3 — Competente | 4 — Consistente |
+|---|---|---|---|---|
+| Condução | Interroga ou oferece solução cedo | Segue perguntas sem aprofundar | Conduz diálogo natural e objetivo | Adapta a sequência sem perder foco |
+| Escuta e confirmação | Não confirma entendimento | Resume parcialmente | Devolve e confirma a síntese | Incorpora correções e verifica entendimento compartilhado |
+| Rastreabilidade | Mistura fontes e hipóteses | Registra algumas origens | Identifica origem, status e pendência | Mantém histórico claro de decisões e responsáveis |
+| Encaminhamento | Não define próximo passo | Define ação genérica | Define ação, responsável e dependências | Prioriza pendências críticas e combina retorno claro |
+
+**Aprovação sugerida:** nível 3 ou superior em rastreabilidade e encaminhamento. Erro crítico: transformar informação não verificada em medida ou decisão aprovada.
+
+### Transferência para o trabalho
+Aplicar o modelo de briefing em atendimentos novos. Indicadores: percentual de briefings com origem e status das informações; quantidade de dúvidas de projeto causadas por registro ambíguo; alterações após aprovação atribuídas a falha de confirmação. Acompanhar por período definido e comparar com a linha de base.
+
+---
+
+## Aula 3 — Percepção de valor, confiança e decisão de compra no alto padrão
+
+### Resultado de aprendizagem observável
+O aluno deverá apresentar uma proposta conectando prioridades confirmadas, especificações, evidências, custos, limites e riscos, e responder a uma objeção sem pressionar o cliente. Evidência: mapa de valor e simulação comercial avaliada por rubrica.
+
+### Fundamentação a mobilizar
+Retome valor percebido como avaliação contextual de benefícios e sacrifícios, fontes de incerteza e evidências adequadas para sustentar afirmações. Não apresente modelos de marketing como fórmulas universais de previsão. Diferencie benefício esperado de desempenho comprovado e apresentação visual de especificação técnica.
+
+### Conexão com a rotina do vendedor projetista
+O vendedor projetista precisa explicar por que uma solução foi proposta e como ela responde às prioridades do cliente. Isso exige coerência entre briefing, desenho, materiais, ferragens, escopo, prazo, instalação e pós-venda. O profissional não deve prometer desempenho, prazo ou condição que não tenha sido validada pela documentação ou pela área responsável.
+
+### Visualização guiada PCH — “Apresentar valor é tornar a escolha compreensível”
+> Imagine-se diante de um cliente que olha para a proposta e diz: “Está mais caro do que eu esperava”. Você não responde com desconto automático e não tenta vencer uma discussão.
+>
+> Você faz uma pausa e pergunta qual aspecto pesa mais: investimento total, forma de pagamento, diferença de escopo ou comparação com outra proposta. Escuta a resposta e confirma o que entendeu.
+>
+> Agora imagine a proposta aberta diante de vocês. Ao lado de cada prioridade confirmada existe uma solução, uma especificação e uma evidência. Onde há informação ausente, você não improvisa: registra como ponto a esclarecer.
+>
+> Você compara itens equivalentes, explica o que está incluído e o que não está, apresenta alternativas e seus efeitos. O cliente pode perguntar, discordar, pedir tempo ou escolher outra opção. Você respeita a decisão.
+>
+> A conversa termina com clareza: o cliente sabe o que está sendo comparado, quais são os limites e qual é o próximo passo. Agora transforme essa cena em uma apresentação verificável.
+
+### Sequência profissional de execução
+1. Revisar o briefing e identificar prioridades efetivamente confirmadas.
+2. Relacionar cada prioridade ao requisito correspondente.
+3. Identificar a solução proposta e sua especificação.
+4. Separar evidência disponível de benefício esperado.
+5. Verificar escopo, exclusões, condições, prazo e dependências com as áreas responsáveis.
+6. Apresentar a proposta em linguagem compreensível, sem exagerar atributos.
+7. Ao receber objeção, perguntar o que está sendo comparado ou o que permanece incerto.
+8. Comparar escopos equivalentes e marcar dados ausentes.
+9. Apresentar alternativas e consequências, inclusive quando uma opção mais simples for suficiente.
+10. Registrar dúvidas, decisões, pendências e próximo passo, respeitando a autonomia do cliente.
+
+**Ponto de parada:** não afirmar que uma ferragem suporta determinada carga, que um acabamento terá certo desempenho ou que um prazo está garantido sem documentação e validação correspondentes.
+
+### Caso aplicado
+Duas propostas de cozinha apresentam valores diferentes. Uma descreve poucos detalhes; a outra especifica materiais, ferragens, montagem e assistência. O aluno não pode concluir que a segunda é superior nem que a primeira omite itens. Deve construir uma matriz de equivalência, marcar o que não foi informado, solicitar esclarecimentos e relacionar diferenças às prioridades do cliente.
+
+### Exercício de campo
+Realizar uma simulação comercial de 10 a 12 minutos com a objeção “encontrei mais barato”. Entregar:
+- mapa de valor com pelo menos três prioridades;
+- matriz de comparação com itens equivalentes e dados ausentes;
+- resposta à objeção sem pressão;
+- registro de riscos, limites e próximo passo.
+
+### Avaliação por competência
+| Critério | 1 — Inicial | 2 — Em desenvolvimento | 3 — Competente | 4 — Consistente |
+|---|---|---|---|---|
+| Relação entre prioridade e solução | Apresenta características sem contexto | Relaciona algumas soluções | Conecta prioridades a soluções específicas | Compara alternativas e explicita trade-offs |
+| Uso de evidências | Faz afirmações sem comprovação | Apresenta evidências parciais | Sustenta afirmações com documentos adequados | Identifica limites da evidência e pendências |
+| Tratamento da objeção | Pressiona ou oferece desconto imediato | Faz pergunta superficial | Investiga, confirma e responde com clareza | Compara critérios sem desqualificar alternativas |
+| Ética e transparência | Omite limites ou cria urgência artificial | Explica parte do escopo | Expõe escopo, limites e autonomia de escolha | Antecipa ambiguidades e registra decisões com precisão |
+
+**Aprovação sugerida:** nível 3 ou superior em evidências e ética/transparência. Erro crítico: apresentar como comprovado um atributo sem evidência ou pressionar o cliente com informação enganosa.
+
+### Transferência para o trabalho
+Aplicar o mapa de valor em propostas selecionadas. Indicadores: percentual de propostas com escopo e exclusões claros; dúvidas recorrentes sobre itens incluídos; alterações decorrentes de expectativas não alinhadas; avaliação do cliente sobre clareza da apresentação. Definir linha de base e não atribuir automaticamente toda variação ao desempenho individual do vendedor.
+
+---
+
+## Fechamento integrado das três aulas — Da escuta à decisão
+
+O aluno deverá executar uma simulação completa:
+1. receber um pedido genérico;
+2. investigar rotina e necessidades;
+3. produzir briefing rastreável;
+4. identificar pendências de medição e especificação;
+5. elaborar mapa de valor preliminar;
+6. apresentar uma alternativa com limites explícitos;
+7. responder a uma objeção;
+8. registrar a decisão e o próximo passo.
+
+**Evidência final:** ficha de descoberta, briefing, lista de pendências, mapa de valor e gravação ou apresentação observada da simulação, conforme os recursos e consentimentos disponíveis.
+
+**Critério de domínio da sequência:** o aluno não avança para uma promessa de projeto ou desempenho quando faltam dados críticos. Deve demonstrar escuta, rastreabilidade, clareza técnica, justificativa e respeito à decisão do cliente.
+
+**Registro de revisão:** este complemento foi elaborado para as três aulas da Semana 1. Sua inclusão no repositório não comprova, por si só, que o conteúdo esteja publicado ou que os recursos de áudio tenham sido testados em navegador ou celular.

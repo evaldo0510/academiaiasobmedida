@@ -237,3 +237,169 @@ Cada desenho deve ter título, código, escala quando aplicável, unidade, data,
 - **Aula 3:** Catálogo ABNT para normas de desenho técnico aplicáveis; ISO 7170, métodos de ensaio de unidades de armazenamento quando aplicável; documentação de processo da fábrica.
 
 Normas e métodos de ensaio não definem automaticamente a capacidade de qualquer móvel. Confirme escopo e edição antes de aplicar.
+
+
+---
+
+# Complemento de Aprendizagem Imersiva PCH — Semana 7
+
+O detalhamento deve transformar intenção em instrução inequívoca para fabricação e montagem. O aluno deve compreender os limites de sua análise: conceitos estruturais ajudam a formular perguntas e identificar riscos, mas não substituem cálculo, ensaio, norma ou validação de profissional habilitado quando exigidos.
+
+## Aula 1 — O móvel como sistema de engenharia
+
+### Resultado de aprendizagem observável
+Representar o caminho das cargas de um módulo, identificar apoios e riscos de deformação ou instabilidade e registrar quais dados ainda são necessários para validar a solução.
+
+### Fundamentação aplicada
+Um móvel é um sistema de componentes conectados. A carga percorre prateleiras, laterais, divisórias, bases, ligações, pés ou ancoragens. A falha pode ocorrer no painel, na união, no apoio, na fixação ou no substrato. Avaliar apenas a espessura de uma peça ignora o comportamento do conjunto.
+
+Diferencie resistência, rigidez e estabilidade. Resistência se relaciona à capacidade de suportar esforços sem falha; rigidez, à oposição à deformação; estabilidade, à manutenção do equilíbrio e da configuração. Um móvel pode não romper, mas deformar o suficiente para prejudicar portas, gavetas, funcionamento ou segurança.
+
+### Visualização guiada PCH — Siga o caminho da carga
+“Imagine uma estante cheia de livros. Não olhe apenas para a prateleira. Acompanhe o peso: da superfície para os apoios, dos apoios para as laterais, das laterais para a base e da base para o piso ou sistema de fixação. Em cada encontro, pergunte: o que recebe o esforço? O que o transmite? O que pode deformar, soltar ou tombar? O projeto ganha segurança quando você enxerga o conjunto, não somente a peça isolada.”
+
+**Pausa de reflexão:** em seu desenho, você consegue explicar para onde vai a carga de cada componente?
+
+### Sequência profissional
+1. Descreva função, conteúdo, usuários e condições de uso.
+2. Registre dimensões do ambiente e do módulo.
+3. Identifique cargas próprias, conteúdo previsto e esforços de uso relevantes.
+4. Diferencie cargas distribuídas e concentradas.
+5. Desenhe o percurso entre componentes, ligações e apoios.
+6. Identifique vãos, balanços, pontos de fixação e possíveis instabilidades.
+7. Verifique material e dados técnicos dos componentes.
+8. Avalie risco de tombamento, inclusive com gavetas abertas e conteúdo deslocado.
+9. Registre hipóteses, lacunas e necessidade de cálculo ou validação.
+10. Só libere a solução após as verificações pertinentes e aprovações necessárias.
+
+**Ponto de parada:** não declare capacidade de carga, espessura segura ou ancoragem adequada sem base técnica aplicável. Não escolha bucha ou parafuso sem identificar o substrato e as condições de fixação.
+
+### Caso profissional
+Uma estante alta possui prateleiras longas e gavetões inferiores. O aluno deverá representar o caminho das cargas, identificar cenários de gavetas abertas, distribuição do conteúdo, risco de tombamento, pontos de ancoragem e dados ainda desconhecidos sobre parede e fixação.
+
+### Exercício
+Desenhe elevação e esquema lateral da estante. Use setas para indicar cargas e apoios. Faça uma tabela com componente, esforço a investigar, modo de falha possível, dado necessário, fonte e responsável pela validação.
+
+### Avaliação por competência
+- **Leitura do sistema:** identifica componentes e conexões.
+- **Caminho das cargas:** explica a transmissão de esforços.
+- **Riscos:** reconhece deformação, instabilidade e tombamento.
+- **Evidências:** identifica dados e fontes necessários.
+- **Limites:** encaminha dimensionamento e ancoragem quando exigidos.
+
+Níveis: 1 — Inicial (avalia apenas peças isoladas); 2 — Em desenvolvimento (identifica apoios, mas omite ligações); 3 — Competente (representa o sistema e suas pendências); 4 — Consistente (analisa cenários de uso, riscos e validações com rastreabilidade).
+
+### Transferência para o trabalho
+Escolha um módulo e registre se o desenho mostra apoios, ligações, cargas de uso e ancoragens. Observe retrabalhos relacionados a deformação, tombamento, desprendimento ou fixação e encaminhe a causa para análise técnica.
+
+---
+
+## Aula 2 — Ligações, materiais e construção
+
+### Resultado de aprendizagem observável
+Produzir um detalhe ampliado de união entre componentes, identificando ferragem, posição, furação, recuos, sequência, ferramenta e documentação do fabricante.
+
+### Fundamentação aplicada
+A ligação é parte do sistema estrutural. Seu desempenho depende do tipo de conector, substrato, espessura, distância de borda, geometria, qualidade da furação, instalação, torque ou aperto indicado e condições de serviço. Um conector adequado em material incompatível ou mal instalado pode falhar.
+
+Diferencie função de posicionamento, alinhamento, aperto, desmontagem e transferência de esforços. Cavilhas, parafusos, conectores excêntricos, encaixes, colagens e suportes possuem requisitos próprios. Semelhança visual ou dimensional não comprova intercambialidade.
+
+### Visualização guiada PCH — A união também precisa ser desenhada
+“Imagine duas peças que parecem se encaixar perfeitamente. Agora aproxime o olhar. Onde ficará o conector? Qual é o recuo? Qual a profundidade? A ferramenta alcança? A borda suporta a furação? A montagem poderá ser repetida? O detalhe que não aparece na imagem final pode determinar a qualidade do móvel. Desenhe a união para quem vai executar, não apenas para quem vai admirar.”
+
+**Pausa de reflexão:** seu detalhe permite que outro profissional fabrique a união sem precisar adivinhar medidas ou componentes?
+
+### Sequência profissional
+1. Identifique as peças e a função da união.
+2. Registre material, espessura e acabamento.
+3. Defina o conector e o código comercial exato.
+4. Consulte desenho, gabarito e manual do fabricante.
+5. Marque posição, quantidade, recuos, diâmetros e profundidades.
+6. Verifique distância de borda e risco de arrancamento.
+7. Confirme acesso da ferramenta e sequência de montagem.
+8. Avalie desmontagem, transporte e remontagem quando relevantes.
+9. Faça protótipo ou teste controlado quando o risco e o processo justificarem.
+10. Registre revisão do detalhe e aprovação.
+
+**Ponto de parada:** não copie furação de componente parecido nem misture conectores de linhas diferentes sem comprovação de compatibilidade.
+
+### Caso profissional
+Um módulo desmontável apresenta folga nas uniões após transporte e remontagem. O aluno deve investigar substrato, tipo de conector, furação, distância de borda, aperto, ciclos de montagem, alinhamento e sequência. Deve indicar quando a solução exige reparo tecnicamente aprovado ou redesenho.
+
+### Exercício
+Produza detalhe ampliado da união entre lateral, base e divisória. Inclua identificação das peças, código do conector, cotas de furação, recuos, profundidades, sequência, ferramenta e fonte oficial. Marque qualquer medida ainda não confirmada.
+
+### Avaliação por competência
+- **Identificação:** peças e função da união claras.
+- **Compatibilidade:** conector adequado ao substrato e espessura.
+- **Detalhamento:** furação e sequência inequívocas.
+- **Executabilidade:** ferramenta e acesso considerados.
+- **Rastreabilidade:** código e manual registrados.
+
+Níveis: 1 — Inicial (desenha símbolo sem especificar); 2 — Em desenvolvimento (identifica conector, mas omite parâmetros); 3 — Competente (detalha conforme documento oficial); 4 — Consistente (antecipa execução, manutenção e riscos de remontagem).
+
+### Transferência para o trabalho
+Selecione uma ligação recorrente na oficina. Compare o detalhe usado, o gabarito, o conector recebido e o resultado de montagem. Registre divergências e atualize o padrão somente após aprovação técnica.
+
+---
+
+## Aula 3 — Desenho técnico e pacote executivo para fabricação
+
+### Resultado de aprendizagem observável
+Elaborar um pacote executivo simplificado, com vistas, cortes, cotas, detalhes, lista de peças e revisão, permitindo que outro profissional identifique o que fabricar e como conferir.
+
+### Fundamentação aplicada
+Desenho técnico é linguagem de coordenação. Uma imagem renderizada comunica intenção visual, mas não substitui cotas, materiais, usinagens, ferragens, tolerâncias, sequência e referências de instalação. A documentação deve evitar ambiguidades e manter coerência entre desenho, lista de peças, plano de corte, etiquetas e montagem.
+
+Cada dimensão deve indicar o que representa: medida do ambiente, externa do módulo, interna útil, fabricação ou instalação. Cotas conflitantes e redundantes criam risco de interpretação. Revisões precisam ter identificação, data, responsável e histórico de alterações.
+
+### Visualização guiada PCH — O desenho precisa conversar com a oficina
+“Imagine que você não estará presente quando o móvel for fabricado. A equipe recebe apenas o pacote de documentos. Ela consegue identificar cada peça? Sabe qual material usar, onde aplicar fita, onde furar e qual ferragem instalar? Consegue distinguir a medida do ambiente da medida de fabricação? Se uma informação depende de adivinhação, o desenho ainda não terminou. O bom detalhamento permite que o projeto atravesse as mãos de diferentes profissionais sem perder o sentido.”
+
+**Pausa de reflexão:** qual informação você costuma deixar apenas na sua cabeça, esperando que a oficina descubra?
+
+### Sequência profissional
+1. Identifique projeto, módulo, código, unidade, escala quando aplicável, data e revisão.
+2. Registre as referências do ambiente e as medidas verificadas.
+3. Produza vistas e cortes necessários à compreensão.
+4. Insira cotas gerais, externas, internas e funcionais sem conflito.
+5. Identifique materiais, padrões, espessuras e acabamentos.
+6. Detalhe ferragens, ligações, folgas e usinagens.
+7. Identifique instalações, ventilação, passagens e acessos técnicos.
+8. Gere lista de peças com código único, quantidade, medidas e bordas.
+9. Compatibilize lista, desenho, plano de corte e etiquetas.
+10. Registre pendências, aprovações, revisão e responsável pela liberação.
+
+**Ponto de parada:** não libere produção com medida crítica pendente, desenho conflitante, ferragem sem código, instalação incompatível ou aprovação ausente.
+
+### Caso profissional
+Uma cozinha planejada possui parede fora de esquadro e ponto hidráulico deslocado. O aluno deve apresentar levantamento, cotas de referência, interferências, solução proposta, responsável pela validação e aprovação necessária antes da fabricação. Não deve ajustar medidas por suposição.
+
+### Exercício
+Monte um pacote executivo de um gabinete: elevação frontal, corte lateral, detalhe de ligação, identificação de ferragem, lista de peças e checklist de compatibilização. Peça a outro aluno para interpretar o material sem explicações verbais. Registre dúvidas e revise o documento.
+
+### Avaliação por competência
+- **Representação:** vistas e cortes comunicam o conjunto.
+- **Cotagem:** dimensões e referências são inequívocas.
+- **Detalhamento:** materiais, ferragens e usinagens identificados.
+- **Consistência:** desenho, lista e plano de corte correspondem.
+- **Controle:** revisão, pendências e aprovação registradas.
+
+Níveis: 1 — Inicial (depende de explicação oral); 2 — Em desenvolvimento (documenta o geral, mas omite detalhes); 3 — Competente (pacote executável e consistente); 4 — Consistente (documentação rastreável, revisada e interpretável por terceiros).
+
+### Transferência para o trabalho
+Meça quantas dúvidas de produção surgem por falta de informação no desenho. Registre alterações após liberação, divergências entre lista e plano de corte e retrabalhos associados a revisão desatualizada.
+
+---
+
+## Integração prática da Semana 7 — Do briefing ao pacote liberado
+
+**Desafio:** detalhar um módulo de estante ou gabinete, do requisito de uso à documentação de fabricação.
+
+**Entregáveis:** requisitos e restrições; esquema do caminho das cargas; desenho cotado; detalhe de ligação; identificação de ferragens; lista de peças; checklist de compatibilização; registro de revisão e aprovação.
+
+**Critérios de aprovação:** nível mínimo 3 em todas as competências; nenhum dimensionamento sem base; desenho interpretável por terceiro; códigos consistentes; pendências técnicas explícitas; revisão e responsável identificados.
+
+**Indicadores para o instrutor:** dúvidas de fabricação por projeto; alterações após liberação; divergências entre desenho e lista; falhas de furação/união; retrabalho de montagem; qualidade do registro de revisão.
+
+**Fechamento PCH:** “Um projeto está pronto para a oficina quando deixa de depender da memória de quem o criou e passa a orientar, com clareza, quem vai executá-lo.”

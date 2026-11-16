@@ -149,3 +149,48 @@ O caso estará concluído quando houver evidência de briefing, levantamento, al
 
 ### Registro pessoal
 As respostas digitadas no laboratório da plataforma são armazenadas apenas no navegador do usuário, via armazenamento local. Não há sincronização em nuvem. O usuário pode exportar o dossiê em JSON para backup.
+
+
+---
+
+## Experiência multimodal PCH — do briefing à entrega
+
+O projeto integrador deve reunir os mesmos canais de aprendizagem usados nas semanas: leitura, escuta, observação, visualização guiada e execução. Os recursos abaixo são especificações de produção, não mídias já publicadas.
+
+### Estação 1 — Compreender pessoa e contexto
+- **Ler:** briefing, contexto, requisitos e pendências.
+- **Ouvir:** narração do caso e diálogo de diagnóstico consultivo.
+- **Enxergar:** mapa de usuários, rotina, ambiente e jornada de decisão.
+- **Aplicar:** produzir briefing rastreável, separando fatos, hipóteses e validações.
+
+### Estação 2 — Ler ambiente e desenvolver solução
+- **Ler:** planta, medidas, restrições, ergonomia e critérios de composição.
+- **Ouvir:** explicação das decisões de circulação, alcance, proporção e uso.
+- **Enxergar:** planta anotada, elevações, cortes e alternativas comparadas.
+- **Aplicar:** apresentar alternativas e justificar a recomendação com evidências.
+
+### Estação 3 — Tornar fabricável e executável
+- **Ler:** especificações, ferragens, ligações, lista de peças e documentos de fabricação.
+- **Ouvir:** explicação do fluxo projeto → detalhamento → fabricação → inspeção.
+- **Enxergar:** detalhes construtivos, diagramas, plano de corte e sequência de montagem.
+- **Aplicar:** revisar o pacote executivo, identificar incompatibilidades e registrar pontos de bloqueio.
+
+### Estação 4 — Construir valor e conduzir decisão
+- **Ler:** proposta, escopo, premissas, custos e condições.
+- **Ouvir:** apresentação consultiva que explica alternativas sem pressionar.
+- **Enxergar:** matriz requisito/solução/evidência, amostras identificadas e quadro comparativo.
+- **Aplicar:** apresentar proposta transparente e registrar decisão, pendências e próximo passo.
+
+### Estação 5 — Gerenciar experiência e aprender com dados
+- **Ler:** cronograma, responsabilidades, inspeção, entrega e indicadores.
+- **Ouvir:** explicação dos marcos, riscos, comunicação e tratamento de não conformidades.
+- **Enxergar:** cronograma, matriz de responsabilidades, checklist de entrega e painel previsto versus realizado.
+- **Aplicar:** conduzir simulação de entrega, registrar ocorrências e realizar retrospectiva.
+
+### Recuperação ativa e avaliação final
+Ao final, o aluno deve conseguir explicar sem consulta a lógica do projeto, justificar decisões, identificar limites e mostrar evidências de cada etapa. A avaliação deve considerar produto técnico, processo, comunicação, segurança, rastreabilidade e capacidade de corrigir erros.
+
+### Acessibilidade e produção
+Áudios devem ter transcrição; vídeos, legendas; imagens técnicas, legendas e descrições textuais; gráficos, eixos, unidades e interpretação textual. Proteger dados pessoais, imagens de clientes e propriedade intelectual. Não usar renders como prova de medida ou viabilidade.
+
+**Status:** roteiro multimodal definido. A produção de áudios, imagens, vídeos e sua integração no ambiente digital ainda precisa ser realizada e testada.

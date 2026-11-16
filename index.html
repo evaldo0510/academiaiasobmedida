@@ -817,7 +817,7 @@ var pchScenes=[
 "Imagine o projeto atravessando todas as etapas. Visualize escopo, marcos, responsáveis, riscos, mudanças e aceite. Identifique o ponto em que uma decisão precisa de registro.",
 "Imagine uma tarefa repetitiva da marcenaria. Descreva o processo, proteja os dados, escolha onde a IA pode apoiar e verifique a saída com fonte e julgamento humano."
 ];
-function multimodalLayer(){
+function multimodalLayer(hasAudio){
  if(lesson<0)return "";
  var mod=Math.floor(lesson/4),step=lesson%4,flow=visualFlows[mod],title=S[mod][step],m=M[mod],nodes=flow.map(function(v,i){var active=i===step+1;return '<span style="display:inline-flex;align-items:center;justify-content:center;min-height:42px;padding:8px 10px;border:1px solid '+(active?'#d5b477':'#526256')+';border-radius:10px;background:'+(active?'#3b3425':'#1b2820')+';color:#f1f4ee;font-size:12px;text-align:center">'+esc(v)+'</span>'}).join('<span aria-hidden="true" style="color:#d5b477;font-weight:700">→</span>');
  var audio= '<div class="content audio-studio"><h3>Ouvir — explicação narrada</h3><p>Use a voz disponível no dispositivo para ouvir o conteúdo desta etapa. A voz e a qualidade dependem do navegador e do aparelho.</p><div class="audio-controls"><label for="voiceRate">Velocidade</label><select id="voiceRate" class="field"><option value="0.85">0,85×</option><option value="1" selected>1×</option><option value="1.1">1,1×</option><option value="1.25">1,25×</option></select><label for="voiceChoice">Voz do dispositivo</label><select id="voiceChoice" class="field"><option value="">Português (Brasil) — automática</option></select></div><div class="audio-controls"><button class="btn primary" onclick="speakLesson()">▶ Ouvir conteúdo</button><button class="btn" onclick="pauseLessonAudio()">Ⅱ Pausar</button><button class="btn" onclick="stopLessonAudio()">■ Parar</button></div><small id="audioStatus" aria-live="polite">Leitura em voz alta usa a voz disponível no dispositivo. Não é uma narração profissional pré-gravada.</small></div>';
@@ -825,10 +825,10 @@ function multimodalLayer(){
  var pch='<div class="content"><h3>Imaginar — visualização guiada PCH</h3><p>'+esc(pchScenes[mod])+'</p><div class="call"><b>Pausa:</b> respire naturalmente, reconstrua a situação e responda: o que eu sei? O que ainda é hipótese? Qual evidência preciso obter? Qual é meu próximo passo seguro?</div></div>';
  var apply='<div class="content"><h3>Aplicar — tarefa profissional</h3><p>Com base em <b>'+esc(title)+'</b>, produza um registro curto que contenha: um dado observado, uma hipótese identificada, um critério de decisão, uma evidência necessária e o próximo responsável/encaminhamento.</p></div>';
  var recover='<div class="content"><h3>Recuperar — verificação sem consulta</h3><ol><li>Explique o critério central desta etapa com suas próprias palavras.</li><li>Apresente um exemplo de aplicação em móveis sob medida.</li><li>Indique um limite, risco ou dado que não pode ser presumido.</li></ol><p>Registre sua resposta no caderno da aula e compare-a com a fundamentação.</p></div>';
- return (document.querySelector("#app .audio-studio")?"":audio)+visual+pch+apply+recover;
+ return (hasAudio?"":audio)+visual+pch+apply+recover;
 }
 var originalLessonHTMLForPCH=lessonHTML;
-lessonHTML=function(){var h=originalLessonHTMLForPCH();if(lesson<0)return h;var layer=multimodalLayer();return h.replace('<div class="hero">',layer+'<div class="hero">')};
+lessonHTML=function(){var h=originalLessonHTMLForPCH();if(lesson<0)return h;var layer=multimodalLayer(h.indexOf('class="audio-studio"')>=0);return h.replace('<div class="hero">',layer+'<div class="hero">')};
 var originalRenderForPCH=render;
 render=function(){originalRenderForPCH();if(page===1&&lesson>=0){var app=document.getElementById("app");if(app&&!app.querySelector(".audio-studio")){}setTimeout(function(){populateSpeechVoices();},0)}};
 render();

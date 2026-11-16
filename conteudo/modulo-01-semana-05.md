@@ -130,3 +130,176 @@ Adote a cadeia: requisito → componente no desenho → código de material → 
 - **Aula 3:** Catálogo ABNT; fichas técnicas, declarações e instruções oficiais dos fabricantes especificados; registros de rastreabilidade e inspeção.
 
 Nota: normas devem ser consultadas em versão vigente e aplicável. Este conteúdo não substitui dimensionamento, ensaios, laudos ou responsabilidade técnica.
+
+
+---
+
+# Complemento de Aprendizagem Imersiva PCH — Semana 5
+
+Este complemento enfatiza decisão técnica baseada em documentação. Exemplos são didáticos e não substituem ficha técnica, ensaio, dimensionamento, norma vigente ou responsabilidade técnica. Nenhuma propriedade deve ser presumida apenas pelo nome genérico do material.
+
+## Aula 1 — Painéis e substratos: selecionar pelo requisito
+
+### Resultado de aprendizagem observável
+O estudante deverá comparar materiais para uma aplicação definida, identificar dados técnicos necessários, localizar documentação do produto e justificar uma seleção preliminar sem atribuir propriedades universais a MDF, MDP, compensado ou madeira maciça.
+
+### Fundamentação aplicada
+A seleção começa pela função da peça e pelas solicitações que ela receberá: carga, vão, fixação, usinagem, exposição ambiental, acabamento, manutenção e processo de fabricação. MDF, MDP, compensado e madeira maciça apresentam estruturas e comportamentos diferentes, mas a família do material não basta para garantir desempenho. É indispensável identificar fabricante, linha, código, espessura, classe de uso e dados de ensaio pertinentes.
+
+Uma prateleira para livros, por exemplo, exige análise de vão, carga distribuída, deformação admissível, apoio e fixação. Não se deve afirmar que determinado painel suporta a carga sem dados e dimensionamento adequados.
+
+### Visualização guiada PCH — Primeiro a função, depois o material
+“Imagine uma prateleira carregada de livros. Antes de escolher a chapa, observe a função. Qual é o vão? Qual será a carga? Onde estarão os apoios? Como será fixada? Em que ambiente ficará? Agora imagine a ficha técnica ao lado do desenho. Cada número precisa ter unidade, método e contexto. Não escolha pelo costume ou pelo nome. Escolha quando a evidência responder ao requisito. Se faltar dado, registre a pendência. A precisão começa antes do corte.”
+
+**Pausa de reflexão:** você costuma escolher o material pelo hábito ou começa pela função e pelas condições reais de uso?
+
+### Sequência profissional
+1. Identifique a peça e sua função no conjunto.
+2. Registre ambiente, exposição e condições de uso.
+3. Determine solicitações relevantes: carga, vão, impacto, fixação e usinagem.
+4. Identifique substratos candidatos e códigos comerciais específicos.
+5. Consulte ficha técnica correspondente ao produto e à espessura.
+6. Verifique método de ensaio, unidade, tolerância e classe de uso.
+7. Compare apenas dados tecnicamente comparáveis.
+8. Identifique informações ausentes e solicite documentação.
+9. Encaminhe dimensionamento e validação ao responsável competente.
+10. Registre material aprovado, código, fonte e condições de aplicação.
+
+**Ponto de parada:** não libere corte ou compra com base em comparação genérica entre MDF, MDP e compensado quando faltarem código, espessura, dados de desempenho ou validação.
+
+### Caso profissional ampliado
+Uma prateleira longa deverá armazenar livros e objetos decorativos. O cliente deseja eliminar apoios aparentes. O estudante deve levantar comprimento, profundidade, carga estimada, distribuição, fixação, substrato, espessura e ambiente. Deve indicar quais dados dependem de cálculo e validação técnica. Não pode garantir que uma espessura escolhida “não vai envergar” sem fundamento.
+
+### Exercício de aplicação
+Compare dois produtos reais ou fichas técnicas fornecidas pelo instrutor para a mesma aplicação. Monte uma matriz com requisito, produto/código, espessura, dado técnico, método/unidade, fonte, lacuna e decisão preliminar. Sinalize informações que não podem ser comparadas diretamente.
+
+### Avaliação por competência
+- **Análise de aplicação:** identifica função e solicitações.
+- **Documentação:** encontra ficha técnica do produto correto.
+- **Interpretação:** considera método, unidade, espessura e classe.
+- **Rigor:** não generaliza propriedades nem inventa capacidade.
+- **Encaminhamento:** identifica necessidade de dimensionamento e validação.
+
+Níveis: 1 — Inicial (escolhe por nome ou costume); 2 — Em desenvolvimento (consulta dados, mas não verifica contexto); 3 — Competente (compara documentação pertinente e registra lacunas); 4 — Consistente (justifica seleção rastreável e encaminha corretamente os riscos de dimensionamento).
+
+### Transferência para o trabalho
+Revise amostras de especificações e compras. Identifique quantas incluem fabricante, linha, código, espessura e ficha técnica correspondente. Registre retrabalhos relacionados a substituições ou especificações incompletas.
+
+---
+
+## Aula 2 — Umidade, revestimentos e bordas: proteger o detalhe crítico
+
+### Resultado de aprendizagem observável
+O estudante deverá mapear fontes de água, vapor, calor e agentes de limpeza em um ambiente, identificar pontos vulneráveis e elaborar uma lista de medidas preventivas dependentes de especificação e instalação adequadas.
+
+### Fundamentação aplicada
+Água líquida, vapor e condensação são mecanismos distintos de exposição. Danos podem ocorrer em faces, bordas, recortes, furos, juntas, encontros com paredes e pontos próximos a sifões ou equipamentos. “Resistente à umidade” não significa impermeável. O desempenho depende do produto, revestimento, proteção das bordas, adesivo, qualidade da usinagem, montagem, instalação e manutenção.
+
+BP, HPL, lâmina natural, pintura/laca e filmes termoplásticos não são intercambiáveis. Cada sistema possui condições de aplicação e manutenção. A ficha do fabricante deve orientar resistência, limpeza, calor, abrasão e limitações.
+
+### Visualização guiada PCH — O risco mora no detalhe que ninguém vê
+“Imagine um gabinete instalado ao lado de uma cuba. A superfície parece protegida, mas observe o encontro, o recorte, a borda, o furo e a passagem do sifão. Onde a água pode chegar? Onde pode permanecer? Como será inspecionado? Agora percorra o ambiente com os olhos de quem fabrica e instala. O acabamento bonito precisa encontrar um detalhe bem resolvido. Não prometa impermeabilidade. Identifique a exposição, consulte a documentação e proteja o ponto vulnerável conforme o sistema especificado.”
+
+**Pausa de reflexão:** qual detalhe de um móvel próximo à água costuma receber menos atenção durante o orçamento?
+
+### Sequência profissional
+1. Mapeie fontes de respingo, vazamento, vapor, condensação e calor.
+2. Identifique faces, bordas, recortes, furos, juntas e encontros expostos.
+3. Verifique o substrato e o revestimento efetivamente especificados.
+4. Consulte instruções de uso, limpeza e limites do fabricante.
+5. Confirme compatibilidade de fita, adesivo e processo de colagem.
+6. Planeje proteção de recortes e encontros conforme projeto e orientação técnica.
+7. Verifique condições de instalação e acesso a componentes hidráulicos.
+8. Registre responsabilidades de instalação, inspeção e manutenção.
+9. Explique ao cliente limitações e cuidados de uso.
+10. Documente a solução aprovada e as pendências.
+
+**Ponto de parada:** não declare um painel ou acabamento impermeável sem documentação específica. Vazamentos e compatibilização hidráulica devem ser tratados pelo profissional competente.
+
+### Caso profissional ampliado
+Após um vazamento, o fundo de um gabinete apresenta inchamento. O estudante deverá distinguir causa imediata, ponto de entrada da água, vulnerabilidade do detalhe, condição de instalação e manutenção. Deve evitar atribuir automaticamente a falha à qualidade do painel sem inspeção e evidência.
+
+### Exercício de aplicação
+Desenhe ou fotografe, com autorização, um gabinete de área molhada. Marque fontes de exposição, bordas, juntas, recortes e pontos de inspeção. Produza uma matriz de risco com probabilidade, consequência, prevenção, responsável e evidência necessária. A classificação deve ser qualitativa e justificada, não apresentada como cálculo técnico.
+
+### Avaliação por competência
+- **Identificação:** reconhece mecanismos e fontes de exposição.
+- **Leitura do detalhe:** localiza bordas, juntas e recortes vulneráveis.
+- **Documentação:** consulta ficha e instrução do fabricante.
+- **Prevenção:** propõe medidas coerentes com o sistema e a função.
+- **Comunicação:** explica limites sem prometer impermeabilidade.
+
+Níveis: 1 — Inicial (considera apenas a face aparente); 2 — Em desenvolvimento (identifica algumas exposições); 3 — Competente (mapeia riscos e valida soluções); 4 — Consistente (integra projeto, fabricação, instalação, inspeção e orientação de uso).
+
+### Transferência para o trabalho
+Registre ocorrências de umidade e suas causas confirmadas. Diferencie falha de material, detalhe, fabricação, instalação, vazamento externo e manutenção. Use essa classificação para revisar checklists, sem atribuir causa sem evidência.
+
+---
+
+## Aula 3 — Especificação, qualidade e compra responsável
+
+### Resultado de aprendizagem observável
+O estudante deverá elaborar uma ficha de especificação rastreável e um checklist de recebimento, relacionando requisito, componente, código, ficha técnica, pedido, lote e inspeção. Deverá identificar quando uma substituição exige análise e aprovação.
+
+### Fundamentação aplicada
+Uma especificação precisa ser compreendida por projeto, compras, produção, instalação e cliente. Descrições genéricas como “MDF amadeirado” não identificam necessariamente produto, espessura, padrão, acabamento ou desempenho. A cadeia de rastreabilidade reduz ambiguidades e permite investigar divergências.
+
+Substituição de material não é mera troca comercial. A equivalência precisa considerar os requisitos relevantes, documentação, compatibilidade com usinagem e acabamento, disponibilidade e aprovação. Declarações ambientais ou de emissões também precisam de evidência específica; evite expressões absolutas como “zero emissão” ou “atóxico” sem comprovação aplicável.
+
+### Visualização guiada PCH — Do desenho ao lote recebido
+“Imagine a peça no desenho. Agora acompanhe sua identidade: código do material, ficha técnica, pedido, lote, recebimento e inspeção. Cada etapa precisa reconhecer o mesmo produto. Quando chega uma chapa diferente, não a trate como igual só porque a cor parece próxima. Pare, compare os requisitos, consulte a documentação e registre a aprovação. A qualidade não está apenas na aparência: está na correspondência entre o que foi especificado, comprado e instalado.”
+
+**Pausa de reflexão:** você consegue rastrear o material de uma peça instalada até o código e o lote recebidos?
+
+### Sequência profissional
+1. Descreva a função e o requisito do componente.
+2. Registre fabricante, linha, código e referência comercial.
+3. Especifique substrato, espessura, dimensões e tolerâncias pertinentes.
+4. Registre revestimento, padrão, textura, acabamento e sentido decorativo.
+5. Especifique fita de borda, cor, espessura e sistema de colagem, conforme necessário.
+6. Anexe ficha técnica e documentos aplicáveis.
+7. Vincule a especificação ao desenho, pedido e fornecedor.
+8. Ao receber, confira código, lote, quantidade, dimensões, tonalidade e danos.
+9. Segregue material não conforme e registre evidências.
+10. Aprove substituição somente após comparação documentada e autorização competente.
+
+**Ponto de parada:** não libere material divergente nem substituição por semelhança visual. Suspenda o uso até que a equivalência seja verificada e aprovada.
+
+### Caso profissional ampliado
+Dois fornecedores oferecem painéis visualmente semelhantes, mas com códigos, espessuras e fichas técnicas diferentes. O estudante deve comparar os requisitos do projeto, dados documentados, tolerâncias, acabamento, disponibilidade, custo total e consequências de eventual retrabalho. Deve registrar qual informação falta antes de recomendar a compra.
+
+### Exercício de aplicação
+Elabore uma ficha de especificação para gabinete de cozinha e outra para prateleira de closet. Inclua componente, função, substrato, código, espessura, revestimento, bordas, exposição, requisito crítico, documento, lote e status. Depois simule recebimento de uma chapa com divergência e registre a decisão de bloqueio, análise e aprovação.
+
+### Avaliação por competência
+- **Completude:** identifica produto e características essenciais.
+- **Rastreabilidade:** conecta desenho, código, pedido, lote e inspeção.
+- **Controle:** identifica divergências e não conformidades.
+- **Equivalência:** não aceita substituição apenas por aparência ou preço.
+- **Responsabilidade:** registra evidência, aprovação e comunicação.
+
+Níveis: 1 — Inicial (especifica genericamente); 2 — Em desenvolvimento (inclui alguns códigos, mas não rastreia lote); 3 — Competente (especificação e recebimento rastreáveis); 4 — Consistente (controla alterações, evidências e não conformidades de ponta a ponta).
+
+### Transferência para o trabalho
+Acompanhe a proporção de itens comprados com código e ficha técnica vinculados, divergências detectadas no recebimento e substituições formalmente aprovadas. Revise falhas de rastreabilidade e seus impactos na fabricação e instalação.
+
+---
+
+## Integração prática da Semana 5 — Da especificação à liberação do material
+
+**Desafio:** especificar os materiais de um gabinete de cozinha e de uma prateleira para livros, considerando exposição, carga, acabamento, documentação e rastreabilidade.
+
+**Entregáveis:**
+1. requisitos de cada componente;
+2. matriz comparativa de produtos identificados por código;
+3. fichas técnicas consultadas e dados extraídos com unidade e método;
+4. mapa de exposição e riscos;
+5. ficha de especificação;
+6. checklist de recebimento;
+7. registro de pendências e aprovação de substituições.
+
+**Critérios de aprovação:** nível mínimo 3 em cada competência; nenhuma propriedade inventada; produto identificado por código; fonte técnica correspondente; riscos e limites explicitados; validação técnica encaminhada quando necessária.
+
+**Indicadores para o instrutor:** precisão da especificação; correspondência entre código e ficha; qualidade da comparação; identificação de riscos de umidade e carga; rastreabilidade de lote; tratamento de não conformidades.
+
+**Fechamento PCH:** “A escolha técnica não nasce do palpite. Nasce do requisito, encontra a evidência e se confirma no produto que chega à oficina.”

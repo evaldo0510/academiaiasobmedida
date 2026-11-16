@@ -355,3 +355,56 @@ Antes de liberar mecanismos especiais, anexe desenho de trajetória, código e m
 **Indicadores para o instrutor:** percentual de itens com código e manual; divergências entre especificação e produto recebido; falhas de folga/alinhamento; ocorrências de interferência; qualidade do diagnóstico e do registro.
 
 **Fechamento PCH:** “A ferragem certa não é a mais famosa nem a mais cara. É a que corresponde ao movimento, à estrutura e ao uso que foram realmente especificados.”
+
+
+---
+
+# Camada multimodal PCH — Ler, ouvir, enxergar e aplicar
+
+Esta camada complementa as aulas existentes sem substituir nem apagar o conteúdo original. Os recursos visuais e sonoros são propostas de produção; não devem ser tratados como mídia já publicada ou testada.
+
+## Aula 1 — Dobradiças e articulações
+
+**Ouvir — roteiro de narração:** “A dobradiça precisa corresponder à geometria da porta, recobrimento, ângulo, massa e montagem. Confira o modelo exato e seu manual. Regulagem não deve esconder erro de furação, esquadro ou especificação.”
+
+**Enxergar — sequência visual necessária:**
+1. Dobradiça explodida com componentes identificados.
+2. diagrama de recobrimentos.
+3. sequência ilustrativa de regulagem conforme manual..
+
+**Pausa de observação:** antes de consultar a explicação, descreva o que percebe na imagem. Depois, compare sua leitura com a narração e identifique o que mudou em sua compreensão.
+
+**Aplicar e recuperar:** realize o exercício já previsto na aula e, sem consultar o material, explique o critério principal, uma limitação e a evidência que sustentaria sua decisão.
+
+## Aula 2 — Corrediças, gavetas e sistemas de extração
+
+**Ouvir — roteiro de narração:** “Capacidade, extração, folgas e dimensões dependem do modelo e da construção da gaveta. Leia a ficha técnica e confira a compatibilidade do conjunto antes de liberar fabricação.”
+
+**Enxergar — sequência visual necessária:**
+1. Corte lateral de gaveta e corrediça.
+2. comparação de extração parcial/total.
+3. tabela de folgas e dimensões extraída de manual de modelo identificado..
+
+**Pausa de observação:** antes de consultar a explicação, descreva o que percebe na imagem. Depois, compare sua leitura com a narração e identifique o que mudou em sua compreensão.
+
+**Aplicar e recuperar:** realize o exercício já previsto na aula e, sem consultar o material, explique o critério principal, uma limitação e a evidência que sustentaria sua decisão.
+
+## Aula 3 — Sistemas de elevação, portas de correr e mecanismos especiais
+
+**Ouvir — roteiro de narração:** “Analise trajetória, massa da frente, espaço livre, interferências e acesso de manutenção. Não combine componentes de linhas diferentes sem confirmação do fabricante nem invente capacidades.”
+
+**Enxergar — sequência visual necessária:**
+1. Diagramas de trajetória.
+2. comparação de sistemas articulados/correr.
+3. mapa de interferências e zona de segurança..
+
+**Pausa de observação:** antes de consultar a explicação, descreva o que percebe na imagem. Depois, compare sua leitura com a narração e identifique o que mudou em sua compreensão.
+
+**Aplicar e recuperar:** realize o exercício já previsto na aula e, sem consultar o material, explique o critério principal, uma limitação e a evidência que sustentaria sua decisão.
+
+## Exercício integrador multimodal
+Leia o caso e os critérios, ouça as narrações, interprete as imagens/diagramas e produza a entrega prática da semana. A avaliação deve observar a qualidade da decisão e sua justificativa, não a memorização isolada.
+
+**Acessibilidade e qualidade:** disponibilizar transcrição dos áudios; legendas para vídeos; descrição textual das imagens; rótulos além de cores; controles para pausar e repetir. Imagens conceituais não substituem ficha técnica, medição, norma ou validação profissional.
+
+**Status de produção:** roteiros e especificações didáticas registrados. Áudios, imagens e vídeos finais ainda precisam ser produzidos, revisados e testados na plataforma.

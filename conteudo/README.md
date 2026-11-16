@@ -7,9 +7,13 @@ A estrutura oficial é de 15 módulos e 30 semanas. A matriz completa está em [
 | Módulo | Semanas globais | Arquivos | Situação |
 |---|---:|---|---|
 | 1. Psicologia do consumidor | 1–2 | `modulo-01-semana-01.md`, `modulo-01-semana-02.md` | Conteúdo-fonte disponível; consolidação em duas semanas requer revisão |
-| 2. Neuroarquitetura e psicologia ambiental | 3–4 | `modulo-02-semana-03.md`, `modulo-02-semana-04.md` | Primeira versão didática criada; revisão técnica/editorial pendente |
-| 3. Ergonomia e antropometria | 5–6 | `modulo-03-semana-05.md`, `modulo-03-semana-06.md` | Primeira versão didática criada; revisão técnica/editorial pendente |
-| 4. Arquitetura, leitura de plantas e compatibilização | 7–8 | `modulo-04-semana-07.md`, `modulo-04-semana-08.md` | Primeira versão didática criada; revisão técnica/editorial pendente |
+| 2. Neuroarquitetura e psicologia ambiental | 3–4 | `modulo-02-semana-03.md`, `modulo-02-semana-04.md` | Conteúdo inicial e quatro etapas específicas no HTML principal; revisão/teste pendentes |
+| 3. Ergonomia e antropometria | 5–6 | `modulo-03-semana-05.md`, `modulo-03-semana-06.md` | Conteúdo inicial e quatro etapas específicas no HTML principal; revisão/teste pendentes |
+| 4. Arquitetura, leitura de plantas e compatibilização | 7–8 | `modulo-04-semana-07.md`, `modulo-04-semana-08.md` | Conteúdo inicial e quatro etapas específicas no HTML principal; revisão/teste pendentes |
+
+## Conteúdo dos Módulos 5 a 8
+
+Os arquivos-fonte antigos das semanas 5 a 8 foram preservados. O HTML principal recebeu quatro etapas específicas para cada um dos Módulos 5, 6, 7 e 8. A migração dos conteúdos para documentos canônicos com duas semanas por módulo, revisão e referências consolidadas ainda precisa ser concluída.
 
 ## Acervo-fonte legado a migrar
 
@@ -19,4 +23,4 @@ A migração deve dividir e aprofundar esses materiais em duas semanas específi
 
 ## Status das mídias e da plataforma
 
-Roteiros de narração e sequências visuais são planejamento editorial. Eles não são arquivos de áudio, vídeo ou imagem publicados. A integração de cada semana ao player, a navegação entre módulos, a acessibilidade e os testes em dispositivos precisam ser registrados separadamente.
+A camada multimodal foi integrada ao HTML principal para as 60 etapas: leitura, áudio por voz do dispositivo, gravação/envio de voz humana armazenada localmente, mapa visual conceitual, visualização guiada PCH, aplicação e recuperação ativa. Isso não significa que existam narrações profissionais ou imagens/vídeos reais para todas as etapas. Os módulos 9 a 15 ainda usam conteúdo-base genérico e precisam de aprofundamento disciplinar. O teste funcional no navegador e a publicação continuam pendentes.

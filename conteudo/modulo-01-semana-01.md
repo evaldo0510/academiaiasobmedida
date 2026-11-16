@@ -814,3 +814,56 @@ O aluno deverá executar uma simulação completa:
 **Critério de domínio da sequência:** o aluno não avança para uma promessa de projeto ou desempenho quando faltam dados críticos. Deve demonstrar escuta, rastreabilidade, clareza técnica, justificativa e respeito à decisão do cliente.
 
 **Registro de revisão:** este complemento foi elaborado para as três aulas da Semana 1. Sua inclusão no repositório não comprova, por si só, que o conteúdo esteja publicado ou que os recursos de áudio tenham sido testados em navegador ou celular.
+
+
+---
+
+# Camada multimodal PCH — Ler, ouvir, enxergar e aplicar
+
+Esta camada complementa as aulas existentes sem substituir nem apagar o conteúdo original. Os recursos visuais e sonoros são propostas de produção; não devem ser tratados como mídia já publicada ou testada.
+
+## Aula 1 — O que o cliente realmente está comprando?
+
+**Ouvir — roteiro de narração:** “Observe o pedido declarado sem tratá-lo como diagnóstico completo. Investigue a necessidade funcional, a expectativa e o significado que o ambiente tem para aquela pessoa. Separe fatos de hipóteses e confirme antes de recomendar.”
+
+**Enxergar — sequência visual necessária:**
+1. Diagrama pedido → pergunta → necessidade a confirmar.
+2. quadro característica/vantagem/benefício.
+3. cena de atendimento com briefing anotado..
+
+**Pausa de observação:** antes de consultar a explicação, descreva o que percebe na imagem. Depois, compare sua leitura com a narração e identifique o que mudou em sua compreensão.
+
+**Aplicar e recuperar:** realize o exercício já previsto na aula e, sem consultar o material, explique o critério principal, uma limitação e a evidência que sustentaria sua decisão.
+
+## Aula 2 — Como conduzir um diagnóstico consultivo sem transformar a conversa em interrogatório
+
+**Ouvir — roteiro de narração:** “Uma boa conversa não é uma sequência de perguntas automáticas. Escute, aprofunde, devolva o que compreendeu e confirme. Registre rotina, usuários, prioridades, restrições e decisões sem presumir respostas.”
+
+**Enxergar — sequência visual necessária:**
+1. Vídeo encenado de entrevista consultiva.
+2. mapa dos cinco níveis de diagnóstico.
+3. exemplo de briefing com fatos, hipóteses e pendências diferenciados..
+
+**Pausa de observação:** antes de consultar a explicação, descreva o que percebe na imagem. Depois, compare sua leitura com a narração e identifique o que mudou em sua compreensão.
+
+**Aplicar e recuperar:** realize o exercício já previsto na aula e, sem consultar o material, explique o critério principal, uma limitação e a evidência que sustentaria sua decisão.
+
+## Aula 3 — Percepção de valor, confiança e decisão
+
+**Ouvir — roteiro de narração:** “Valor não se sustenta apenas em adjetivos. Relacione a recomendação aos critérios que o cliente confirmou e mostre evidências, limites e alternativas comparáveis. A decisão precisa continuar sendo do cliente.”
+
+**Enxergar — sequência visual necessária:**
+1. Matriz requisito/solução/evidência.
+2. comparação de propostas com escopos distintos.
+3. fluxo visual de decisão com pontos de validação..
+
+**Pausa de observação:** antes de consultar a explicação, descreva o que percebe na imagem. Depois, compare sua leitura com a narração e identifique o que mudou em sua compreensão.
+
+**Aplicar e recuperar:** realize o exercício já previsto na aula e, sem consultar o material, explique o critério principal, uma limitação e a evidência que sustentaria sua decisão.
+
+## Exercício integrador multimodal
+Leia o caso e os critérios, ouça as narrações, interprete as imagens/diagramas e produza a entrega prática da semana. A avaliação deve observar a qualidade da decisão e sua justificativa, não a memorização isolada.
+
+**Acessibilidade e qualidade:** disponibilizar transcrição dos áudios; legendas para vídeos; descrição textual das imagens; rótulos além de cores; controles para pausar e repetir. Imagens conceituais não substituem ficha técnica, medição, norma ou validação profissional.
+
+**Status de produção:** roteiros e especificações didáticas registrados. Áudios, imagens e vídeos finais ainda precisam ser produzidos, revisados e testados na plataforma.

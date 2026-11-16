@@ -2,11 +2,11 @@
 
 **Status:** arquitetura curricular proposta para implementação progressiva na branch de trabalho.  
 **Padrão didático:** Aprendizagem Imersiva PCH — ler, ouvir, enxergar, imaginar, aplicar e recuperar.  
-**Carga sugerida:** 4 horas por semana; 3 aulas por semana; 120 horas totais, sujeitas à validação pedagógica e operacional.
+**Organização da plataforma:** 15 módulos, 30 semanas e 60 etapas de aprendizagem (4 etapas por módulo; 2 etapas por semana). A interface atual apresenta carga estimada de aproximadamente 120 horas; essa estimativa deve ser confirmada na revisão pedagógica.
 
 ## 1. Princípio de organização
 
-A formação possui 15 módulos, cada um com duas semanas. Cada semana contém três aulas e uma entrega prática. O módulo é uma unidade de competência; a semana organiza a progressão; a aula desenvolve um resultado observável.
+A formação possui 15 módulos, cada um com duas semanas. Cada módulo contém quatro etapas; cada semana reúne duas etapas. Cada etapa deve conter estudo orientado, aplicação e evidência de aprendizagem. O módulo é uma unidade de competência; a semana organiza a progressão; a aula desenvolve um resultado observável.
 
 A arquitetura preserva os temas já existentes e distribui os conteúdos por afinidade disciplinar. Os arquivos antigos `conteudo/modulo-01-semana-01.md` a `conteudo/modulo-01-semana-15.md` são tratados como **acervo-fonte legado**, não como prova de que todas as semanas pertençam pedagogicamente ao Módulo 1. Seu conteúdo será reaproveitado, aprofundado e migrado para a estrutura modular canônica sem apagar o histórico.
 
@@ -32,7 +32,7 @@ A arquitetura preserva os temas já existentes e distribui os conteúdos por afi
 
 ## 3. Estrutura obrigatória de cada semana
 
-1. Três aulas com objetivos observáveis e pré-requisitos explícitos.
+1. Duas etapas de aprendizagem com objetivos observáveis e pré-requisitos explícitos. Os blocos de conteúdo podem ser distribuídos dentro dessas etapas, sem criar uma terceira etapa informal.
 2. Teoria aprofundada, conceitos definidos e limites de aplicação.
 3. Relação direta com a rotina de vendedor projetista, projetista, produção ou gestão, conforme o tema.
 4. Experiência multimodal: leitura, narração explicativa, sequência visual e aplicação.

@@ -403,3 +403,56 @@ Meça quantas dúvidas de produção surgem por falta de informação no desenho
 **Indicadores para o instrutor:** dúvidas de fabricação por projeto; alterações após liberação; divergências entre desenho e lista; falhas de furação/união; retrabalho de montagem; qualidade do registro de revisão.
 
 **Fechamento PCH:** “Um projeto está pronto para a oficina quando deixa de depender da memória de quem o criou e passa a orientar, com clareza, quem vai executá-lo.”
+
+
+---
+
+# Camada multimodal PCH — Ler, ouvir, enxergar e aplicar
+
+Esta camada complementa as aulas existentes sem substituir nem apagar o conteúdo original. Os recursos visuais e sonoros são propostas de produção; não devem ser tratados como mídia já publicada ou testada.
+
+## Aula 1 — O móvel como sistema de engenharia
+
+**Ouvir — roteiro de narração:** “Observe como cargas percorrem prateleiras, laterais, bases, apoios e ancoragens. Rigidez, estabilidade e segurança dependem do conjunto, do material e das condições reais; não há capacidade universal sem cálculo e documentação.”
+
+**Enxergar — sequência visual necessária:**
+1. Diagrama de caminho das cargas.
+2. comparação de vão e apoio.
+3. esquema de estabilidade e risco de tombamento..
+
+**Pausa de observação:** antes de consultar a explicação, descreva o que percebe na imagem. Depois, compare sua leitura com a narração e identifique o que mudou em sua compreensão.
+
+**Aplicar e recuperar:** realize o exercício já previsto na aula e, sem consultar o material, explique o critério principal, uma limitação e a evidência que sustentaria sua decisão.
+
+## Aula 2 — Ligações, materiais e construção
+
+**Ouvir — roteiro de narração:** “Uma ligação transmite esforços e influencia montagem, manutenção e durabilidade. Compare conectores, cavilhas e parafusos pelas condições de uso e especificação; não escolha fixação sem conhecer substrato e geometria.”
+
+**Enxergar — sequência visual necessária:**
+1. Detalhes ampliados de ligações.
+2. sequência esquemática de montagem.
+3. quadro de seleção com variáveis e restrições..
+
+**Pausa de observação:** antes de consultar a explicação, descreva o que percebe na imagem. Depois, compare sua leitura com a narração e identifique o que mudou em sua compreensão.
+
+**Aplicar e recuperar:** realize o exercício já previsto na aula e, sem consultar o material, explique o critério principal, uma limitação e a evidência que sustentaria sua decisão.
+
+## Aula 3 — Desenho técnico, detalhamento e documentação para fabricação
+
+**Ouvir — roteiro de narração:** “O desenho deve permitir que outra pessoa fabrique sem depender da memória do projetista. Confira vistas, cortes, cotas, referências, lista de peças, plano de corte, revisão e aprovação.”
+
+**Enxergar — sequência visual necessária:**
+1. Prancha com planta/elevação/corte.
+2. exemplo de cotagem e lista de peças.
+3. fluxo revisão → compatibilização → liberação..
+
+**Pausa de observação:** antes de consultar a explicação, descreva o que percebe na imagem. Depois, compare sua leitura com a narração e identifique o que mudou em sua compreensão.
+
+**Aplicar e recuperar:** realize o exercício já previsto na aula e, sem consultar o material, explique o critério principal, uma limitação e a evidência que sustentaria sua decisão.
+
+## Exercício integrador multimodal
+Leia o caso e os critérios, ouça as narrações, interprete as imagens/diagramas e produza a entrega prática da semana. A avaliação deve observar a qualidade da decisão e sua justificativa, não a memorização isolada.
+
+**Acessibilidade e qualidade:** disponibilizar transcrição dos áudios; legendas para vídeos; descrição textual das imagens; rótulos além de cores; controles para pausar e repetir. Imagens conceituais não substituem ficha técnica, medição, norma ou validação profissional.
+
+**Status de produção:** roteiros e especificações didáticas registrados. Áudios, imagens e vídeos finais ainda precisam ser produzidos, revisados e testados na plataforma.

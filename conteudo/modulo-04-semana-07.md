@@ -2,9 +2,11 @@
 
 **Competência da semana:** Ler representações arquitetônicas básicas, reconhecer convenções, escalas, cotas e limites documentais antes de iniciar o projeto de mobiliário.
 
-**Organização sugerida:** 4 horas; 3 aulas; estudo de caso e entrega prática. Este documento inicia o conteúdo canônico do módulo e deve ser aprofundado com demonstrações reais e validação editorial antes de ser declarado publicado.
+**Organização sugerida:** duas etapas de aprendizagem na semana, integradas por três blocos de conteúdo, caso aplicado e entrega prática. Cada etapa combina leitura, escuta, observação, visualização guiada, aplicação e recuperação. Este documento inicia o conteúdo canônico do módulo e deve ser aprofundado com demonstrações reais e validação editorial antes de ser declarado publicado.
 
-## Aula 1 — Tipos de desenho: planta, corte, elevação e detalhe
+## Etapa 1 — Fundamentação e análise
+
+### Bloco de conteúdo 1 — Tipos de desenho: planta, corte, elevação e detalhe
 
 ### Resultado de aprendizagem
 Ao final, o aluno deverá explicar o conceito central, identificar limites de aplicação e produzir um registro profissional relacionado à tarefa.
@@ -32,7 +34,7 @@ Produza um registro relacionado ao tema da aula. Identifique dados de entrada, o
 3. Cite uma limitação ou risco de interpretação.
 4. Indique qual evidência ou validação sustenta a decisão.
 
-## Aula 2 — Escala, cotagem, símbolos e unidades
+### Bloco de conteúdo 2 — Escala, cotagem, símbolos e unidades
 
 ### Resultado de aprendizagem
 Ao final, o aluno deverá explicar o conceito central, identificar limites de aplicação e produzir um registro profissional relacionado à tarefa.
@@ -60,7 +62,9 @@ Produza um registro relacionado ao tema da aula. Identifique dados de entrada, o
 3. Cite uma limitação ou risco de interpretação.
 4. Indique qual evidência ou validação sustenta a decisão.
 
-## Aula 3 — Conferência documental e levantamento de dúvidas
+## Etapa 2 — Aplicação, validação e transferência
+
+### Bloco de conteúdo 3 — Conferência documental e levantamento de dúvidas
 
 ### Resultado de aprendizagem
 Ao final, o aluno deverá explicar o conceito central, identificar limites de aplicação e produzir um registro profissional relacionado à tarefa.

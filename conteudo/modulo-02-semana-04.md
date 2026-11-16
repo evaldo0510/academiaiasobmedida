@@ -112,7 +112,7 @@ Aplique o instrumento a um ambiente real com autorização e proteção de dados
 - GIFFORD, Robert. *Environmental Psychology: Principles and Practice*. Referência geral para relações entre pessoas e ambientes.
 - EVANS, Gary W. “The Built Environment and Mental Health”. *Journal of Urban Health*, 2003.
 - KAPLAN, Stephen. “The Restorative Benefits of Nature: Toward an Integrative Framework”. *Journal of Environmental Psychology*, 1995.
-- UL RICH, Roger S. et al. “Stress Recovery During Exposure to Natural and Urban Environments”. *Journal of Environmental Psychology*, 1991.
+- ULRICH, Roger S. et al. “Stress Recovery During Exposure to Natural and Urban Environments”. *Journal of Environmental Psychology*, 1991.
 
 **Nota de rigor:** referências bibliográficas orientam o estudo; não substituem consulta à edição vigente de normas, documentos oficiais, condições reais do local ou validação por profissional legalmente habilitado.  
 

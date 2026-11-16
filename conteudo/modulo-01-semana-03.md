@@ -235,3 +235,191 @@ Aplique a ficha em um atendimento anonimizado. Compare o pedido inicial com o br
 
 **Nota de rigor:** motivação não é inferida pela aparência ou pelo estilo do ambiente. O profissional investiga relatos, confirma interpretações e transforma informações em requisitos sujeitos a validação.
 
+
+
+---
+
+# Complemento de Aprendizagem Imersiva PCH — Semana 3
+
+Este complemento transforma os conceitos da semana em procedimentos observáveis de atendimento. A PCH é utilizada como recurso educacional de linguagem, atenção e ensaio mental; não é apresentada como psicoterapia, tratamento, hipnose clínica ou método cientificamente validado. O estudante deve distinguir relato do cliente, observação, hipótese, requisito preliminar e especificação validada.
+
+## Aula 1 — Necessidades e motivações: o que está por trás do pedido?
+
+### Resultado de aprendizagem observável
+Conduzir uma entrevista inicial que diferencie pedido declarado, necessidade relatada, desejo, preferência, motivação expressa e restrição. Produzir uma ficha de descoberta com falas relevantes, hipóteses explicitamente identificadas e perguntas de confirmação.
+
+### Fundamentação aplicada
+Motivação é um constructo teórico; não é possível observar diretamente a causa interna de uma escolha apenas pela aparência, pelo comportamento isolado ou pelo tipo de ambiente desejado. Teorias motivacionais ajudam a formular perguntas, mas não autorizam rotular o cliente. O consultor deve investigar atividades, objetivos e dificuldades concretas e confirmar a interpretação com a própria pessoa.
+
+No projeto sob medida, a distinção entre necessidade e solução desejada é operacionalmente importante. “Quero uma ilha” é uma solução imaginada; a necessidade pode estar relacionada a preparo, convivência, apoio ou armazenamento. A ilha pode ou não ser viável. A equipe só deve avaliar alternativas depois de entender o uso e verificar o espaço.
+
+### Visualização guiada PCH — Por trás do pedido existe uma rotina
+“Imagine que o cliente chega e diz: ‘Quero uma cozinha moderna’. Antes de desenhar, faça uma pausa. A palavra moderna ainda não mostra como aquela família vive. Imagine uma manhã comum: quem prepara o café, onde ficam os utensílios, como duas pessoas circulam, quais objetos precisam estar ao alcance? Agora volte à conversa. Não complete a história pelo cliente. Pergunte. Escute. Confirme. O pedido abre a porta; a rotina revela os requisitos que precisam ser investigados.”
+
+**Pausa de reflexão:** qual interpretação você costuma fazer rápido demais quando o cliente usa palavras amplas como moderno, bonito, prático ou sofisticado?
+
+### Sequência profissional de execução
+1. Registre o pedido inicial com as palavras do cliente, sem reinterpretá-lo.
+2. Pergunte o que motivou a procura neste momento.
+3. Investigue atividades, usuários, frequência e dificuldades concretas.
+4. Pergunte quais resultados são indispensáveis e quais seriam desejáveis.
+5. Diferencie necessidades relatadas, desejos, preferências e restrições.
+6. Registre hipóteses como hipóteses, nunca como fatos.
+7. Pergunte por exemplos concretos que confirmem ou refutem cada hipótese.
+8. Converta prioridades confirmadas em requisitos preliminares.
+9. Liste medições, documentos e validações técnicas ainda necessários.
+10. Faça uma síntese e peça ao cliente que corrija qualquer interpretação incorreta.
+
+**Ponto de parada:** não transforme uma hipótese sobre motivação em decisão de projeto. Se não foi confirmada pelo cliente, mantenha-a como pergunta em aberto.
+
+### Caso profissional ampliado
+Um casal pede um closet “de luxo”. Durante a conversa, um dos moradores relata dificuldade para encontrar roupas pela manhã; o outro deseja expor bolsas e acessórios. O estudante deve investigar frequência de uso, inventário, espaço disponível, manutenção, iluminação, orçamento e participação de ambos na decisão. Não deve concluir que luxo significa necessariamente vidro, iluminação embutida ou acabamento caro.
+
+### Exercício de aplicação
+Em duplas, simule um atendimento de 12 minutos. O cliente recebe um cartão de cenário com pedido amplo e três informações que só devem ser reveladas se forem investigadas. O consultor deve:
+- registrar o pedido literal;
+- fazer ao menos seis perguntas abertas;
+- distinguir fato relatado de hipótese;
+- confirmar uma síntese;
+- produzir três requisitos preliminares e duas pendências.
+
+### Avaliação por competência
+- **Investigação:** explora atividades e contexto sem interrogatório mecânico.
+- **Escuta:** permite que o cliente explique antes de propor.
+- **Distinção conceitual:** separa necessidade, desejo, preferência e restrição.
+- **Rigor:** não apresenta hipóteses como verdades.
+- **Registro:** documenta prioridades e pendências de forma compreensível.
+
+Níveis: 1 — Inicial (parte diretamente para a solução); 2 — Em desenvolvimento (faz perguntas, mas mistura hipóteses e fatos); 3 — Competente (investiga, confirma e registra); 4 — Consistente (conduz investigação fluida, inclusiva e rastreável, sem induzir respostas).
+
+### Transferência para o trabalho
+Em atendimentos acompanhados, compare o pedido inicial com o briefing confirmado. Registre quantas prioridades foram esclarecidas, quantas hipóteses foram corrigidas pelo cliente e quais retrabalhos poderiam decorrer de interpretações não confirmadas.
+
+---
+
+## Aula 2 — Jornada de decisão: da primeira ideia à contratação
+
+### Resultado de aprendizagem observável
+Mapear a jornada de um cliente de móveis planejados, identificando etapas possíveis, participantes, pontos de contato, dúvidas, riscos de experiência, responsáveis por respostas e próximo passo acordado.
+
+### Fundamentação aplicada
+A jornada é uma ferramenta para organizar a experiência, não um roteiro rígido nem um modelo preditivo individual. O cliente pode retornar à busca, alterar critérios, consultar outras pessoas ou suspender a decisão. Cada ponto de contato pode reduzir ou aumentar incerteza: primeiro atendimento, visita, medição, apresentação do projeto, orçamento, contrato, produção, instalação e assistência.
+
+A confiança comercial não deve ser confundida com simpatia ou persuasão. Ela depende de consistência entre o que é prometido e o que é realizado, clareza sobre escopo, registro das decisões, comunicação de mudanças e encaminhamento correto de dúvidas técnicas.
+
+### Visualização guiada PCH — A jornada é feita de encontros
+“Imagine o cliente desde a primeira mensagem até o uso do ambiente pronto. Em cada etapa, ele encontra uma pergunta: será que entenderam minha necessidade? O que está incluído? Quem confirma a medida? Quando receberei uma atualização? O que acontece se surgir uma mudança? Agora observe cada encontro como uma oportunidade de clareza. Não prometa o que a operação não controla. Identifique quem responde, qual informação falta e quando haverá retorno. A confiança cresce quando o processo é compreensível e os combinados são respeitados.”
+
+**Pausa de reflexão:** em qual ponto do processo o cliente costuma ficar sem saber o que acontecerá depois?
+
+### Sequência profissional de execução
+1. Identifique o gatilho da procura e o canal de entrada.
+2. Registre o que o cliente já pesquisou ou decidiu.
+3. Identifique usuários, participantes, aprovadores e responsáveis pelo pagamento, sem presumir que sejam a mesma pessoa.
+4. Mapeie os pontos de contato já ocorridos e os previstos.
+5. Em cada etapa, registre dúvida, informação disponível e informação faltante.
+6. Defina o responsável adequado por responder cada questão.
+7. Identifique dependências: medidas, projeto, aprovação, fabricante, obra, condomínio ou instalação.
+8. Registre decisões confirmadas e alterações de prioridade.
+9. Combine próximo passo, responsável e prazo realista.
+10. Atualize o mapa quando a jornada mudar.
+
+**Ponto de parada:** não atribua ao vendedor respostas que dependem de medição, projeto, fabricante, instalação ou responsável técnico. Encaminhe e acompanhe a pendência.
+
+### Caso profissional ampliado
+Uma cliente pesquisa referências, consulta um arquiteto e chega à marcenaria com uma planta preliminar. O parceiro deseja aprovar a estética; a pessoa que utilizará a cozinha quer entender organização interna; o responsável financeiro precisa comparar investimento. O estudante deve mapear as contribuições, combinar momentos de validação e evitar tratar uma única pessoa como porta-voz de todas as necessidades.
+
+### Exercício de aplicação
+Desenhe a jornada de um projeto residencial ou corporativo fictício com pelo menos seis pontos de contato. Para cada um, preencha: pergunta do cliente, informação disponível, informação faltante, responsável, risco de experiência, ação de acompanhamento e próximo passo. Acrescente um cenário de mudança de prioridade e mostre como o mapa seria atualizado.
+
+### Avaliação por competência
+- **Visão de processo:** reconhece pontos de contato antes, durante e depois da contratação.
+- **Participação:** identifica usuários e papéis decisórios sem pressupostos.
+- **Gestão de incerteza:** localiza dúvidas e dependências.
+- **Responsabilidade:** direciona perguntas ao responsável competente.
+- **Continuidade:** registra próximo passo e mantém o cliente informado.
+
+Níveis: 1 — Inicial (enxerga apenas a etapa de venda); 2 — Em desenvolvimento (mapeia etapas, mas não define responsáveis); 3 — Competente (mapeia pontos de contato e próximos passos); 4 — Consistente (antecipa lacunas, coordena participantes e mantém rastreabilidade sem prometer além da operação).
+
+### Transferência para o trabalho
+Observe quantos atendimentos têm próximo passo, responsável e prazo registrados. Identifique em que etapas surgem dúvidas repetidas ou ausência de comunicação. Use esses dados para propor melhorias no processo, sem atribuir toda a experiência a um único profissional.
+
+---
+
+## Aula 3 — Da escuta ao briefing: transformar motivação em projeto
+
+### Resultado de aprendizagem observável
+Converter relatos e prioridades confirmadas em requisitos preliminares claros, verificáveis e rastreáveis, identificando quais dependem de medição, projeto, fabricante ou validação técnica. Entregar um briefing revisado pelo cliente.
+
+### Fundamentação aplicada
+Um requisito útil descreve uma condição que a solução deverá atender. “Quero praticidade” é uma intenção ampla. Para torná-la operacional, é preciso investigar quais tarefas devem ficar mais simples, para quem, em que contexto e como será possível verificar o atendimento. A formulação preliminar não substitui dimensionamento, normas aplicáveis, compatibilização, ficha técnica ou aprovação do responsável competente.
+
+A devolução — resumir o que foi ouvido e pedir confirmação — é uma proteção contra erro de interpretação. Ela também permite que o cliente corrija prioridades antes que sejam incorporadas ao desenho e ao orçamento.
+
+### Visualização guiada PCH — A escuta se transforma em requisito
+“Imagine que você ouviu: ‘Preciso de mais praticidade’. Não transforme essa frase imediatamente em gavetas ou acessórios. Pergunte: praticidade em qual tarefa? Para quem? Em que momento? O que hoje dificulta? Escute a resposta e devolva com suas palavras. Quando o cliente confirmar, registre a necessidade. Depois, investigue medidas, equipamentos, acessos e limitações. A ideia começa na conversa, ganha forma no requisito e só se torna especificação depois das validações necessárias.”
+
+**Pausa de reflexão:** quantas vezes uma palavra genérica vira uma solução técnica antes de você descobrir o que ela significa para o cliente?
+
+### Sequência profissional de execução
+1. Reúna as falas relevantes e os dados já confirmados.
+2. Identifique usuário, atividade e contexto de uso.
+3. Formule a necessidade sem antecipar a solução.
+4. Pergunte ao cliente como reconhecerá que a necessidade foi atendida.
+5. Redija requisito preliminar em linguagem clara e verificável.
+6. Associe evidência ou método de verificação ao requisito.
+7. Identifique medidas, documentos, equipamentos e condições ainda desconhecidos.
+8. Encaminhe especificações e compatibilizações à etapa competente.
+9. Apresente a síntese ao cliente e solicite correções.
+10. Registre aprovação, pendências, responsável e próximo passo.
+
+**Ponto de parada:** não classifique um requisito como tecnicamente aprovado enquanto dimensões, compatibilidade e especificações aplicáveis não tiverem sido verificadas.
+
+### Caso profissional ampliado
+Uma família informa que duas pessoas cozinham juntas, deseja guardar pequenos eletrodomésticos e manter a bancada livre. O estudante deve investigar quais equipamentos existem, dimensões, frequência de uso, tomadas, ventilação, circulação e prioridades. Deve produzir requisitos preliminares, sem escolher automaticamente uma torre, armário ou mecanismo específico.
+
+### Exercício de aplicação
+Transforme cinco relatos genéricos em requisitos preliminares. Para cada um, preencha:
+- fala original;
+- usuário e atividade;
+- necessidade confirmada;
+- requisito preliminar;
+- forma de verificação;
+- dado ou medição pendente;
+- responsável pela validação;
+- confirmação do cliente.
+
+Depois, faça uma simulação de devolução do briefing em até quatro minutos.
+
+### Avaliação por competência
+- **Tradução:** transforma intenção em requisito sem saltar para solução.
+- **Verificabilidade:** define como o requisito poderá ser conferido.
+- **Rastreabilidade:** relaciona requisito à fala e à confirmação do cliente.
+- **Limites técnicos:** identifica dependências e não inventa especificações.
+- **Comunicação:** apresenta síntese clara e acolhe correções.
+
+Níveis: 1 — Inicial (repete palavras vagas ou propõe solução prematura); 2 — Em desenvolvimento (formula requisitos, mas sem verificação); 3 — Competente (requisitos claros, confirmados e com pendências); 4 — Consistente (briefing rastreável, verificável e alinhado aos usuários e à validação técnica).
+
+### Transferência para o trabalho
+Acompanhe a proporção de briefings confirmados antes do projeto, a quantidade de requisitos com método de verificação e as alterações decorrentes de interpretação incorreta. Revise a ficha de atendimento com base nos erros observados.
+
+---
+
+## Integração prática da Semana 3 — Do pedido ao briefing validável
+
+**Desafio integrador:** atender uma família que pede uma cozinha “moderna e prática”, tem diferentes opiniões sobre a presença de uma ilha e ainda não definiu todos os equipamentos.
+
+**Entregáveis:**
+1. registro do pedido literal e do contexto;
+2. ficha de necessidades, desejos, preferências e restrições;
+3. mapa de jornada com participantes e próximos passos;
+4. briefing com requisitos preliminares e formas de verificação;
+5. lista de pendências técnicas, responsáveis e validações;
+6. síntese devolvida ao cliente para confirmação.
+
+**Critérios de aprovação sugeridos:** nível mínimo 3 em cada competência; nenhuma hipótese apresentada como fato; necessidades vinculadas a atividades; participantes identificados sem pressupostos; requisitos verificáveis; pendências e responsáveis registrados.
+
+**Indicadores para o instrutor:** qualidade das perguntas abertas; precisão na distinção entre relato e hipótese; clareza do mapa de jornada; rastreabilidade dos requisitos; qualidade da devolução; adequação dos encaminhamentos técnicos.
+
+**Fechamento PCH:** “Não desenhe apenas o que foi pedido. Compreenda o que precisa funcionar. Não adivinhe a motivação. Investigue, confirme e transforme escuta em projeto.”
+

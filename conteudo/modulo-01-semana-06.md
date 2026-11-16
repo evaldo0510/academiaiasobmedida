@@ -408,3 +408,56 @@ Leia o caso e os critérios, ouça as narrações, interprete as imagens/diagram
 **Acessibilidade e qualidade:** disponibilizar transcrição dos áudios; legendas para vídeos; descrição textual das imagens; rótulos além de cores; controles para pausar e repetir. Imagens conceituais não substituem ficha técnica, medição, norma ou validação profissional.
 
 **Status de produção:** roteiros e especificações didáticas registrados. Áudios, imagens e vídeos finais ainda precisam ser produzidos, revisados e testados na plataforma.
+
+
+---
+
+# Camada multimodal PCH — Ler, ouvir, enxergar e aplicar
+
+Esta camada complementa as aulas existentes. Os roteiros e recursos visuais abaixo são especificações de produção, não mídias já publicadas.
+
+## Aula 1 — Dobradiças e articulações
+
+**Ouvir — roteiro de narração:** “A dobradiça deve corresponder à geometria, ao recobrimento, à massa e ao ângulo de abertura. Confira o modelo exato e o manual antes de especificar ou regular.”
+
+**Enxergar — sequência visual necessária:**
+1. Vista explodida da dobradiça.
+2. diagrama de recobrimentos.
+3. sequência ilustrativa baseada em manual identificado..
+
+**Pausa de observação:** descreva o que percebe antes de ouvir a explicação; depois compare sua leitura e identifique o detalhe que mudou sua compreensão.
+
+**Aplicar e recuperar:** realize o exercício da aula e, sem consultar o material, explique o critério principal, uma limitação e a evidência que sustentaria sua decisão.
+
+## Aula 2 — Corrediças, gavetas e extração
+
+**Ouvir — roteiro de narração:** “Capacidade, extração e folgas dependem do modelo e da construção da gaveta. Verifique ficha técnica e compatibilidade do conjunto antes de liberar fabricação.”
+
+**Enxergar — sequência visual necessária:**
+1. Corte lateral de gaveta.
+2. comparação de extração.
+3. tabela de folgas com fonte técnica..
+
+**Pausa de observação:** descreva o que percebe antes de ouvir a explicação; depois compare sua leitura e identifique o detalhe que mudou sua compreensão.
+
+**Aplicar e recuperar:** realize o exercício da aula e, sem consultar o material, explique o critério principal, uma limitação e a evidência que sustentaria sua decisão.
+
+## Aula 3 — Sistemas de elevação, portas de correr e mecanismos especiais
+
+**Ouvir — roteiro de narração:** “Analise trajetória, massa, espaço livre e manutenção. Não misture linhas nem invente capacidades sem confirmação do fabricante.”
+
+**Enxergar — sequência visual necessária:**
+1. Diagramas de trajetória.
+2. comparação de sistemas.
+3. mapa de interferências e zonas de segurança..
+
+**Pausa de observação:** descreva o que percebe antes de ouvir a explicação; depois compare sua leitura e identifique o detalhe que mudou sua compreensão.
+
+**Aplicar e recuperar:** realize o exercício da aula e, sem consultar o material, explique o critério principal, uma limitação e a evidência que sustentaria sua decisão.
+
+## Exercício integrador multimodal
+Leia o caso, ouça as narrações, interprete os diagramas e produza a entrega prática da semana. Avalie a decisão, a justificativa e a capacidade de reconhecer limites.
+
+**Acessibilidade:** transcrição dos áudios, legendas para vídeos, descrição textual de imagens e rótulos além de cores. Diagramas e demonstrações não substituem documentação técnica ou validação profissional.
+
+**Status de produção:** roteiros e especificações registrados; arquivos finais de áudio, imagem e vídeo ainda precisam ser produzidos, revisados e testados na plataforma.

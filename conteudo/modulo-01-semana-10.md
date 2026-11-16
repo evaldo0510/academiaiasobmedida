@@ -170,3 +170,65 @@ Faça demonstração de uso, explique limpeza e manutenção conforme fabricante
 
 ### Fechamento PCH — a memória da entrega
 O cliente pode esquecer a marca da dobradiça. Dificilmente esquece como foi tratado quando algo saiu diferente do esperado. A técnica resolve o problema; a comunicação preserva a confiança.
+
+
+---
+
+# Camada multimodal PCH — Ler, ouvir, enxergar e aplicar
+
+A instalação será ensinada como processo observável. O aluno deve visualizar a sequência, ouvir a justificativa de cada conferência e aplicar critérios de segurança, qualidade e comunicação. Vídeos demonstrativos não substituem treinamento, autorização ou supervisão.
+
+## Aula 1 — Planejamento da instalação e preparação do ambiente
+
+**Ler:** revisar projeto aprovado, revisão vigente, checklist pré-instalação, logística, riscos e pontos de parada.
+
+**Ouvir — roteiro de narração:** “Antes de carregar o veículo, confirme o que será instalado e em qual revisão. Depois, imagine a chegada ao local: acesso, elevador, circulação, proteção, infraestrutura e espaço para armazenar os volumes. Compare o ambiente real com o projeto. Se houver divergência, registre e encaminhe. Preparar a instalação é evitar que a equipe precise improvisar dentro da casa do cliente.”
+
+**Enxergar — sequência visual necessária:**
+1. Fluxograma pré-instalação: documentos → confirmação do ambiente → logística → equipe e ferramentas → liberação ou bloqueio.
+2. Checklist visual do ambiente: piso, paredes, acessos, pontos elétricos/hidráulicos, gás e ventilação.
+3. Diagrama de proteção de áreas comuns, circulação e armazenamento.
+4. Exemplo de registro de divergência com foto autorizada, medida, data, responsável e status.
+
+**Pausa de observação:** o aluno observa um cenário com ponto hidráulico deslocado e identifica o que deve ser bloqueado antes da montagem.
+
+**Aplicar:** preencher ficha de liberação pré-instalação e justificar cada decisão de liberar, condicionar ou interromper.
+
+## Aula 2 — Montagem, posicionamento, nivelamento e regulagem
+
+**Ler:** estudar a diferença entre nível, prumo, esquadro e alinhamento; consultar critérios do projeto e manuais das ferragens.
+
+**Ouvir — roteiro de narração:** “Observe o módulo antes de fixar. Ele está no nível? Está no prumo? As diagonais e os encontros indicam esquadro? A parede corresponde ao que foi medido? Cada verificação responde a uma pergunta diferente. Não force o móvel contra uma parede irregular e não use a regulagem da dobradiça para esconder um erro de montagem. Meça, registre e siga o detalhe aprovado.”
+
+**Enxergar — sequência visual necessária:**
+1. Ilustração lado a lado de nível, prumo, esquadro e alinhamento.
+2. Demonstração segura de instrumentos de medição em peça didática, sem instruir perfuração de infraestrutura desconhecida.
+3. Diagrama de armário alto em parede fora de prumo, com ponto de parada destacado.
+4. Exemplo de regulagem de ferragem conforme manual oficial do modelo, quando houver autorização e contexto seguro.
+
+**Pausa de observação:** identificar em uma imagem qual desvio é de prumo e qual é de nível, explicando por que não são a mesma medição.
+
+**Aplicar:** diagnosticar uma porta com folga irregular por meio de checklist, distinguindo geometria do módulo, fixação, frente, ferragem e interferência.
+
+## Aula 3 — Inspeção, não conformidades e entrega técnica
+
+**Ler:** revisar critérios de aceitação, evidências, registro de não conformidade, orientação de uso e termo de entrega.
+
+**Ouvir — roteiro de narração:** “A entrega precisa mostrar o que foi conferido e o que ainda está pendente. Abra portas e gavetas, verifique acabamento, alinhamento, estabilidade e acessos. Demonstre os mecanismos e explique os cuidados previstos pelo fabricante. Se algo não estiver concluído, registre com clareza, responsável e prazo. Confiança não nasce de esconder uma pendência; nasce de tratá-la com transparência.”
+
+**Enxergar — sequência visual necessária:**
+1. Checklist ilustrado de inspeção de acabamento, folgas, funcionamento e integridade.
+2. Exemplo preenchido de registro de não conformidade, com evidência, contenção, responsável e prazo.
+3. Demonstração visual de entrega de mecanismos e cuidados de manutenção.
+4. Modelo de termo de entrega com campos de itens concluídos e pendentes.
+
+**Pausa de observação:** o aluno recebe uma vistoria simulada com duas portas desalinhadas e deve indicar como registrar sem declarar conclusão indevida.
+
+**Aplicar:** realizar uma vistoria simulada, apresentar pendências e elaborar termo de entrega com aceite compatível com a situação real.
+
+## Exercício integrador multimodal — instalação sem improviso
+O aluno recebe projeto aprovado fictício, fotos de ambiente, checklist logístico e relatório de inspeção. Deve ler os documentos, ouvir os roteiros, interpretar diagramas e decidir o que pode ser instalado, o que precisa de validação e o que deve ser bloqueado. Entregáveis: ficha pré-instalação, sequência de montagem, checklist de inspeção, registro de não conformidades e termo de entrega.
+
+**Verificação de aprendizagem:** explicar sem consulta a diferença entre nível, prumo e esquadro; apontar três motivos para interromper a instalação; descrever como registrar uma pendência de modo transparente.
+
+**Acessibilidade e segurança:** áudio com transcrição; imagens com legenda e descrição textual; vídeos legendados quando produzidos; qualquer demonstração prática deve seguir procedimento seguro e ser conduzida por pessoa competente.

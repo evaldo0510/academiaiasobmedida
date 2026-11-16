@@ -303,3 +303,56 @@ Acompanhe a proporção de itens comprados com código e ficha técnica vinculad
 **Indicadores para o instrutor:** precisão da especificação; correspondência entre código e ficha; qualidade da comparação; identificação de riscos de umidade e carga; rastreabilidade de lote; tratamento de não conformidades.
 
 **Fechamento PCH:** “A escolha técnica não nasce do palpite. Nasce do requisito, encontra a evidência e se confirma no produto que chega à oficina.”
+
+
+---
+
+# Camada multimodal PCH — Ler, ouvir, enxergar e aplicar
+
+Esta camada complementa as aulas existentes sem substituir nem apagar o conteúdo original. Os recursos visuais e sonoros são propostas de produção; não devem ser tratados como mídia já publicada ou testada.
+
+## Aula 1 — Painéis e substratos
+
+**Ouvir — roteiro de narração:** “Compare MDF, MDP, compensado e madeira maciça por composição, aplicação, limitações e ficha técnica. A escolha começa no requisito e termina no código real do produto, não em generalizações sobre um material.”
+
+**Enxergar — sequência visual necessária:**
+1. Corte esquemático dos substratos.
+2. comparação de fichas técnicas.
+3. amostras identificadas por fabricante e código..
+
+**Pausa de observação:** antes de consultar a explicação, descreva o que percebe na imagem. Depois, compare sua leitura com a narração e identifique o que mudou em sua compreensão.
+
+**Aplicar e recuperar:** realize o exercício já previsto na aula e, sem consultar o material, explique o critério principal, uma limitação e a evidência que sustentaria sua decisão.
+
+## Aula 2 — Umidade, revestimentos, bordas e desempenho
+
+**Ouvir — roteiro de narração:** “Observe onde a água, vapor, calor, abrasão e limpeza podem atuar. O detalhe vulnerável costuma estar em bordas, juntas, recortes e encontros. Não prometa impermeabilidade sem documentação do produto e do sistema.”
+
+**Enxergar — sequência visual necessária:**
+1. Diagrama de caminhos de umidade.
+2. detalhe ampliado de borda e recorte.
+3. comparação de revestimentos com códigos e limitações..
+
+**Pausa de observação:** antes de consultar a explicação, descreva o que percebe na imagem. Depois, compare sua leitura com a narração e identifique o que mudou em sua compreensão.
+
+**Aplicar e recuperar:** realize o exercício já previsto na aula e, sem consultar o material, explique o critério principal, uma limitação e a evidência que sustentaria sua decisão.
+
+## Aula 3 — Especificação, qualidade e compra responsável
+
+**Ouvir — roteiro de narração:** “Uma especificação rastreável informa fabricante, código, espessura, acabamento, lote e fonte técnica. No recebimento, confira o produto efetivo contra o aprovado e trate substituições como mudança que exige validação.”
+
+**Enxergar — sequência visual necessária:**
+1. Modelo de ficha de especificação.
+2. checklist de recebimento.
+3. exemplo de não conformidade e fluxo de aprovação de substituição..
+
+**Pausa de observação:** antes de consultar a explicação, descreva o que percebe na imagem. Depois, compare sua leitura com a narração e identifique o que mudou em sua compreensão.
+
+**Aplicar e recuperar:** realize o exercício já previsto na aula e, sem consultar o material, explique o critério principal, uma limitação e a evidência que sustentaria sua decisão.
+
+## Exercício integrador multimodal
+Leia o caso e os critérios, ouça as narrações, interprete as imagens/diagramas e produza a entrega prática da semana. A avaliação deve observar a qualidade da decisão e sua justificativa, não a memorização isolada.
+
+**Acessibilidade e qualidade:** disponibilizar transcrição dos áudios; legendas para vídeos; descrição textual das imagens; rótulos além de cores; controles para pausar e repetir. Imagens conceituais não substituem ficha técnica, medição, norma ou validação profissional.
+
+**Status de produção:** roteiros e especificações didáticas registrados. Áudios, imagens e vídeos finais ainda precisam ser produzidos, revisados e testados na plataforma.

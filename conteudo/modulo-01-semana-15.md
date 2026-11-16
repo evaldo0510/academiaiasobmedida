@@ -218,3 +218,56 @@ Teste um processo administrativo de baixo risco manualmente e com IA, usando dad
 6. OpenAI. [Documentação técnica de engenharia de prompts](https://platform.openai.com/docs/guides/prompt-engineering).
 
 > **Nota de rigor:** IA generativa pode produzir erros, omissões e conteúdo desatualizado. Não use suas respostas como validação independente de medidas, cargas, dimensionamento, segurança, normas, preços ou obrigações legais. Decisões técnicas devem ser verificadas por profissionais competentes e documentação aplicável. A referência a frameworks e normas não implica certificação da empresa nem garante conformidade. O uso de dados pessoais deve observar a LGPD, contratos e políticas da ferramenta escolhida.
+
+
+---
+
+# Camada multimodal PCH — Ler, ouvir, enxergar e aplicar
+
+Esta camada complementa as aulas existentes. Os roteiros e recursos visuais abaixo são especificações de produção, não mídias já publicadas.
+
+## Aula 1 — Fundamentos de IA e oportunidades na marcenaria
+
+**Ouvir — roteiro de narração:** “Identifique tarefas em que IA pode apoiar pesquisa, organização, comunicação e visualização. Diferencie apoio automatizado de decisão humana.”
+
+**Enxergar — sequência visual necessária:**
+1. Mapa de processos antes/depois.
+2. exemplos de tarefas assistidas.
+3. diagrama humano–IA com pontos de validação..
+
+**Pausa de observação:** descreva o que percebe antes de ouvir a explicação; depois compare sua leitura e identifique o detalhe que mudou sua compreensão.
+
+**Aplicar e recuperar:** realize o exercício da aula e, sem consultar o material, explique o critério principal, uma limitação e a evidência que sustentaria sua decisão.
+
+## Aula 2 — Engenharia de prompts, dados e validação
+
+**Ouvir — roteiro de narração:** “Um bom prompt explicita contexto, objetivo, dados, restrições e formato. Teste respostas contra fontes e proteja dados pessoais e propriedade intelectual.”
+
+**Enxergar — sequência visual necessária:**
+1. Anatomia de prompt.
+2. comparação entre prompt vago e estruturado.
+3. checklist de validação e privacidade..
+
+**Pausa de observação:** descreva o que percebe antes de ouvir a explicação; depois compare sua leitura e identifique o detalhe que mudou sua compreensão.
+
+**Aplicar e recuperar:** realize o exercício da aula e, sem consultar o material, explique o critério principal, uma limitação e a evidência que sustentaria sua decisão.
+
+## Aula 3 — Fluxos digitais, integração e indicadores
+
+**Ouvir — roteiro de narração:** “Desenhe entradas, sistemas, responsáveis, validações e saídas. Meça tempo, retrabalho e qualidade antes de declarar ganhos.”
+
+**Enxergar — sequência visual necessária:**
+1. Diagrama de fluxo integrado.
+2. painel de indicadores.
+3. exemplo de log e trilha de auditoria..
+
+**Pausa de observação:** descreva o que percebe antes de ouvir a explicação; depois compare sua leitura e identifique o detalhe que mudou sua compreensão.
+
+**Aplicar e recuperar:** realize o exercício da aula e, sem consultar o material, explique o critério principal, uma limitação e a evidência que sustentaria sua decisão.
+
+## Exercício integrador multimodal
+Leia o caso, ouça as narrações, interprete os diagramas e produza a entrega prática da semana. Avalie a decisão, a justificativa e a capacidade de reconhecer limites.
+
+**Acessibilidade:** transcrição dos áudios, legendas para vídeos, descrição textual de imagens e rótulos além de cores. Diagramas e demonstrações não substituem documentação técnica ou validação profissional.
+
+**Status de produção:** roteiros e especificações registrados; arquivos finais de áudio, imagem e vídeo ainda precisam ser produzidos, revisados e testados na plataforma.

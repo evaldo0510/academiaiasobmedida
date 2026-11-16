@@ -343,3 +343,56 @@ Avalie se o perfil de uso foi confirmado antes do detalhamento e se os requisito
 **Indicadores para o instrutor:** qualidade das perguntas; precisão do mapa de rotina; adequação dos requisitos; clareza das pendências; capacidade de adaptar a comunicação sem estereotipar.
 
 **Fechamento PCH:** “Compreender o cliente não é encaixá-lo em um perfil. É compreender a rotina que o projeto precisa respeitar.”
+
+
+---
+
+# Camada multimodal PCH — Ler, ouvir, enxergar e aplicar
+
+Esta camada complementa as aulas existentes sem substituir nem apagar o conteúdo original. Os recursos visuais e sonoros são propostas de produção; não devem ser tratados como mídia já publicada ou testada.
+
+## Aula 1 — Personalidade: diferenças individuais sem rótulos
+
+**Ouvir — roteiro de narração:** “Modelos de traços descrevem tendências gerais, não autorizam diagnosticar ou classificar clientes. Na prática comercial, adapte a comunicação ao que a pessoa demonstra e confirma, sem inferir personalidade por aparência ou estilo.”
+
+**Enxergar — sequência visual necessária:**
+1. Gráfico didático de dimensões do Big Five com ressalvas.
+2. diálogo com duas preferências de comunicação.
+3. quadro observação versus rótulo..
+
+**Pausa de observação:** antes de consultar a explicação, descreva o que percebe na imagem. Depois, compare sua leitura com a narração e identifique o que mudou em sua compreensão.
+
+**Aplicar e recuperar:** realize o exercício já previsto na aula e, sem consultar o material, explique o critério principal, uma limitação e a evidência que sustentaria sua decisão.
+
+## Aula 2 — Estilo de vida: a casa como cenário da rotina real
+
+**Ouvir — roteiro de narração:** “Projete a partir de atividades, horários, usuários, frequência e objetos. Pergunte como o espaço é usado em vez de imaginar uma rotina ideal. Converta respostas em requisitos preliminares e valide as medidas.”
+
+**Enxergar — sequência visual necessária:**
+1. Mapa visual de rotina diária.
+2. planta com zonas de atividade.
+3. quadro atividade/frequência/necessidade/solução..
+
+**Pausa de observação:** antes de consultar a explicação, descreva o que percebe na imagem. Depois, compare sua leitura com a narração e identifique o que mudou em sua compreensão.
+
+**Aplicar e recuperar:** realize o exercício já previsto na aula e, sem consultar o material, explique o critério principal, uma limitação e a evidência que sustentaria sua decisão.
+
+## Aula 3 — Perfis de consumo aplicados ao atendimento
+
+**Ouvir — roteiro de narração:** “Use perfis como hipóteses de necessidades de informação, nunca como estereótipos fixos. Descubra se o cliente prioriza manutenção, estética, prazo, flexibilidade ou custo e documente suas próprias palavras.”
+
+**Enxergar — sequência visual necessária:**
+1. Cartões de cenários de prioridade.
+2. matriz de critérios de decisão.
+3. exemplo de roteiro adaptável sem rótulos..
+
+**Pausa de observação:** antes de consultar a explicação, descreva o que percebe na imagem. Depois, compare sua leitura com a narração e identifique o que mudou em sua compreensão.
+
+**Aplicar e recuperar:** realize o exercício já previsto na aula e, sem consultar o material, explique o critério principal, uma limitação e a evidência que sustentaria sua decisão.
+
+## Exercício integrador multimodal
+Leia o caso e os critérios, ouça as narrações, interprete as imagens/diagramas e produza a entrega prática da semana. A avaliação deve observar a qualidade da decisão e sua justificativa, não a memorização isolada.
+
+**Acessibilidade e qualidade:** disponibilizar transcrição dos áudios; legendas para vídeos; descrição textual das imagens; rótulos além de cores; controles para pausar e repetir. Imagens conceituais não substituem ficha técnica, medição, norma ou validação profissional.
+
+**Status de produção:** roteiros e especificações didáticas registrados. Áudios, imagens e vídeos finais ainda precisam ser produzidos, revisados e testados na plataforma.

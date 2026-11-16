@@ -186,3 +186,28 @@ A integração entre palavras e imagens pode apoiar a construção de representa
 
 ### 8.7 Registro de produção e teste
 Para cada recurso registrar: aula; objetivo; tipo de mídia; roteiro; fonte/autoria/licença; duração ou formato; transcrição/legenda; descrição alternativa; revisão técnica; teste de reprodução; dispositivo/navegador; resultado e pendência. Não marcar como produzido, acessível ou testado algo que ainda seja apenas uma orientação editorial.
+
+
+## 9. Organização curricular em módulos e semanas
+
+A formação está estruturada em 15 módulos, com duas semanas por módulo, totalizando 30 semanas. Cada módulo representa uma competência central; cada semana organiza uma etapa de desenvolvimento; cada semana contém três aulas e uma entrega prática.
+
+A distribuição dos temas, a relação com o acervo-fonte e o status de produção devem seguir a matriz oficial `docs/matriz-curricular-15-modulos-30-semanas.md`. Não classificar uma semana como implementada apenas porque existe um título, uma matriz, um roteiro ou um arquivo parcial.
+
+### 9.1 Estados editoriais obrigatórios
+
+- **Planejada:** existe objetivo e desenho curricular.
+- **Em produção:** o conteúdo está sendo escrito ou complementado.
+- **Revisada:** conteúdo e referências passaram por revisão editorial e técnica.
+- **Integrada à plataforma:** conteúdo está ligado à navegação e ao player.
+- **Testada:** navegação, recursos, acessibilidade e comportamento foram verificados no ambiente indicado.
+
+Os estados são sequenciais e não intercambiáveis. A publicação exige evidência da etapa correspondente.
+
+### 9.2 Estrutura mínima de cada semana
+
+Duas semanas por módulo não significam duas páginas superficiais. Cada semana deve conter três aulas, resultados observáveis, fundamentação, conexão com prática profissional, narração planejada, sequência visual, visualização guiada PCH, caso, exercício, rubrica, transferência, recuperação ativa, referências e nota de limites. O conteúdo deve ser específico à disciplina e evitar copiar o mesmo roteiro genérico entre módulos.
+
+### 9.3 Preservação do acervo
+
+Arquivos antigos devem ser tratados como fontes até que sejam revisados e migrados. A migração deve preservar conteúdo autoral e referências úteis, mas pode reorganizar, dividir, aprofundar e remover redundâncias com registro claro. Não apagar material-fonte nem declarar que foi migrado sem verificar o arquivo canônico correspondente.

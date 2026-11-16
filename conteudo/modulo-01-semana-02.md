@@ -165,3 +165,195 @@ O cliente precisa de dois monitores, armazenamento de documentos e espaço de le
 **Nota de rigor:** os estudos citados ajudam a compreender julgamentos e valor percebido; não comprovam que uma técnica de venda funcione para todos. A recomendação deve apoiar-se em requisitos confirmados, evidências e transparência.
 
 **Aprender · Aplicar · Evoluir.**
+
+
+---
+
+# Complemento de Aprendizagem Imersiva PCH — Semana 2
+
+Este complemento aprofunda as três aulas sem substituir o conteúdo-base. A PCH é empregada aqui como recurso educacional de linguagem, atenção e ensaio mental; não constitui psicoterapia, tratamento, hipnose clínica ou método cientificamente validado. Em todas as atividades, o estudante deve distinguir fatos observados, informações declaradas, hipóteses e dados ainda não confirmados.
+
+## Aula 1 — Psicologia da decisão: como o cliente compara alternativas
+
+### Resultado de aprendizagem observável
+Ao final, o estudante deverá conduzir uma comparação consultiva entre duas propostas de móveis planejados, identificando critérios do cliente, equivalência de escopo, lacunas de informação e evidências necessárias. Deverá entregar uma matriz comparativa rastreável e uma recomendação provisória, sem pressão ou promessa não comprovada.
+
+### Fundamentação aplicada
+A decisão de compra é contextual e pode avançar, recuar ou ser revista. Em projetos sob medida, a comparação é especialmente vulnerável a assimetrias de informação: duas propostas podem ter preços diferentes porque incluem materiais, ferragens, acessórios, medição, instalação, garantia ou escopos distintos. Antes de interpretar a diferença de preço, o vendedor projetista precisa verificar se está comparando entregas equivalentes.
+
+Heurísticas como ancoragem, familiaridade e prova social ajudam a descrever alguns atalhos de julgamento, mas não permitem diagnosticar a pessoa nem prever sua escolha. O profissional deve usar esse conhecimento para melhorar a clareza da informação, não para explorar vulnerabilidades. A pergunta operacional é: “Que informação verificável falta para que esta comparação seja justa?”
+
+### Visualização guiada PCH — A decisão ganha clareza quando os critérios aparecem
+Leia devagar, fazendo pausas breves:
+
+“Imagine duas propostas sobre a mesa. Os valores estão visíveis, mas você ainda não sabe se os conteúdos são iguais. Respire e suspenda a conclusão apressada. Primeiro, observe o escopo. Depois, procure materiais, ferragens, acabamentos, medidas, instalação, prazo e garantias. Onde faltar informação, não invente: marque a lacuna. Agora imagine o cliente apontando o que realmente importa para sua rotina. Sua tarefa não é conduzir a mão dele até a proposta mais cara. É iluminar os critérios para que ele enxergue o que está escolhendo. Compare o que é comparável. Pergunte o que precisa ser confirmado. Recomende somente o que consegue justificar.”
+
+**Pausa de reflexão:** em qual momento de uma comparação comercial você costuma sentir vontade de concluir antes de ter evidências?
+
+### Sequência profissional de execução
+1. Recolha as duas propostas e confirme versão, data e escopo.
+2. Liste os ambientes e itens incluídos em cada uma.
+3. Compare materiais, espessuras, padrões e acabamentos conforme especificação disponível.
+4. Compare ferragens, acessórios, componentes e respectivas especificações.
+5. Verifique medição, projeto, revisões, transporte, montagem e assistência.
+6. Registre diferenças de prazo, condições, exclusões e garantias.
+7. Classifique cada dado como confirmado, declarado, não informado ou pendente.
+8. Pergunte ao cliente quais critérios têm maior peso e registre a resposta.
+9. Relacione cada diferença às prioridades, sem atribuir benefício que não possa ser demonstrado.
+10. Apresente a matriz, esclareça limites e combine o próximo passo.
+
+**Ponto de parada:** não declare uma proposta superior quando o escopo não for equivalente ou quando faltarem dados essenciais. Solicite esclarecimento ao fornecedor ou à equipe técnica.
+
+### Caso profissional ampliado
+Uma família recebe duas propostas para a mesma cozinha. A primeira tem valor global menor e não discrimina ferragens nem montagem. A segunda detalha os componentes, mas prevê prazo maior. O cliente pergunta: “Qual vocês escolheriam?”
+
+O vendedor projetista deve evitar responder com preferência pessoal. Deve mostrar o que está confirmado, o que não foi informado e quais perguntas precisam ser respondidas. Em seguida, deve investigar se prazo, investimento, durabilidade esperada, manutenção ou organização interna têm prioridade para aquela família. A recomendação só poderá ser formulada depois dessa etapa.
+
+### Exercício de aplicação
+Monte uma matriz com pelo menos oito critérios para comparar duas propostas fictícias. Inclua as colunas: critério, proposta A, proposta B, status da informação, evidência necessária, prioridade do cliente e impacto da diferença. Em seguida, grave ou escreva uma apresentação consultiva de até três minutos.
+
+### Avaliação por competência
+- **Comparabilidade:** distingue itens equivalentes de itens com escopos diferentes.
+- **Rastreabilidade:** identifica origem e status das informações.
+- **Investigação:** pergunta quais critérios importam ao cliente.
+- **Raciocínio:** relaciona diferenças a evidências e consequências plausíveis.
+- **Ética:** não usa âncora, escassez artificial, medo ou prova social inventada.
+
+Níveis: 1 — Inicial (compara principalmente valores); 2 — Em desenvolvimento (identifica algumas diferenças, mas deixa lacunas); 3 — Competente (compara escopos e registra pendências); 4 — Consistente (faz comparação rastreável, comunica limites e recomenda com justificativa verificável).
+
+### Transferência para o trabalho
+Nas próximas propostas acompanhadas, observe quantas comparações chegam com escopo incompleto, quantas pendências são resolvidas antes da decisão e quantas revisões decorrem de informação não esclarecida. Use os dados para aperfeiçoar o briefing, sem atribuir causalidade automática a uma única técnica.
+
+---
+
+## Aula 2 — Percepção de luxo: o que torna um ambiente valioso?
+
+### Resultado de aprendizagem observável
+Ao final, o estudante deverá analisar uma referência visual e convertê-la em um briefing de intenção estética e funcional, separando atributos visíveis de especificações técnicas ausentes. Deverá entregar uma ficha com requisitos, hipóteses, perguntas e validações necessárias.
+
+### Fundamentação aplicada
+A percepção de luxo varia conforme repertório, contexto, uso, cultura, orçamento e expectativas. No projeto de móveis planejados, “sofisticado”, “minimalista”, “aconchegante” ou “alto padrão” são pontos de partida, não especificações. Para transformá-los em decisões projetuais, o profissional precisa perguntar o que o cliente percebe nesses termos: linhas limpas, simetria, textura, iluminação, integração, silêncio visual, material natural, organização ou facilidade de manutenção.
+
+Uma fotografia oferece evidências limitadas. Pode revelar composição, cores aparentes, proporções relativas e elementos visíveis, mas não comprova composição do material, espessura, fabricante, resistência, ferragem, método de fixação, instalação elétrica, ventilação ou custo. A imagem deve ser tratada como referência de intenção, nunca como ficha técnica.
+
+### Visualização guiada PCH — Da imagem à necessidade real
+“Observe a imagem que o cliente trouxe. Não corra para copiar. Perceba a atmosfera: cores, volumes, luz, linhas e texturas. Agora retire mentalmente os adjetivos e pergunte o que cada detalhe faz pela rotina. O nicho organiza ou apenas decora? A iluminação facilita o uso ou cria um efeito visual? O acabamento combina com a manutenção que a família consegue realizar? Imagine o ambiente real, com suas paredes, medidas, pontos elétricos, circulação e orçamento. A referência inspira; a medição confirma; a especificação define. Seu projeto começa quando a imagem encontra a realidade.”
+
+**Pausa de reflexão:** que característica você já presumiu existir em um material apenas porque ela aparecia em uma fotografia?
+
+### Sequência profissional de execução
+1. Pergunte o que motivou a escolha da referência.
+2. Solicite ao cliente que identifique os elementos indispensáveis e os negociáveis.
+3. Descreva atributos visíveis sem inferir composição técnica.
+4. Separe estética, função, ergonomia, manutenção e orçamento.
+5. Registre dimensões e condições do ambiente que já foram verificadas.
+6. Liste dados técnicos ausentes: material, espessura, padrão, ferragem, fixação, iluminação e outros pertinentes.
+7. Identifique incompatibilidades possíveis com o ambiente ou com o uso.
+8. Encaminhe dúvidas técnicas à pessoa ou etapa competente.
+9. Apresente adaptações possíveis, deixando claro o que é hipótese.
+10. Obtenha validação do cliente sobre a intenção estética antes de fechar especificações.
+
+**Ponto de parada:** não prometa reprodução fiel de uma referência sem verificar disponibilidade de materiais, viabilidade construtiva, medidas e condições de instalação.
+
+### Caso profissional ampliado
+O cliente apresenta uma imagem de closet com portas de vidro, perfis metálicos, iluminação interna e acabamento amadeirado. A fotografia não informa tipo de vidro, espessura, ferragens, sistema de abertura, temperatura e acesso à iluminação, ventilação ou método de fixação. O estudante deve elaborar uma lista de perguntas e distinguir decisões estéticas de validações técnicas.
+
+### Exercício de aplicação
+Escolha uma referência visual autorizada para uso didático. Preencha quatro blocos:
+- **Observável:** o que realmente aparece na imagem.
+- **Intenção:** o que o cliente deseja sentir ou resolver.
+- **Não confirmado:** o que a imagem não permite concluir.
+- **Validação:** que medida, amostra, ficha técnica, consulta ou aprovação é necessária.
+
+Finalize com uma breve apresentação que traduza a intenção sem afirmar especificações inexistentes.
+
+### Avaliação por competência
+- **Leitura visual:** descreve elementos visíveis com precisão.
+- **Escuta:** investiga o significado dos adjetivos usados pelo cliente.
+- **Separação técnica:** não confunde aparência com composição ou desempenho.
+- **Viabilidade:** identifica dependências do ambiente e da execução.
+- **Comunicação:** explica adaptações e limites de modo compreensível.
+
+Níveis: 1 — Inicial (copia a imagem ou usa adjetivos genéricos); 2 — Em desenvolvimento (identifica elementos, mas mistura observação e suposição); 3 — Competente (separa intenção, observação e lacunas); 4 — Consistente (converte referência em briefing verificável e encaminha validações corretamente).
+
+### Transferência para o trabalho
+Em cada novo atendimento com imagens, registre quais referências foram convertidas em requisitos confirmados, quais exigiram adaptação e quais foram descartadas por incompatibilidade. Revise se as decisões foram validadas pelo cliente antes do detalhamento.
+
+---
+
+## Aula 3 — Construção de valor: apresentar opções sem confundir
+
+### Resultado de aprendizagem observável
+Ao final, o estudante deverá estruturar duas ou três alternativas comparáveis, conectando prioridades declaradas a soluções, evidências, investimento, limites e pendências. Deverá apresentar uma recomendação fundamentada e preservar a autonomia decisória do cliente.
+
+### Fundamentação aplicada
+Valor percebido não é sinônimo de preço alto. É uma avaliação que combina benefícios relevantes, custos monetários e não monetários, riscos, confiança, conveniência e experiência. A proposta comercial torna-se mais útil quando deixa explícito o que será entregue e permite compreender as diferenças entre alternativas.
+
+A arquitetura de opções deve evitar falsas escolhas. Uma opção “econômica” não pode esconder itens essenciais; uma opção “premium” não deve ser apresentada como automaticamente superior. Se as alternativas tiverem escopos diferentes, as diferenças precisam estar visíveis. Quando uma característica depende de validação técnica, ela deve permanecer identificada como pendência.
+
+### Visualização guiada PCH — O valor precisa ser compreendido, não empurrado
+“Imagine que você apresenta três caminhos. Cada caminho tem um desenho, um investimento e consequências diferentes. Antes de falar, recorde as prioridades que o cliente declarou. Mostre onde cada solução responde a essas prioridades. Diga também o que não está incluído, o que depende de confirmação e o que muda na manutenção ou no prazo. Faça uma pausa. Permita que o cliente compare. Uma boa recomendação não retira a liberdade de escolher; oferece clareza para que a escolha tenha fundamento.”
+
+**Pausa de reflexão:** sua apresentação evidencia as diferenças reais entre as opções ou tenta tornar uma delas irresistível por meio de palavras?
+
+### Sequência profissional de execução
+1. Confirme por escrito as prioridades e os requisitos indispensáveis.
+2. Defina o escopo-base comum às alternativas sempre que possível.
+3. Diferencie o que muda: materiais, ferragens, acessórios, recursos, acabamento ou serviços.
+4. Verifique especificações, disponibilidade e compatibilidade com o projeto.
+5. Registre investimento, prazo, condições, exclusões e garantias de cada opção.
+6. Identifique dependências e pendências que impedem o fechamento.
+7. Relacione cada prioridade à solução correspondente e à evidência disponível.
+8. Explique trade-offs em linguagem objetiva, sem desqualificar alternativas.
+9. Apresente recomendação provisória com justificativa e limites.
+10. Convide o cliente a revisar critérios, registrar dúvidas e definir o próximo passo.
+
+**Ponto de parada:** não solicite aprovação definitiva de item cuja medida, especificação, disponibilidade ou condição relevante ainda não tenha sido validada.
+
+### Caso profissional ampliado
+Um cliente deseja um home office para dois monitores, leitura e armazenamento de documentos. A equipe apresenta três configurações. O estudante deve verificar dimensões dos equipamentos, ergonomia e circulação com os responsáveis, organizar diferenças de armazenamento e gerenciamento de cabos e comparar investimento e prazo. Não pode afirmar que uma configuração é ergonomicamente adequada sem verificar medidas e requisitos aplicáveis.
+
+### Exercício de aplicação
+Crie três alternativas para um ambiente fictício, com escopo-base claramente definido. Para cada uma, apresente:
+- itens incluídos e excluídos;
+- materiais e ferragens especificados;
+- recursos e diferenças funcionais;
+- investimento e condições;
+- prazo e dependências;
+- manutenção e limitações;
+- prioridades atendidas;
+- evidências e pendências.
+
+Depois, escreva uma recomendação de até 150 palavras, baseada nas prioridades do cliente e sem linguagem de pressão.
+
+### Avaliação por competência
+- **Equivalência:** deixa claro o escopo comum e as diferenças.
+- **Especificação:** descreve materiais, componentes e serviços com precisão compatível com os dados disponíveis.
+- **Vínculo com prioridades:** demonstra por que cada solução atende ou não aos requisitos.
+- **Transparência:** explicita exclusões, riscos e pendências.
+- **Autonomia:** recomenda sem constranger, manipular ou esconder alternativas.
+
+Níveis: 1 — Inicial (apresenta preços e adjetivos sem comparação); 2 — Em desenvolvimento (compara alguns itens, mas omite limites); 3 — Competente (estrutura alternativas claras e justificadas); 4 — Consistente (apresenta opções rastreáveis, comunica trade-offs e facilita decisão autônoma).
+
+### Transferência para o trabalho
+Acompanhe a proporção de propostas com escopo e exclusões explícitos, a quantidade de dúvidas resolvidas antes da aprovação e as revisões causadas por divergência de expectativa. Use esses indicadores para revisar o processo, sem presumir que uma proposta mais longa seja automaticamente melhor.
+
+---
+
+## Integração prática da Semana 2 — Da referência à decisão consciente
+
+**Desafio integrador:** atender um cliente fictício que apresenta uma referência visual, duas propostas de valores diferentes e prioridades ainda pouco claras.
+
+**Entregáveis do estudante:**
+1. ficha de prioridades e perguntas de descoberta;
+2. análise da referência, separando observação, intenção e lacunas técnicas;
+3. matriz comparativa das propostas;
+4. duas ou três alternativas com escopo, investimento, limites e pendências;
+5. recomendação fundamentada e registro do próximo passo.
+
+**Critérios de aprovação sugeridos:** pelo menos nível 3 em cada competência da rubrica; nenhuma especificação técnica inventada; todas as pendências críticas identificadas; recomendação vinculada a prioridades confirmadas; linguagem comercial respeitosa e sem pressão.
+
+**Indicadores para o instrutor:** qualidade e rastreabilidade do briefing; proporção de dados corretamente classificados; capacidade de comparar escopos; clareza na explicação de trade-offs; número de suposições não sinalizadas; qualidade da justificativa da recomendação.
+
+**Fechamento PCH:** “A imagem desperta o desejo. A escuta revela a necessidade. A evidência sustenta a proposta. E a clareza devolve ao cliente a liberdade de escolher.”
+

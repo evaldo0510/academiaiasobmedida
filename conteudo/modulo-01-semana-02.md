@@ -357,3 +357,56 @@ Acompanhe a proporção de propostas com escopo e exclusões explícitos, a quan
 
 **Fechamento PCH:** “A imagem desperta o desejo. A escuta revela a necessidade. A evidência sustenta a proposta. E a clareza devolve ao cliente a liberdade de escolher.”
 
+
+
+---
+
+# Camada multimodal PCH — Ler, ouvir, enxergar e aplicar
+
+Esta camada complementa as aulas existentes sem substituir nem apagar o conteúdo original. Os recursos visuais e sonoros são propostas de produção; não devem ser tratados como mídia já publicada ou testada.
+
+## Aula 1 — Psicologia da decisão: como o cliente compara alternativas
+
+**Ouvir — roteiro de narração:** “Quando duas propostas parecem semelhantes, o cliente procura critérios para reduzir incerteza. Torne explícitas as diferenças de escopo, material, ferragem, prazo e serviço. Não use atalhos psicológicos para pressionar; use informação para facilitar comparação.”
+
+**Enxergar — sequência visual necessária:**
+1. Duas propostas lado a lado com escopo destacado.
+2. diagrama de critérios e trade-offs.
+3. exemplo de matriz ponderada preenchida..
+
+**Pausa de observação:** antes de consultar a explicação, descreva o que percebe na imagem. Depois, compare sua leitura com a narração e identifique o que mudou em sua compreensão.
+
+**Aplicar e recuperar:** realize o exercício já previsto na aula e, sem consultar o material, explique o critério principal, uma limitação e a evidência que sustentaria sua decisão.
+
+## Aula 2 — Percepção de luxo: o que torna um ambiente valioso?
+
+**Ouvir — roteiro de narração:** “Luxo não é uma etiqueta nem um preço isolado. Analise coerência, proporção, acabamento, funcionalidade, especificação e execução. Uma imagem inspira, mas não prova material, medida, desempenho ou viabilidade.”
+
+**Enxergar — sequência visual necessária:**
+1. Moodboard anotado.
+2. comparação de acabamento e detalhe construtivo.
+3. imagem de ambiente com escala, iluminação e circulação assinaladas..
+
+**Pausa de observação:** antes de consultar a explicação, descreva o que percebe na imagem. Depois, compare sua leitura com a narração e identifique o que mudou em sua compreensão.
+
+**Aplicar e recuperar:** realize o exercício já previsto na aula e, sem consultar o material, explique o critério principal, uma limitação e a evidência que sustentaria sua decisão.
+
+## Aula 3 — Construção de valor: apresentar opções sem confundir
+
+**Ouvir — roteiro de narração:** “Apresente alternativas comparáveis e explique o que muda e o que permanece. Relacione cada escolha a requisitos confirmados e identifique o que ainda depende de amostra, medição, ficha técnica ou aprovação.”
+
+**Enxergar — sequência visual necessária:**
+1. Tabela comparativa de três opções.
+2. sequência de apresentação de proposta.
+3. exemplo de memorial com status proposto/aprovado/pendente..
+
+**Pausa de observação:** antes de consultar a explicação, descreva o que percebe na imagem. Depois, compare sua leitura com a narração e identifique o que mudou em sua compreensão.
+
+**Aplicar e recuperar:** realize o exercício já previsto na aula e, sem consultar o material, explique o critério principal, uma limitação e a evidência que sustentaria sua decisão.
+
+## Exercício integrador multimodal
+Leia o caso e os critérios, ouça as narrações, interprete as imagens/diagramas e produza a entrega prática da semana. A avaliação deve observar a qualidade da decisão e sua justificativa, não a memorização isolada.
+
+**Acessibilidade e qualidade:** disponibilizar transcrição dos áudios; legendas para vídeos; descrição textual das imagens; rótulos além de cores; controles para pausar e repetir. Imagens conceituais não substituem ficha técnica, medição, norma ou validação profissional.
+
+**Status de produção:** roteiros e especificações didáticas registrados. Áudios, imagens e vídeos finais ainda precisam ser produzidos, revisados e testados na plataforma.

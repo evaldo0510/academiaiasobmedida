@@ -71,9 +71,9 @@ O projeto integrador deverá demonstrar a cadeia completa: compreender cliente e
 
 1. Formalizar esta matriz e alinhar README e interface à distinção entre estrutura planejada e conteúdo disponível.
 2. Revisar tecnicamente e pedagogicamente o primeiro conteúdo estruturado dos módulos 2 a 4 e validar as quatro etapas de cada módulo.
-3. Revisar tecnicamente e editorialmente os documentos canônicos iniciais dos Módulos 5 a 8 e alinhar cada etapa do HTML principal ao respectivo documento.
+3. Revisar tecnicamente e editorialmente os documentos canônicos iniciais dos Módulos 5 a 8 e conferir a correspondência de cada etapa com a interface.
 4. Revisar tecnicamente e editorialmente as duas semanas canônicas iniciais do Módulo 1, verificando referências, exercícios, rubricas e correspondência com as quatro etapas da interface.
-5. Revisar tecnicamente e editorialmente os documentos canônicos dos Módulos 5 a 15, conferir a correspondência entre documentos e interface e validar os questionários e referências; o teste funcional no navegador continua pendente.
+5. Revisar tecnicamente e editorialmente os documentos canônicos dos Módulos 9 a 15, conferir a correspondência entre documentos e interface e validar os questionários e referências; o teste funcional no navegador continua pendente.
 6. Testar conteúdo, navegação, acessibilidade, responsividade, áudio e persistência antes de declarar a formação publicada.
 
 **Nota de status:** esta matriz é a arquitetura curricular. Ela não significa que as 30 semanas estejam integralmente escritas, que os recursos audiovisuais estejam produzidos ou que a interface já esteja integrada.

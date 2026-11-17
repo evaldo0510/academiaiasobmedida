@@ -193,3 +193,66 @@ Meça fluxo, tempo de atravessamento, produtividade, aproveitamento, retrabalho,
 
 ### Fechamento PCH — do desenho à confiança
 “Quando o projeto é bem traduzido, a fábrica não precisa adivinhar. E quando a fábrica não precisa adivinhar, o cliente recebe mais do que um móvel: recebe a tranquilidade de um processo pensado.”
+
+
+---
+
+# Camada multimodal PCH — Ler, ouvir, enxergar e aplicar
+
+Nesta semana, o aluno deve acompanhar visualmente o fluxo de fabricação e ouvir a explicação das decisões críticas. A demonstração de máquinas é conceitual e não substitui treinamento, autorização, procedimento ou supervisão.
+
+## Aula 1 — Fluxo produtivo: do projeto liberado à peça pronta
+
+**Ler:** estudar etapas, documentos, responsáveis, pontos de bloqueio e critérios de liberação.
+
+**Ouvir — roteiro de narração:** “A peça não começa na máquina. Começa na informação liberada. Acompanhe o pedido: projeto e revisão, lista de peças, material, corte, usinagem, bordagem, conferência e expedição. Em cada passagem, pergunte: o que precisa chegar correto à próxima etapa? Uma dúvida crítica não deve seguir escondida. Ela precisa ser resolvida e registrada.”
+
+**Enxergar — sequência visual necessária:**
+1. Fluxograma do pedido à expedição, com entradas, saídas, responsáveis e pontos de inspeção.
+2. Exemplo de etiqueta de peça com código, ambiente, material, espessura, dimensões, bordas, veio e revisão.
+3. Fotografia ou ilustração de lote identificado e peças agrupadas por móvel.
+4. Diagrama simples de gargalo, espera, processamento e retrabalho.
+
+**Pausa de observação:** o aluno acompanha o fluxograma e identifica onde uma ferragem pendente deve bloquear a liberação do módulo afetado.
+
+**Aplicar:** mapear o fluxo de uma peça, atribuindo responsável, documento de entrada, saída, risco e critério de aceitação.
+
+## Aula 2 — Plano de corte, otimização e aproveitamento de chapas
+
+**Ler:** estudar lista de peças, dimensões úteis, kerf, margens, orientação do veio, defeitos, restrições e diferenças entre perdas inevitáveis e evitáveis.
+
+**Ouvir — roteiro de narração:** “Observe a chapa antes de distribuir as peças. A largura de corte consome material. O veio pode impedir uma rotação. Defeitos, margens e limites da máquina também importam. O melhor plano não é sempre o que mostra a menor sobra: precisa respeitar acabamento, segurança, sequência e identificação. Confira as premissas antes de aceitar o resultado do software.”
+
+**Enxergar — sequência visual necessária:**
+1. Diagrama anotado de uma chapa com peças, margens e linhas de corte.
+2. Comparação de dois planos: rotação livre e orientação obrigatória do padrão.
+3. Exemplo visual de kerf, sobra reutilizável e perda não reutilizável, com legenda.
+4. Tela ilustrativa de software de otimização com premissas visíveis, sem simular resultado real de programa não testado.
+
+**Pausa de observação:** o aluno aponta quais peças não podem ser rotacionadas e explica o motivo com base no sentido do padrão.
+
+**Aplicar:** elaborar lista de peças e comparar dois planos de corte, explicitando dimensões da chapa, kerf, margens, veio, restrições e critério de escolha.
+
+## Aula 3 — CNC, preparação de usinagem e controle de qualidade
+
+**Ler:** estudar o fluxo CAD, CAM, pós-processador e CNC; revisar verificações de arquivo, material, ferramenta, fixação, proteções, extração e primeira peça.
+
+**Ouvir — roteiro de narração:** “O arquivo percorre uma cadeia. O CAD descreve a geometria; o CAM organiza operações; o pós-processador adapta o programa ao controle; a máquina executa dentro de uma configuração específica. Um arquivo visualmente correto pode estar incompatível com unidade, origem, ferramenta ou fixação. Por isso, a equipe autorizada verifica o processo, as proteções e a primeira peça antes de liberar o lote.”
+
+**Enxergar — sequência visual necessária:**
+1. Diagrama CAD → CAM → pós-processador → CNC → inspeção.
+2. Ilustração anotada dos elementos de uma operação CNC, sem instrução operacional perigosa.
+3. Checklist visual pré-ciclo: revisão, material, ferramenta, fixação, origem, proteções e extração.
+4. Ficha visual de inspeção da primeira peça com dimensões, furos, rasgos, acabamento e resultado.
+5. Sinalização clara: demonstração didática não autoriza operação ou intervenção na máquina.
+
+**Pausa de observação:** o aluno recebe uma ficha simulada com unidade ou revisão divergente e deve indicar o bloqueio antes de qualquer ciclo.
+
+**Aplicar:** preencher ficha de preparação conceitual e inspeção de primeira peça com dados fictícios claramente identificados; apontar quem está autorizado a validar cada etapa.
+
+## Exercício integrador multimodal — do arquivo à peça conforme
+O aluno recebe um projeto liberado fictício, uma lista de peças, um plano de corte ilustrativo e uma ficha de inspeção. Deve ler as especificações, ouvir a narração do processo, interpretar os diagramas e apontar inconsistências antes da fabricação. Entregáveis: mapa do fluxo, lista revisada, análise do plano, checklist de bloqueios e ficha de inspeção simulada.
+
+**Verificação de aprendizagem:** sem consultar o material, o aluno explica a sequência CAD/CAM/CNC, identifica três riscos de informação e descreve por que a primeira peça precisa ser inspecionada antes de liberar o lote.
+
+**Acessibilidade e segurança:** áudio com transcrição; diagramas com descrição textual; vídeos legendados se produzidos; nenhum recurso deve mostrar remoção de proteção, bypass de intertravamento ou intervenção insegura. Não apresentar simulação como teste real da máquina.

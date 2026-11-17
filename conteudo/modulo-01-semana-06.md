@@ -189,3 +189,225 @@ Para sistemas de elevação, avalie dimensões/massa da frente, centro de gravid
 - **Aula 3:** Blum, ferramenta de configuração AVENTOS; Häfele e Hettich, catálogos de elevação e correr; manuais oficiais de instalação.
 
 Os nomes são exemplos de consulta, não recomendação de compra. Carga, quantidade, folgas e furação variam por linha e versão; validar no documento oficial do produto exato.
+
+
+---
+
+# Complemento de Aprendizagem Imersiva PCH — Semana 6
+
+O foco desta semana é transformar ferragens em especificações verificáveis. A seleção não deve ser feita apenas por aparência, preço ou familiaridade com a marca. O produto exato, sua documentação, as dimensões do móvel e as condições de uso precisam corresponder.
+
+## Aula 1 — Dobradiças: geometria, carga e regulagem
+
+### Resultado de aprendizagem observável
+Selecionar preliminarmente uma dobradiça a partir da geometria e dos dados da porta, localizar a documentação do modelo exato e identificar o que precisa de confirmação antes da fabricação.
+
+### Fundamentação aplicada
+A dobradiça é parte de um sistema: porta, braço, caneco, calço, parafusos, lateral e geometria de abertura. Recobrimento, espessura, ângulo, distância de furação, posição do calço e interferências determinam compatibilidade. Altura, largura, massa e distribuição do peso influenciam a seleção e a quantidade, mas os critérios variam por fabricante e linha.
+
+Regulagem é ajuste fino dentro da faixa prevista pelo produto. Não corrige porta empenada, caixa fora de esquadro, furação deslocada, fixação deficiente ou dimensionamento incorreto.
+
+### Visualização guiada PCH — A porta precisa abrir sem lutar contra o móvel
+“Imagine a porta fechada. Observe o encontro com a lateral, a folga, o puxador e a parede próxima. Agora acompanhe mentalmente o movimento até a abertura completa. Existe colisão? A porta alcança o ângulo necessário? O braço e o calço são compatíveis? A fixação encontra material suficiente? Antes de escolher a ferragem, compreenda a geometria. Antes de regular, descubra a causa. O movimento suave começa no projeto, não no último aperto do parafuso.”
+
+**Pausa de reflexão:** quando uma porta desalinha, você investiga a causa ou começa imediatamente a girar os parafusos de regulagem?
+
+### Sequência profissional
+1. Identifique o módulo e o tipo de porta.
+2. Registre altura, largura, espessura, material e massa estimada, incluindo acessórios.
+3. Determine recobrimento, posição, folgas e ângulo necessário.
+4. Verifique interferências com paredes, portas vizinhas, puxadores e componentes internos.
+5. Consulte a tabela, calculadora e desenho do fabricante para o código exato.
+6. Confirme dobradiça, calço, acessórios, parafusos e gabaritos compatíveis.
+7. Registre quantidade e posição conforme a recomendação aplicável.
+8. Confira substrato, furação, profundidade e distância de borda.
+9. Faça inspeção de montagem e regulagem conforme manual.
+10. Registre o resultado e qualquer desvio.
+
+**Ponto de parada:** sem dimensões, massa estimada e documentação do modelo exato, não feche quantidade ou especificação como definitiva.
+
+### Caso profissional
+Uma porta alta começa a raspar na base após a instalação. O aluno deve investigar esquadro, prumo, empenamento, distribuição de massa, posição e fixação das dobradiças, folgas e regulagem. Deve apresentar hipóteses em ordem de verificação, sem assumir que a ferragem é a causa.
+
+### Exercício
+Escolha uma porta de um projeto anonimizado. Monte uma ficha com medidas, material, peso estimado e método, código candidato, tabela oficial consultada, quantidade indicada, gabarito, folgas, interferências e pendências.
+
+### Avaliação por competência
+- **Levantamento:** dados geométricos e de massa completos.
+- **Compatibilidade:** modelo, calço e acessórios correspondentes.
+- **Fonte:** documentação oficial do código exato.
+- **Diagnóstico:** diferencia regulagem de falha construtiva.
+- **Registro:** deixa claras as pendências e a decisão.
+
+Níveis: 1 — Inicial (escolhe por hábito); 2 — Em desenvolvimento (consulta catálogo parcialmente); 3 — Competente (especifica com documentação e medidas); 4 — Consistente (antecipa interferências, registra critérios e diagnostica causas com método).
+
+### Transferência para o trabalho
+Em cada porta revisada, registre modelo e código da dobradiça, medidas relevantes, quantidade, evidência do fabricante e ocorrência de regulagem ou retrabalho. Observe se os problemas se concentram em levantamento, fabricação, ferragem ou instalação.
+
+---
+
+## Aula 2 — Corrediças: carga, curso e geometria da gaveta
+
+### Resultado de aprendizagem observável
+Comparar dois sistemas de corrediça e elaborar uma especificação preliminar que considere carga, dimensões, extração, folgas, fixação e condições de montagem.
+
+### Fundamentação aplicada
+A capacidade declarada deve ser lida junto com as condições do ensaio e as instruções do fabricante. Verifique se a carga indicada considera o par de corrediças, a massa da gaveta e a distribuição prevista. A capacidade da ferragem não equivale automaticamente à capacidade de toda a gaveta ou do móvel.
+
+A geometria da caixa é parte do mecanismo. Largura, profundidade, esquadro, paralelismo, folgas laterais, espessura do fundo, posição de parafusos e nivelamento interferem no funcionamento. Uma gaveta que trava pode ter problema de montagem, carga, deformação ou interferência, não necessariamente defeito de produto.
+
+### Visualização guiada PCH — A gaveta é um conjunto em movimento
+“Imagine uma gaveta carregada. Ela precisa sair reta, sustentar o conteúdo e retornar sem ruído ou esforço anormal. Observe os dois trilhos: estão paralelos? A caixa está no esquadro? A carga está distribuída? O curso corresponde ao acesso desejado? A ferragem foi instalada nas medidas do manual? Não avalie apenas o trilho. Avalie o conjunto que se movimenta.”
+
+**Pausa de reflexão:** você confere a caixa e as folgas antes de concluir que a corrediça está ruim?
+
+### Sequência profissional
+1. Defina o uso e o conteúdo esperado da gaveta.
+2. Estime a massa total e registre como a estimativa foi obtida.
+3. Identifique extração, comprimento e tipo de montagem desejados.
+4. Consulte capacidade, método de ensaio e condições de distribuição de carga.
+5. Confirme largura, profundidade, altura e folgas exigidas pelo modelo.
+6. Verifique espessuras, fundo, fixações, travas e acessórios.
+7. Confira esquadro da caixa e paralelismo dos trilhos.
+8. Instale segundo gabarito e manual.
+9. Teste operação dentro das condições previstas, sem exceder a carga declarada.
+10. Registre ruído, travamento, estabilidade, extração e ajustes.
+
+**Ponto de parada:** não use a capacidade nominal como permissão para sobrecarga, concentração de peso ou adaptação fora das condições do fabricante.
+
+### Caso profissional
+Uma gaveta de panelas apresenta movimento pesado e ruído no final do curso. O aluno deve elaborar uma sequência diagnóstica: carga e distribuição; largura e esquadro da caixa; paralelismo e nivelamento; parafusos e interferências; fixação; limpeza; código e condição da ferragem.
+
+### Exercício
+Compare uma corrediça telescópica e uma oculta. Preencha tipo, código, carga e condição declaradas, curso, comprimento, dimensões de caixa, folgas, usinagem, fixação, acessórios, regulagem, fonte e limitações. Marque “não informado” quando a documentação não trouxer o dado.
+
+### Avaliação por competência
+- **Leitura técnica:** interpreta carga e condições do fabricante.
+- **Compatibilidade:** relaciona ferragem e geometria da caixa.
+- **Instalação:** identifica folgas, paralelismo e fixação.
+- **Diagnóstico:** investiga causas antes de substituir.
+- **Segurança:** respeita limites e documenta testes.
+
+Níveis: 1 — Inicial (escolhe pelo comprimento ou preço); 2 — Em desenvolvimento (confere alguns dados); 3 — Competente (compatibiliza carga, dimensões e montagem); 4 — Consistente (especifica, testa e diagnostica com rastreabilidade).
+
+### Transferência para o trabalho
+Acompanhe ocorrências de gavetas pesadas, ruidosas ou desalinhadas. Classifique a causa confirmada e registre se a prevenção depende de briefing de carga, desenho, usinagem, instalação ou orientação de uso.
+
+---
+
+## Aula 3 — Sistemas de elevação, correr e mecanismos especiais
+
+### Resultado de aprendizagem observável
+Elaborar um estudo preliminar de mecanismo de elevação ou deslizamento, mapeando dimensões, massa, trajetória, interferências, riscos e dados oficiais necessários à seleção.
+
+### Fundamentação aplicada
+Mecanismos de elevação dependem da massa e geometria da frente, centro de gravidade, posição de montagem, curso e espaço disponível. Portas de correr dependem de peso, dimensões, trilhos, roldanas, guias, sobreposição, alinhamento e dispositivos de segurança. Pistões a gás também dependem de força, geometria e pontos de fixação; comprimento isolado não determina compatibilidade.
+
+Não misture componentes de linhas diferentes sem autorização documental do fabricante. O corpo do móvel e suas fixações precisam suportar os esforços transmitidos pelo mecanismo.
+
+### Visualização guiada PCH — Desenhe o movimento antes de comprar o mecanismo
+“Imagine a frente fechada. Agora acompanhe todo o percurso: onde começa, por onde passa e onde termina? O que pode colidir? Onde ficam mãos e dedos? O mecanismo sustenta a frente na posição prevista? Há acesso para regular e manter? Uma ferragem não é apenas uma peça no orçamento. É um movimento que precisa caber no espaço e funcionar com segurança.”
+
+**Pausa de reflexão:** você já verificou a trajetória completa ou apenas a aparência do mecanismo no catálogo?
+
+### Sequência profissional
+1. Identifique o tipo de movimento e a função.
+2. Registre dimensões, material e massa da frente ou porta.
+3. Determine espaço livre, trajetória, abertura e posição de parada.
+4. Marque interferências com teto, paredes, iluminação, puxadores e módulos.
+5. Consulte a ferramenta de seleção e manual oficiais do modelo.
+6. Verifique estrutura, fixações e compatibilidade entre componentes.
+7. Desenhe zonas de risco e pontos de acesso à manutenção.
+8. Registre acessórios, regulagens e limitações de uso.
+9. Planeje inspeção e teste de funcionamento.
+10. Oriente usuário sobre operação e sinais que exigem interrupção e assistência.
+
+**Ponto de parada:** diante de queda, soltura, deformação, ruído anormal ou risco de esmagamento, interrompa o uso do mecanismo afetado e encaminhe a inspeção.
+
+### Caso profissional
+Um armário aéreo receberá frente basculante larga e pesada. O aluno deverá identificar medidas finais, massa e centro de gravidade estimados, espaço de abertura, código candidato, seleção oficial, estrutura de fixação, interferências, riscos e pontos de manutenção.
+
+### Exercício
+Desenhe a trajetória de uma frente basculante e de uma porta de correr. Indique posições inicial e final, envelope de movimento, interferências, pontos de esmagamento, guias, batentes e acesso de manutenção. Anexe a referência do mecanismo utilizado.
+
+### Avaliação por competência
+- **Geometria:** representa o movimento completo.
+- **Seleção:** usa dados e ferramenta do fabricante.
+- **Compatibilização:** verifica estrutura, espaço e acessórios.
+- **Segurança:** identifica zonas de risco e medidas de prevenção.
+- **Manutenção:** prevê inspeção, acesso e orientação ao usuário.
+
+Níveis: 1 — Inicial (seleciona pela aparência); 2 — Em desenvolvimento (identifica dimensões, mas omite trajetória); 3 — Competente (compatibiliza movimento e documentação); 4 — Consistente (integra estrutura, segurança, instalação e manutenção).
+
+### Transferência para o trabalho
+Antes de liberar mecanismos especiais, anexe desenho de trajetória, código e manual. Após a instalação, registre inspeção, teste e orientação ao cliente. Acompanhe ocorrências de interferência e regulagem.
+
+---
+
+## Integração prática da Semana 6 — Especificar, instalar e verificar
+
+**Desafio:** detalhar uma porta com dobradiças, uma gaveta com corrediças e uma frente com mecanismo de elevação ou correr.
+
+**Entregáveis:** fichas técnicas; códigos e documentos oficiais; medidas e massas estimadas com método; desenhos de furação/folgas; trajetória; riscos; checklist de instalação; registro de teste e manutenção.
+
+**Critérios de aprovação:** nível mínimo 3 em cada competência; nenhum dado de capacidade inventado; documentação do modelo exato; compatibilidade dimensional; riscos identificados; pendências registradas.
+
+**Indicadores para o instrutor:** percentual de itens com código e manual; divergências entre especificação e produto recebido; falhas de folga/alinhamento; ocorrências de interferência; qualidade do diagnóstico e do registro.
+
+**Fechamento PCH:** “A ferragem certa não é a mais famosa nem a mais cara. É a que corresponde ao movimento, à estrutura e ao uso que foram realmente especificados.”
+
+
+---
+
+# Camada multimodal PCH — Ler, ouvir, enxergar e aplicar
+
+Esta camada complementa as aulas existentes sem substituir nem apagar o conteúdo original. Os recursos visuais e sonoros são propostas de produção; não devem ser tratados como mídia já publicada ou testada.
+
+## Aula 1 — Dobradiças e articulações
+
+**Ouvir — roteiro de narração:** “A dobradiça precisa corresponder à geometria da porta, recobrimento, ângulo, massa e montagem. Confira o modelo exato e seu manual. Regulagem não deve esconder erro de furação, esquadro ou especificação.”
+
+**Enxergar — sequência visual necessária:**
+1. Dobradiça explodida com componentes identificados.
+2. diagrama de recobrimentos.
+3. sequência ilustrativa de regulagem conforme manual..
+
+**Pausa de observação:** antes de consultar a explicação, descreva o que percebe na imagem. Depois, compare sua leitura com a narração e identifique o que mudou em sua compreensão.
+
+**Aplicar e recuperar:** realize o exercício já previsto na aula e, sem consultar o material, explique o critério principal, uma limitação e a evidência que sustentaria sua decisão.
+
+## Aula 2 — Corrediças, gavetas e sistemas de extração
+
+**Ouvir — roteiro de narração:** “Capacidade, extração, folgas e dimensões dependem do modelo e da construção da gaveta. Leia a ficha técnica e confira a compatibilidade do conjunto antes de liberar fabricação.”
+
+**Enxergar — sequência visual necessária:**
+1. Corte lateral de gaveta e corrediça.
+2. comparação de extração parcial/total.
+3. tabela de folgas e dimensões extraída de manual de modelo identificado..
+
+**Pausa de observação:** antes de consultar a explicação, descreva o que percebe na imagem. Depois, compare sua leitura com a narração e identifique o que mudou em sua compreensão.
+
+**Aplicar e recuperar:** realize o exercício já previsto na aula e, sem consultar o material, explique o critério principal, uma limitação e a evidência que sustentaria sua decisão.
+
+## Aula 3 — Sistemas de elevação, portas de correr e mecanismos especiais
+
+**Ouvir — roteiro de narração:** “Analise trajetória, massa da frente, espaço livre, interferências e acesso de manutenção. Não combine componentes de linhas diferentes sem confirmação do fabricante nem invente capacidades.”
+
+**Enxergar — sequência visual necessária:**
+1. Diagramas de trajetória.
+2. comparação de sistemas articulados/correr.
+3. mapa de interferências e zona de segurança..
+
+**Pausa de observação:** antes de consultar a explicação, descreva o que percebe na imagem. Depois, compare sua leitura com a narração e identifique o que mudou em sua compreensão.
+
+**Aplicar e recuperar:** realize o exercício já previsto na aula e, sem consultar o material, explique o critério principal, uma limitação e a evidência que sustentaria sua decisão.
+
+## Exercício integrador multimodal
+Leia o caso e os critérios, ouça as narrações, interprete as imagens/diagramas e produza a entrega prática da semana. A avaliação deve observar a qualidade da decisão e sua justificativa, não a memorização isolada.
+
+**Acessibilidade e qualidade:** disponibilizar transcrição dos áudios; legendas para vídeos; descrição textual das imagens; rótulos além de cores; controles para pausar e repetir. Imagens conceituais não substituem ficha técnica, medição, norma ou validação profissional.
+
+**Status de produção:** roteiros e especificações didáticas registrados. Áudios, imagens e vídeos finais ainda precisam ser produzidos, revisados e testados na plataforma.
+
+
+---

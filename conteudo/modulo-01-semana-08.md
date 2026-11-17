@@ -140,3 +140,65 @@ Cada imagem deve ter legenda: o que se pretende aproveitar e o que não está se
 - **Aula 3:** Ching (2018), *Interior Design Illustrated*; Norman (2004), *Emotional Design*; NKBA, diretrizes de planejamento quando aplicáveis.
 
 Princípios estéticos não são leis universais. A proposta deve respeitar briefing, ergonomia, acessibilidade, segurança, orçamento, manutenção e validação técnica. Imagem de referência não substitui amostra aprovada nem projeto executivo.
+
+
+---
+
+# Camada multimodal PCH — Ler, ouvir, enxergar e aplicar
+
+Nesta semana, o aluno deve perceber como composição, escala, cor, textura e iluminação se relacionam em um ambiente real. A mídia não será decoração: cada recurso visual ou sonoro deve ajudar a interpretar uma decisão de projeto.
+
+## Aula 1 — Composição, proporção e leitura do espaço
+
+**Ler:** manter os conceitos de unidade, variedade, equilíbrio, hierarquia, ritmo, contraste, escala e proporção. Ao final, oferecer uma síntese textual com exemplos de aplicação em sala compacta.
+
+**Ouvir — roteiro de narração:** “Observe primeiro o ambiente inteiro. Agora escolha o ponto focal. Acompanhe as linhas principais, os volumes e os espaços vazios. Perceba como o olhar percorre a parede e como o corpo atravessa o ambiente. Uma composição não é apenas um conjunto bonito: precisa respeitar circulação, alcance, abertura e manutenção. Compare as alternativas e explique o que cada uma favorece e o que pode prejudicar.”
+
+**Enxergar — sequência visual necessária:**
+1. Fotografia de ambiente compacto com legenda identificando ponto focal, circulação, vãos e mobiliário existente.
+2. Duas elevações comparativas da mesma parede: composição simétrica e assimétrica.
+3. Diagrama anotado de cheios/vazios, eixos, alinhamentos e áreas de circulação.
+4. Vista cotada ou esquema em escala para mostrar que a imagem de referência não substitui medida.
+
+**Pausa de observação:** antes de ouvir a explicação, o aluno marca três elementos que atraem seu olhar e um possível conflito de circulação. Depois compara sua leitura com o diagrama anotado.
+
+**Aplicar:** produzir duas elevações e justificar a solução escolhida com base em briefing, escala, circulação, função e manutenção.
+
+## Aula 2 — Paleta, materialidade, textura e iluminação
+
+**Ler:** consultar a explicação sobre paleta, materialidade, amostras, iluminação e manutenção. A ficha de cada material deve indicar fabricante, código, acabamento e fonte técnica quando disponível.
+
+**Ouvir — roteiro de narração:** “A mesma cor pode parecer diferente conforme a luz, a textura e o brilho. Observe a amostra perto da janela e depois sob a iluminação prevista. Perceba reflexos, sombras e contraste. Não decida somente pela tela. Compare o material real, identifique seu código e registre a aprovação. A estética precisa conversar com a manutenção e com o uso diário.”
+
+**Enxergar — sequência visual necessária:**
+1. Prancha de amostras identificadas, com padrões, texturas e níveis de brilho distintos.
+2. Comparação da mesma amostra sob luz natural e artificial, informando que a reprodução fotográfica não garante fidelidade de cor.
+3. Diagrama simples de iluminação geral, de tarefa e de destaque no ambiente.
+4. Detalhe de fita LED, perfil, driver e acesso de manutenção, com aviso de que dimensionamento e instalação elétrica exigem validação competente.
+
+**Pausa de observação:** o aluno identifica o que mudou na aparência da amostra e lista o que não pode concluir apenas pela fotografia.
+
+**Aplicar:** criar duas paletas com códigos reais e uma matriz de material, efeito visual, desempenho, limpeza, prazo, manutenção e aprovação.
+
+## Aula 3 — Do repertório estético ao briefing e à apresentação profissional
+
+**Ler:** estudar a diferença entre imagem de referência, moodboard, memorial descritivo e projeto executivo.
+
+**Ouvir — roteiro de narração:** “Uma imagem inspira, mas não informa tudo. Ao apresentar uma referência, explique o que será aproveitado: a cor, o ritmo, a textura ou a função. Mostre o que ainda não está definido. Depois apresente materiais identificados, pendências e decisões que precisam da aprovação do cliente. Clareza também faz parte do alto padrão.”
+
+**Enxergar — sequência visual necessária:**
+1. Moodboard com legenda por imagem: intenção aproveitada e elementos que não estão especificados.
+2. Exemplo de memorial descritivo com campos de código, acabamento, status, revisão e aprovação.
+3. Comparação lado a lado entre referência conceitual e detalhe executivo cotado.
+4. Exemplo de apresentação com status “referência”, “proposto”, “aprovado” e “pendente”.
+
+**Pausa de observação:** o aluno aponta, em um moodboard, três informações que ainda não podem ser consideradas especificação aprovada.
+
+**Aplicar:** apresentar um moodboard e memorial em até cinco minutos, narrando conceito, decisões, limites e pendências.
+
+## Exercício integrador multimodal — da imagem à decisão
+O estudante recebe uma fotografia de ambiente, uma prancha de materiais e uma breve narração do briefing. Deve ler o briefing, ouvir a explicação, interpretar as imagens, construir duas propostas e justificar a escolhida. Entregáveis: elevações, paleta identificada, moodboard legendado, memorial, áudio ou apresentação oral e lista de pendências.
+
+**Verificação de aprendizagem:** solicitar que o aluno explique sem consultar o material por que escolheu a composição, quais condições de luz alteram a leitura e quais informações ainda dependem de medição, amostra ou aprovação.
+
+**Acessibilidade:** todo áudio terá transcrição; cada imagem técnica terá legenda e descrição textual; cores serão identificadas também por nomes/códigos e rótulos. As imagens de amostra devem informar que fotografia e tela não substituem avaliação física.

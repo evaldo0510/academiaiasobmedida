@@ -247,3 +247,59 @@ Escolha um escritório com aderência real. Prepare uma conversa de 20 minutos c
 5. SEBRAE. Materiais de relacionamento com clientes e gestão comercial. [SEBRAE](https://sebrae.com.br/).
 
 > **Nota de rigor:** as práticas de relacionamento e gestão de projetos são recomendações profissionais, não garantias de indicação ou conversão. A responsabilidade por projetos, especificações, medições, instalações e segurança deve permanecer com os profissionais e empresas legalmente habilitados para cada atividade. Trate dados pessoais e imagens conforme a LGPD, com finalidade, base legal e transparência adequadas. Não utilize portfólios ou informações de clientes sem autorização.
+
+
+---
+
+# Camada multimodal PCH — Ler, ouvir, enxergar e aplicar
+
+Esta camada complementa as aulas existentes sem substituir nem apagar o conteúdo original. Os recursos visuais e sonoros são propostas de produção; não devem ser tratados como mídia já publicada ou testada.
+
+## Aula 1 — O papel do especificador e a lógica da parceria
+
+**Ouvir — roteiro de narração:** “Entenda quem influencia, especifica, aprova e executa. A parceria técnica depende de clareza de papéis, confiabilidade e respeito ao projeto do profissional.”
+
+**Enxergar — sequência visual necessária:**
+1. Mapa de stakeholders.
+2. fluxo de aprovação.
+3. caso de painel com iluminação e interfaces..
+
+**Pausa de observação:** antes de consultar a explicação, descreva o que percebe na imagem. Depois, compare sua leitura com a narração e identifique o que mudou em sua compreensão.
+
+**Aplicar e recuperar:** realize o exercício já previsto na aula e, sem consultar o material, explique o critério principal, uma limitação e a evidência que sustentaria sua decisão.
+
+## Aula 2 — Comunicação técnica, apresentação e confiança
+
+**Ouvir — roteiro de narração:** “Apresente desenhos, materiais, códigos, revisões e pendências em linguagem verificável. Uma apresentação profissional facilita a decisão porque reduz ambiguidades.”
+
+**Enxergar — sequência visual necessária:**
+1. Exemplo de kit técnico.
+2. prancha anotada.
+3. comparação entre comunicação vaga e comunicação rastreável..
+
+**Pausa de observação:** antes de consultar a explicação, descreva o que percebe na imagem. Depois, compare sua leitura com a narração e identifique o que mudou em sua compreensão.
+
+**Aplicar e recuperar:** realize o exercício já previsto na aula e, sem consultar o material, explique o critério principal, uma limitação e a evidência que sustentaria sua decisão.
+
+## Aula 3 — Gestão de relacionamento e oportunidades qualificadas
+
+**Ouvir — roteiro de narração:** “Registre contatos e próximos passos com finalidade e transparência. Proteja dados e imagens; não confunda relacionamento com promessa de indicação ou conversão.”
+
+**Enxergar — sequência visual necessária:**
+1. Mapa de relacionamento.
+2. pipeline com etapas.
+3. modelo de registro de reunião e consentimento de portfólio..
+
+**Pausa de observação:** antes de consultar a explicação, descreva o que percebe na imagem. Depois, compare sua leitura com a narração e identifique o que mudou em sua compreensão.
+
+**Aplicar e recuperar:** realize o exercício já previsto na aula e, sem consultar o material, explique o critério principal, uma limitação e a evidência que sustentaria sua decisão.
+
+## Exercício integrador multimodal
+Leia o caso e os critérios, ouça as narrações, interprete as imagens/diagramas e produza a entrega prática da semana. A avaliação deve observar a qualidade da decisão e sua justificativa, não a memorização isolada.
+
+**Acessibilidade e qualidade:** disponibilizar transcrição dos áudios; legendas para vídeos; descrição textual das imagens; rótulos além de cores; controles para pausar e repetir. Imagens conceituais não substituem ficha técnica, medição, norma ou validação profissional.
+
+**Status de produção:** roteiros e especificações didáticas registrados. Áudios, imagens e vídeos finais ainda precisam ser produzidos, revisados e testados na plataforma.
+
+
+---

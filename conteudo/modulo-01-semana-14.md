@@ -244,3 +244,56 @@ Desenhe a jornada de um projeto em seis momentos: primeiro contato, briefing, ap
 5. Autoridade Nacional de Proteção de Dados. [Guias orientativos e materiais sobre LGPD](https://www.gov.br/anpd/pt-br).
 
 > **Nota de rigor:** as ferramentas apresentadas são referências didáticas de gestão e não substituem contrato, normas aplicáveis, responsabilidade técnica ou orientação jurídica/contábil. A matriz RACI é um instrumento gerencial, não altera responsabilidades legais. A referência às normas ISO não significa que a MadePrimer ou qualquer organização esteja certificada. Prazos, garantias, critérios de aceite e tratamento de dados devem ser adequados ao contrato, à legislação e às condições reais de cada projeto.
+
+
+---
+
+# Camada multimodal PCH — Ler, ouvir, enxergar e aplicar
+
+Esta camada complementa as aulas existentes. Os roteiros e recursos visuais abaixo são especificações de produção, não mídias já publicadas.
+
+## Aula 1 — Escopo, planejamento e governança do projeto
+
+**Ouvir — roteiro de narração:** “Defina entregas, responsáveis, dependências, marcos, riscos e critérios de aceite. Mostre o que está incluído e como mudanças serão aprovadas.”
+
+**Enxergar — sequência visual necessária:**
+1. EAP visual.
+2. cronograma com caminho crítico.
+3. matriz RACI e mapa de riscos..
+
+**Pausa de observação:** descreva o que percebe antes de ouvir a explicação; depois compare sua leitura e identifique o detalhe que mudou sua compreensão.
+
+**Aplicar e recuperar:** realize o exercício da aula e, sem consultar o material, explique o critério principal, uma limitação e a evidência que sustentaria sua decisão.
+
+## Aula 2 — Jornada do cliente, comunicação e momentos da verdade
+
+**Ouvir — roteiro de narração:** “Mapeie o que o cliente precisa saber em cada etapa e como a equipe responde a mudanças ou falhas. Preserve rastreabilidade e confiança.”
+
+**Enxergar — sequência visual necessária:**
+1. Mapa da jornada.
+2. calendário de comunicação.
+3. diagrama de recuperação de serviço..
+
+**Pausa de observação:** descreva o que percebe antes de ouvir a explicação; depois compare sua leitura e identifique o detalhe que mudou sua compreensão.
+
+**Aplicar e recuperar:** realize o exercício da aula e, sem consultar o material, explique o critério principal, uma limitação e a evidência que sustentaria sua decisão.
+
+## Aula 3 — Controle de mudanças, qualidade e pós-venda
+
+**Ouvir — roteiro de narração:** “Registre solicitação, impacto em custo, prazo e escopo, aprovação, execução e verificação. Transforme ocorrências em aprendizagem.”
+
+**Enxergar — sequência visual necessária:**
+1. Fluxo de controle de mudanças.
+2. checklist de qualidade.
+3. painel previsto versus realizado..
+
+**Pausa de observação:** descreva o que percebe antes de ouvir a explicação; depois compare sua leitura e identifique o detalhe que mudou sua compreensão.
+
+**Aplicar e recuperar:** realize o exercício da aula e, sem consultar o material, explique o critério principal, uma limitação e a evidência que sustentaria sua decisão.
+
+## Exercício integrador multimodal
+Leia o caso, ouça as narrações, interprete os diagramas e produza a entrega prática da semana. Avalie a decisão, a justificativa e a capacidade de reconhecer limites.
+
+**Acessibilidade:** transcrição dos áudios, legendas para vídeos, descrição textual de imagens e rótulos além de cores. Diagramas e demonstrações não substituem documentação técnica ou validação profissional.
+
+**Status de produção:** roteiros e especificações registrados; arquivos finais de áudio, imagem e vídeo ainda precisam ser produzidos, revisados e testados na plataforma.

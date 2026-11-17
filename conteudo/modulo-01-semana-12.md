@@ -246,3 +246,59 @@ Objeção é informação a investigar, não resistência a vencer. Identifique 
 
 ### Fechamento PCH — a venda começa quando o cliente se reconhece
 “Eu não quero apenas mostrar o que sei projetar. Quero compreender o que você precisa viver. Meu trabalho é transformar essa compreensão em um projeto possível, bonito, funcional e bem conduzido. Se fizer sentido para você, vamos dar o próximo passo.”
+
+
+---
+
+# Camada multimodal PCH — Ler, ouvir, enxergar e aplicar
+
+Esta camada complementa as aulas existentes sem substituir nem apagar o conteúdo original. Os recursos visuais e sonoros são propostas de produção; não devem ser tratados como mídia já publicada ou testada.
+
+## Aula 1 — Diagnóstico consultivo: investigar antes de recomendar
+
+**Ouvir — roteiro de narração:** “Investigue contexto, usuários, rotina, prioridades, orçamento e restrições com perguntas abertas. Não transforme roteiro em interrogatório; devolva a compreensão e confirme os dados.”
+
+**Enxergar — sequência visual necessária:**
+1. Demonstração de entrevista.
+2. roteiro de descoberta.
+3. briefing anotado com pendências..
+
+**Pausa de observação:** antes de consultar a explicação, descreva o que percebe na imagem. Depois, compare sua leitura com a narração e identifique o que mudou em sua compreensão.
+
+**Aplicar e recuperar:** realize o exercício já previsto na aula e, sem consultar o material, explique o critério principal, uma limitação e a evidência que sustentaria sua decisão.
+
+## Aula 2 — Proposta de valor: transformar requisitos em uma solução compreensível
+
+**Ouvir — roteiro de narração:** “Cada requisito precisa encontrar uma solução e uma evidência. Explique alternativas, limites e diferenças de escopo. Não prometa desempenho que não esteja documentado.”
+
+**Enxergar — sequência visual necessária:**
+1. Matriz requisito/solução/evidência.
+2. proposta visual em três movimentos.
+3. comparação de alternativas..
+
+**Pausa de observação:** antes de consultar a explicação, descreva o que percebe na imagem. Depois, compare sua leitura com a narração e identifique o que mudou em sua compreensão.
+
+**Aplicar e recuperar:** realize o exercício já previsto na aula e, sem consultar o material, explique o critério principal, uma limitação e a evidência que sustentaria sua decisão.
+
+## Aula 3 — Objeções e negociação responsável
+
+**Ouvir — roteiro de narração:** “Uma objeção pode sinalizar dúvida, risco, condição ou desalinhamento. Investigue antes de responder. Negocie escopo, prazo ou condição com transparência, sem fabricar urgência ou escassez.”
+
+**Enxergar — sequência visual necessária:**
+1. Mapa de objeções por causa.
+2. diálogo de negociação comentado.
+3. quadro de concessões e impactos..
+
+**Pausa de observação:** antes de consultar a explicação, descreva o que percebe na imagem. Depois, compare sua leitura com a narração e identifique o que mudou em sua compreensão.
+
+**Aplicar e recuperar:** realize o exercício já previsto na aula e, sem consultar o material, explique o critério principal, uma limitação e a evidência que sustentaria sua decisão.
+
+## Exercício integrador multimodal
+Leia o caso e os critérios, ouça as narrações, interprete as imagens/diagramas e produza a entrega prática da semana. A avaliação deve observar a qualidade da decisão e sua justificativa, não a memorização isolada.
+
+**Acessibilidade e qualidade:** disponibilizar transcrição dos áudios; legendas para vídeos; descrição textual das imagens; rótulos além de cores; controles para pausar e repetir. Imagens conceituais não substituem ficha técnica, medição, norma ou validação profissional.
+
+**Status de produção:** roteiros e especificações didáticas registrados. Áudios, imagens e vídeos finais ainda precisam ser produzidos, revisados e testados na plataforma.
+
+
+---

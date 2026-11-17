@@ -26,7 +26,7 @@ A estrutura oficial é de 15 módulos e 30 semanas. A matriz completa está em [
 
 Os documentos canônicos iniciais dos Módulos 5 a 8 foram criados em `modulo-05-semanas-09-10.md` a `modulo-08-semanas-15-16.md`. Cada documento organiza quatro etapas em duas semanas e preserva o conteúdo-fonte anterior, incluindo aprofundamentos, exercícios, glossários e referências. Os arquivos legados `modulo-01-semana-05.md` a `modulo-01-semana-08.md` continuam intactos. As quatro etapas específicas também permanecem descritas no HTML principal; a revisão técnica/editorial final e a conferência de correspondência entre documento e interface ainda estão pendentes.
 
-## Acervo-fonte legado a migrar
+## Acervo-fonte legado preservado
 
 Os arquivos legados `modulo-01-semana-03.md` a `modulo-01-semana-15.md` permanecem preservados. As fontes 3 e 4 foram incorporadas como aprofundamento dos documentos canônicos do Módulo 1; as fontes 5 a 15 foram incorporadas aos documentos dos Módulos 5 a 15. Nada foi apagado. Permanecem pendentes revisão técnica/editorial e conferência entre documentos e interface. Os nomes legados não devem ser interpretados como semanas adicionais do Módulo 1 na arquitetura curricular final.
 

@@ -26,7 +26,7 @@ O padrão pedagógico oficial é a [Aprendizagem Imersiva PCH](docs/padrao-apren
 
 - A matriz curricular de 30 semanas foi formalizada.
 - Os Módulos 2 a 8 receberam conteúdo estruturado específico nas quatro etapas de cada módulo no HTML principal. Os Módulos 2 a 4 têm arquivos didáticos iniciais; os Módulos 5 a 8 agora têm documentos canônicos iniciais de duas semanas por módulo, preservando o acervo-fonte.
-- O acervo anterior de 15 semanas permanece preservado. As fontes legadas das semanas 5 a 8 foram incorporadas aos documentos canônicos iniciais dos Módulos 5 a 8; as demais fontes ainda precisam de revisão e migração.
+- O acervo anterior de 15 semanas permanece preservado. As fontes legadas das semanas 5 a 15 foram incorporadas a documentos canônicos iniciais dos Módulos 5 a 15; a revisão técnica/editorial e a integração desses documentos com a interface ainda estão pendentes.
 - A camada multimodal foi integrada às 60 etapas: voz do dispositivo, gravação/envio de voz humana com armazenamento local, mapa visual conceitual, visualização guiada PCH, aplicação e recuperação ativa. Narrações profissionais e imagens/vídeos específicos ainda não foram produzidos; teste funcional e publicação permanecem pendentes.
-- Os Módulos 9 a 15 ainda precisam de conteúdo técnico aprofundado específico; a camada multimodal comum não substitui esse trabalho.
+- Os Módulos 9 a 15 já têm documentos canônicos iniciais derivados do acervo legado, mas a interface ainda usa conteúdo-base genérico nessas etapas. A camada multimodal comum não substitui a integração e o aprofundamento específico.
 - A existência de uma semana na matriz não significa que ela esteja publicada ou liberada ao aluno.

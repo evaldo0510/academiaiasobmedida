@@ -10,14 +10,18 @@ A estrutura oficial é de 15 módulos e 30 semanas. A matriz completa está em [
 | 2. Neuroarquitetura e psicologia ambiental | 3–4 | `modulo-02-semana-03.md`, `modulo-02-semana-04.md` | Conteúdo inicial e quatro etapas específicas no HTML principal; revisão/teste pendentes |
 | 3. Ergonomia e antropometria | 5–6 | `modulo-03-semana-05.md`, `modulo-03-semana-06.md` | Conteúdo inicial e quatro etapas específicas no HTML principal; revisão/teste pendentes |
 | 4. Arquitetura, leitura de plantas e compatibilização | 7–8 | `modulo-04-semana-07.md`, `modulo-04-semana-08.md` | Conteúdo inicial e quatro etapas específicas no HTML principal; revisão/teste pendentes |
+| 5. Ciência dos materiais e especificação técnica | 9–10 | `modulo-05-semanas-09-10.md` | Documento canônico inicial, com quatro etapas mapeadas e conteúdo-fonte preservado; revisão/teste pendentes |
+| 6. Ferragens e sistemas de movimentação | 11–12 | `modulo-06-semanas-11-12.md` | Documento canônico inicial, com quatro etapas mapeadas e conteúdo-fonte preservado; revisão/teste pendentes |
+| 7. Engenharia de mobiliário e detalhamento construtivo | 13–14 | `modulo-07-semanas-13-14.md` | Documento canônico inicial, com quatro etapas mapeadas e conteúdo-fonte preservado; revisão/teste pendentes |
+| 8. Design de interiores e linguagem do alto padrão | 15–16 | `modulo-08-semanas-15-16.md` | Documento canônico inicial, com quatro etapas mapeadas e conteúdo-fonte preservado; revisão/teste pendentes |
 
 ## Conteúdo dos Módulos 5 a 8
 
-Os arquivos-fonte antigos das semanas 5 a 8 foram preservados. O HTML principal recebeu quatro etapas específicas para cada um dos Módulos 5, 6, 7 e 8. A migração dos conteúdos para documentos canônicos com duas semanas por módulo, revisão e referências consolidadas ainda precisa ser concluída.
+Os documentos canônicos iniciais dos Módulos 5 a 8 foram criados em `modulo-05-semanas-09-10.md` a `modulo-08-semanas-15-16.md`. Cada documento organiza quatro etapas em duas semanas e preserva o conteúdo-fonte anterior, incluindo aprofundamentos, exercícios, glossários e referências. Os arquivos legados `modulo-01-semana-05.md` a `modulo-01-semana-08.md` continuam intactos. As quatro etapas específicas também permanecem descritas no HTML principal; a revisão técnica/editorial final e a conferência de correspondência entre documento e interface ainda estão pendentes.
 
 ## Acervo-fonte legado a migrar
 
-Os arquivos `modulo-01-semana-03.md` a `modulo-01-semana-15.md` permanecem preservados como material-fonte. Seus temas correspondem, em grande parte, aos Módulos 1 e 5 a 15 da matriz. Eles não devem ser interpretados como 13 semanas adicionais do Módulo 1 na arquitetura curricular final.
+Os arquivos `modulo-01-semana-03.md` a `modulo-01-semana-15.md` permanecem preservados como material-fonte legado. Seus temas correspondem, em grande parte, aos Módulos 1 e 5 a 15 da matriz. Os conteúdos das semanas legadas 5 a 8 já foram incorporados aos documentos canônicos iniciais dos Módulos 5 a 8, sem apagar os originais. Os demais arquivos ainda precisam ser migrados e aprofundados. Os nomes legados não devem ser interpretados como semanas adicionais do Módulo 1 na arquitetura curricular final.
 
 A migração deve dividir e aprofundar esses materiais em duas semanas específicas por módulo, conforme a matriz. O trabalho ainda não foi concluído.
 

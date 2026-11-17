@@ -25,8 +25,8 @@ O padrão pedagógico oficial é a [Aprendizagem Imersiva PCH](docs/padrao-apren
 ### Situação editorial
 
 - A matriz curricular de 30 semanas foi formalizada.
-- Os Módulos 2 a 8 receberam conteúdo estruturado específico nas quatro etapas de cada módulo no HTML principal. Os Módulos 2 a 4 têm arquivos didáticos iniciais; os Módulos 5 a 8 agora têm documentos canônicos iniciais de duas semanas por módulo, preservando o acervo-fonte.
+- Os Módulos 2 a 15 receberam conteúdo específico nas quatro etapas de cada módulo no HTML principal desta branch. Os Módulos 2 a 15 têm documentos canônicos iniciais de duas semanas por módulo; o Módulo 1 também foi consolidado em duas semanas, incorporando as fontes legadas 3 e 4.
 - O acervo anterior de 15 semanas permanece preservado. As fontes legadas das semanas 5 a 15 foram incorporadas a documentos canônicos iniciais dos Módulos 5 a 15; a revisão técnica/editorial e a integração desses documentos com a interface ainda estão pendentes.
 - A camada multimodal foi integrada às 60 etapas: voz do dispositivo, gravação/envio de voz humana com armazenamento local, mapa visual conceitual, visualização guiada PCH, aplicação e recuperação ativa. Narrações profissionais e imagens/vídeos específicos ainda não foram produzidos; teste funcional e publicação permanecem pendentes.
-- Os Módulos 9 a 15 já têm documentos canônicos iniciais derivados do acervo legado e quatro etapas específicas integradas ao HTML principal nesta branch. A revisão técnica/editorial e o teste funcional ainda estão pendentes.
+- Os documentos canônicos dos Módulos 1 a 15 ainda exigem revisão técnica/editorial, conferência entre conteúdo e interface e teste funcional. A existência de conteúdo específico na branch não significa que ele esteja publicado.
 - A existência de uma semana na matriz não significa que ela esteja publicada ou liberada ao aluno.

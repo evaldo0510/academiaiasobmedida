@@ -14,13 +14,13 @@ A estrutura oficial é de 15 módulos e 30 semanas. A matriz completa está em [
 | 6. Ferragens e sistemas de movimentação | 11–12 | `modulo-06-semanas-11-12.md` | Documento canônico inicial, com quatro etapas mapeadas e conteúdo-fonte preservado; revisão/teste pendentes |
 | 7. Engenharia de mobiliário e detalhamento construtivo | 13–14 | `modulo-07-semanas-13-14.md` | Documento canônico inicial, com quatro etapas mapeadas e conteúdo-fonte preservado; revisão/teste pendentes |
 | 8. Design de interiores e linguagem do alto padrão | 15–16 | `modulo-08-semanas-15-16.md` | Documento canônico inicial, com quatro etapas mapeadas e conteúdo-fonte preservado; revisão/teste pendentes |
-| 9. Fabricação, CNC e produtividade | 17–18 | `modulo-09-semanas-17-18.md` | Documento canônico inicial; interface ainda usa conteúdo-base genérico; revisão/teste pendentes |
-| 10. Instalação, montagem e controle de qualidade | 19–20 | `modulo-10-semanas-19-20.md` | Documento canônico inicial; interface ainda usa conteúdo-base genérico; revisão/teste pendentes |
-| 11. Gestão financeira e rentabilidade | 21–22 | `modulo-11-semanas-21-22.md` | Documento canônico inicial; interface ainda usa conteúdo-base genérico; revisão/teste pendentes |
-| 12. Venda consultiva e negociação de alto padrão | 23–24 | `modulo-12-semanas-23-24.md` | Documento canônico inicial; interface ainda usa conteúdo-base genérico; revisão/teste pendentes |
-| 13. Relacionamento com arquitetos e especificadores | 25–26 | `modulo-13-semanas-25-26.md` | Documento canônico inicial; interface ainda usa conteúdo-base genérico; revisão/teste pendentes |
-| 14. Gestão de projetos e experiência do cliente | 27–28 | `modulo-14-semanas-27-28.md` | Documento canônico inicial; interface ainda usa conteúdo-base genérico; revisão/teste pendentes |
-| 15. IA e transformação digital na marcenaria | 29–30 | `modulo-15-semanas-29-30.md` | Documento canônico inicial; interface ainda usa conteúdo-base genérico; revisão/teste pendentes |
+| 9. Fabricação, CNC e produtividade | 17–18 | `modulo-09-semanas-17-18.md` | Documento canônico inicial; quatro etapas específicas integradas ao HTML principal nesta branch; revisão/teste pendentes |
+| 10. Instalação, montagem e controle de qualidade | 19–20 | `modulo-10-semanas-19-20.md` | Documento canônico inicial; quatro etapas específicas integradas ao HTML principal nesta branch; revisão/teste pendentes |
+| 11. Gestão financeira e rentabilidade | 21–22 | `modulo-11-semanas-21-22.md` | Documento canônico inicial; quatro etapas específicas integradas ao HTML principal nesta branch; revisão/teste pendentes |
+| 12. Venda consultiva e negociação de alto padrão | 23–24 | `modulo-12-semanas-23-24.md` | Documento canônico inicial; quatro etapas específicas integradas ao HTML principal nesta branch; revisão/teste pendentes |
+| 13. Relacionamento com arquitetos e especificadores | 25–26 | `modulo-13-semanas-25-26.md` | Documento canônico inicial; quatro etapas específicas integradas ao HTML principal nesta branch; revisão/teste pendentes |
+| 14. Gestão de projetos e experiência do cliente | 27–28 | `modulo-14-semanas-27-28.md` | Documento canônico inicial; quatro etapas específicas integradas ao HTML principal nesta branch; revisão/teste pendentes |
+| 15. IA e transformação digital na marcenaria | 29–30 | `modulo-15-semanas-29-30.md` | Documento canônico inicial; quatro etapas específicas integradas ao HTML principal nesta branch; revisão/teste pendentes |
 
 ## Conteúdo dos Módulos 5 a 8
 
@@ -28,9 +28,9 @@ Os documentos canônicos iniciais dos Módulos 5 a 8 foram criados em `modulo-05
 
 ## Acervo-fonte legado a migrar
 
-Os arquivos legados `modulo-01-semana-03.md` a `modulo-01-semana-15.md` permanecem preservados. O conteúdo das semanas 5 a 15 foi incorporado a documentos canônicos iniciais dos Módulos 5 a 15, sem apagar os originais. Esses documentos ainda exigem revisão técnica/editorial e integração com a interface; nos Módulos 9 a 15, o HTML ainda usa conteúdo-base genérico. As fontes antigas das semanas 3 e 4 e a consolidação do Módulo 1 continuam pendentes. Os nomes legados não devem ser interpretados como semanas adicionais do Módulo 1 na arquitetura curricular final.
+Os arquivos legados `modulo-01-semana-03.md` a `modulo-01-semana-15.md` permanecem preservados. O conteúdo das semanas 5 a 15 foi incorporado a documentos canônicos iniciais dos Módulos 5 a 15, sem apagar os originais. Os Módulos 5 a 15 agora têm quatro etapas específicas no HTML principal desta branch. Permanecem pendentes a revisão técnica/editorial, a conferência entre documento e interface, a consolidação do Módulo 1 e a revisão das fontes antigas das semanas 3 e 4. Os nomes legados não devem ser interpretados como semanas adicionais do Módulo 1 na arquitetura curricular final.
 
-A migração documental inicial das fontes legadas 5 a 15 foi realizada. Permanecem pendentes a revisão técnica/editorial, a consolidação do Módulo 1, o alinhamento entre os documentos e o conteúdo exibido no HTML, e a integração dos Módulos 9 a 15 à interface.
+A migração documental inicial das fontes legadas 5 a 15 foi realizada e os conteúdos específicos dos Módulos 5 a 15 foram integrados ao HTML principal nesta branch. Permanecem pendentes revisão técnica/editorial, consolidação do Módulo 1, conferência de correspondência entre documentos e interface, teste funcional e publicação.
 
 ## Status das mídias e da plataforma
 

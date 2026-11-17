@@ -6,7 +6,7 @@ A estrutura oficial é de 15 módulos e 30 semanas. A matriz completa está em [
 
 | Módulo | Semanas globais | Arquivos | Situação |
 |---|---:|---|---|
-| 1. Psicologia do consumidor | 1–2 | `modulo-01-semana-01.md`, `modulo-01-semana-02.md` | Conteúdo-fonte disponível; consolidação em duas semanas requer revisão |
+| 1. Psicologia do consumidor | 1–2 | `modulo-01-semana-01.md`, `modulo-01-semana-02.md` | Documentos canônicos iniciais com quatro etapas; fontes legadas 3–4 incorporadas; revisão/teste pendentes |
 | 2. Neuroarquitetura e psicologia ambiental | 3–4 | `modulo-02-semana-03.md`, `modulo-02-semana-04.md` | Conteúdo inicial e quatro etapas específicas no HTML principal; revisão/teste pendentes |
 | 3. Ergonomia e antropometria | 5–6 | `modulo-03-semana-05.md`, `modulo-03-semana-06.md` | Conteúdo inicial e quatro etapas específicas no HTML principal; revisão/teste pendentes |
 | 4. Arquitetura, leitura de plantas e compatibilização | 7–8 | `modulo-04-semana-07.md`, `modulo-04-semana-08.md` | Conteúdo inicial e quatro etapas específicas no HTML principal; revisão/teste pendentes |
@@ -28,10 +28,10 @@ Os documentos canônicos iniciais dos Módulos 5 a 8 foram criados em `modulo-05
 
 ## Acervo-fonte legado a migrar
 
-Os arquivos legados `modulo-01-semana-03.md` a `modulo-01-semana-15.md` permanecem preservados. O conteúdo das semanas 5 a 15 foi incorporado a documentos canônicos iniciais dos Módulos 5 a 15, sem apagar os originais. Os Módulos 5 a 15 agora têm quatro etapas específicas no HTML principal desta branch. Permanecem pendentes a revisão técnica/editorial, a conferência entre documento e interface, a consolidação do Módulo 1 e a revisão das fontes antigas das semanas 3 e 4. Os nomes legados não devem ser interpretados como semanas adicionais do Módulo 1 na arquitetura curricular final.
+Os arquivos legados `modulo-01-semana-03.md` a `modulo-01-semana-15.md` permanecem preservados. As fontes 3 e 4 foram incorporadas como aprofundamento dos documentos canônicos do Módulo 1; as fontes 5 a 15 foram incorporadas aos documentos dos Módulos 5 a 15. Nada foi apagado. Permanecem pendentes revisão técnica/editorial e conferência entre documentos e interface. Os nomes legados não devem ser interpretados como semanas adicionais do Módulo 1 na arquitetura curricular final.
 
-A migração documental inicial das fontes legadas 5 a 15 foi realizada e os conteúdos específicos dos Módulos 5 a 15 foram integrados ao HTML principal nesta branch. Permanecem pendentes revisão técnica/editorial, consolidação do Módulo 1, conferência de correspondência entre documentos e interface, teste funcional e publicação.
+A migração documental inicial das fontes legadas 3 a 15 foi realizada e os conteúdos específicos dos Módulos 5 a 15 foram integrados ao HTML principal nesta branch. Permanecem pendentes revisão técnica/editorial, conferência de correspondência entre documentos e interface, teste funcional e publicação.
 
 ## Status das mídias e da plataforma
 
-A camada multimodal foi integrada ao HTML principal para as 60 etapas: leitura, áudio por voz do dispositivo, gravação/envio de voz humana armazenada localmente, mapa visual conceitual, visualização guiada PCH, aplicação e recuperação ativa. Isso não significa que existam narrações profissionais ou imagens/vídeos reais para todas as etapas. Os módulos 9 a 15 ainda usam conteúdo-base genérico e precisam de aprofundamento disciplinar. O teste funcional no navegador e a publicação continuam pendentes.
+A camada multimodal foi integrada ao HTML principal para as 60 etapas: leitura, áudio por voz do dispositivo, gravação/envio de voz humana armazenada localmente, mapa visual conceitual, visualização guiada PCH, aplicação e recuperação ativa. Isso não significa que existam narrações profissionais ou imagens/vídeos reais para todas as etapas. Os módulos 9 a 15 receberam conteúdo específico por etapa nesta branch; revisão e teste funcional continuam pendentes. O teste funcional no navegador e a publicação continuam pendentes.

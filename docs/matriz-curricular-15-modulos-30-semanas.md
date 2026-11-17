@@ -14,7 +14,7 @@ A arquitetura preserva os temas já existentes e distribui os conteúdos por afi
 
 | Módulo | Competência central | Semana 1 do módulo | Semana 2 do módulo | Conteúdo-fonte e situação |
 |---|---|---|---|---|
-| 1. Psicologia do consumidor e comportamento humano | Investigar contexto, necessidades, preferências e decisão sem rotular ou pressionar | **Semana 1:** pedido, necessidade, expectativa, escuta e briefing | **Semana 2:** decisão, valor percebido, jornada, personalidade e estilo de vida | Reaproveitar fontes antigas 1–4; consolidar em duas semanas canônicas |
+| 1. Psicologia do consumidor e comportamento humano | Investigar contexto, necessidades, preferências e decisão sem rotular ou pressionar | **Semana 1:** pedido, necessidade, escuta, motivação e jornada | **Semana 2:** valor percebido, decisão, briefing, estilo de vida e perfis de uso sem rótulos | Documentos canônicos iniciais em `conteudo/modulo-01-semana-01.md` e `conteudo/modulo-01-semana-02.md`; fontes 3–4 incorporadas como aprofundamento; revisão/teste pendentes |
 | 2. Neuroarquitetura e psicologia ambiental | Analisar como características do ambiente se relacionam com percepção, experiência e comportamento | **Semana 3:** percepção sensorial, estímulos, conforto e psicologia ambiental | **Semana 4:** memória, comportamento espacial, privacidade, territorialidade e natureza | Conteúdo canônico inicial e quatro etapas específicas integradas ao HTML principal nesta branch; revisão técnica e teste no navegador pendentes |
 | 3. Ergonomia e antropometria | Traduzir dimensões humanas e tarefas em requisitos espaciais e funcionais | **Semana 5:** antropometria, medidas, alcance e zonas de uso | **Semana 6:** ergonomia aplicada a cozinhas, closets, banheiros e home offices; acessibilidade | Lacuna de conteúdo específico; produzir |
 | 4. Arquitetura, leitura de plantas e compatibilização | Interpretar documentos arquitetônicos e identificar interfaces e conflitos | **Semana 7:** escalas, símbolos, cotas, plantas, cortes e elevações | **Semana 8:** levantamento, instalações, interferências e compatibilização interdisciplinar | Lacuna de conteúdo específico; produzir |
@@ -72,7 +72,7 @@ O projeto integrador deverá demonstrar a cadeia completa: compreender cliente e
 1. Formalizar esta matriz e alinhar README e interface à distinção entre estrutura planejada e conteúdo disponível.
 2. Revisar tecnicamente e pedagogicamente o primeiro conteúdo estruturado dos módulos 2 a 4 e validar as quatro etapas de cada módulo.
 3. Revisar tecnicamente e editorialmente os documentos canônicos iniciais dos Módulos 5 a 8 e alinhar cada etapa do HTML principal ao respectivo documento.
-4. Consolidar o módulo 1 em duas semanas canônicas, reaproveitando as fontes 1–4.
+4. Revisar tecnicamente e editorialmente as duas semanas canônicas iniciais do Módulo 1, verificando referências, exercícios, rubricas e correspondência com as quatro etapas da interface.
 5. Revisar tecnicamente e editorialmente os documentos canônicos dos Módulos 5 a 15, conferir a correspondência entre documentos e interface e validar os questionários e referências; o teste funcional no navegador continua pendente.
 6. Testar conteúdo, navegação, acessibilidade, responsividade, áudio e persistência antes de declarar a formação publicada.
 
